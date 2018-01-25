@@ -46,7 +46,7 @@
 
                     "shiftEndDateTime": "2018-01-24T23:59:59+00:00",
 
-                    "vehicleWeight": 2147483647,
+                   "vehicleWeight": 2147483647,
 
                     "vehicleVolume": 2147483647,
 
@@ -64,7 +64,7 @@
 
                     "action": null,
 
-                    "vehicleRuleShiftWindow": null,
+                   "vehicleRuleShiftWindow": null,
 
                     "isVirtual": "Y",
 
@@ -78,7 +78,7 @@
 
                         "solutionActivities": [],
 
-                       "carrier": null,
+                        "carrier": null,
 
                         "calculatedTravelTime": 0,
 
@@ -1066,7 +1066,7 @@
 
                                 "id": null,
 
-                               "reservationId": "A499D446-EE6E-43A4-B646-31BF8E3ED284",
+                                "reservationId": "A499D446-EE6E-43A4-B646-31BF8E3ED284",
 
                                 "fromTime": "2018-01-24T07:15:00+00:00",
 
@@ -1092,7 +1092,7 @@
 
                                 "calculatedTravelTime": 10.19,
 
-                                "actualTravelTime": 9.16,
+                               "actualTravelTime": 9.16,
 
                                 "deliverySequenceNumber": 16,
 
@@ -1598,7 +1598,7 @@
 
                                 "latitude": 52.045278,
 
-                               "longitude": -4.472382,
+                                "longitude": -4.472382,
 
                                 "serviceTime": 6,
 
@@ -1952,7 +1952,7 @@
 
                                 "reservationId": "5E7AF295-0685-4332-B257-E9CFC5096C4D",
 
-                               "fromTime": "2018-01-24T07:15:00+00:00",
+                                "fromTime": "2018-01-24T07:15:00+00:00",
 
                                 "toTime": "2018-01-24T13:59:00+00:00",
 
@@ -2386,7 +2386,7 @@
 
                                 "activityType": "ORDER",
 
-                                "tags": "DEFAULT",
+                               "tags": "DEFAULT",
 
                                 "vehicleName": "VAN-3-4251",
 
@@ -2464,7 +2464,7 @@
 
                                 "status": "CONFIRMED",
 
-                                "maxAcceptableDelay": 239,
+                               "maxAcceptableDelay": 239,
 
                                 "locked": true
 
@@ -4284,7 +4284,7 @@
 
                                 "calculatedTravelTime": 19.35,
 
-                                "actualTravelTime": 17.41,
+                               "actualTravelTime": 17.41,
 
                                 "deliverySequenceNumber": 17,
 
@@ -5228,7 +5228,7 @@
 
                                 "calculatedTravelTime": 17.93,
 
-                               "actualTravelTime": 16.12,
+                                "actualTravelTime": 16.12,
 
                                 "deliverySequenceNumber": 13,
 
@@ -5302,7 +5302,7 @@
 
                                 "customerRefNum": null,
 
-                                "postalcode": "SA612HA",
+                               "postalcode": "SA612HA",
 
                                 "orderNumber": "18944719640",
 
@@ -5384,7 +5384,7 @@
 
                                 "reservationId": "2FBAA786-5DE4-4E25-8A78-C3FEFEF8E7A8",
 
-                               "fromTime": "2018-01-24T14:00:00+00:00",
+                                "fromTime": "2018-01-24T14:00:00+00:00",
 
                                 "toTime": "2018-01-24T22:00:00+00:00",
 
@@ -5408,7 +5408,7 @@
 
                                 "calculatedTravelTime": 20.14,
 
-                               "actualTravelTime": 18.12,
+                                "actualTravelTime": 18.12,
 
                                 "deliverySequenceNumber": 16,
 
@@ -6044,7 +6044,7 @@
 
                                 "capacityVolume": 55.99,
 
-                                "capacityValue3": 1,
+                               "capacityValue3": 1,
 
                                 "arrivalDateTime": "2018-01-24T19:00:16+00:00",
 
@@ -6178,7 +6178,7 @@
 
                                 "activityType": "ORDER",
 
-                               "tags": "DEFAULT",
+                                "tags": "DEFAULT",
 
                                 "vehicleName": "VAN-3-4251",
 
@@ -6568,7 +6568,7 @@
 
                                 "reservationId": "4E4A77AE-A735-48D4-B983-0C27BAEFB600",
 
-                                "fromTime": "2018-01-24T14:30:00+00:00",
+                               "fromTime": "2018-01-24T14:30:00+00:00",
 
                                 "toTime": "2018-01-24T22:00:00+00:00",
 
@@ -6638,7 +6638,7 @@
 
                     "vehicleName": "VAN-3-4251",
 
-                   "serviceProvider": "OWN_FLEET",
+                    "serviceProvider": "OWN_FLEET",
 
                     "carrier": "FLEET",
 
@@ -6662,7 +6662,7 @@
 
                         {
 
-                           "id": "704911bb-b2a0-4bb5-87ac-797c24611c5f",
+                            "id": "704911bb-b2a0-4bb5-87ac-797c24611c5f",
 
                             "startOffSet": 210,
 
@@ -6736,7 +6736,7 @@
 
             "createdBy": "batch",
 
-            "modifiedBy": "batch",
+           "modifiedBy": "batch",
 
             "appCreatedDate": "2017-12-15T00:00:05+00:00",
 
@@ -6800,1695 +6800,13 @@
 
                         "problemShiftId": null,
 
-                        "solutionActivities": [
-
-                            {
-
-                                "id": null,
-
-                                "reservationId": "18938846468180123121924268",
-
-                                "fromTime": "2018-01-25T12:00:00+00:00",
-
-                                "toTime": "2018-01-25T14:00:00+00:00",
-
-                                "latitude": 51.856169,
-
-                                "longitude": -4.316757,
-
-                                "serviceTime": 6,
-
-                                "serviceTime_MMSS": "6:28",
-
-                                "capacityWeight": 27.184,
-
-                                "capacityVolume": 62,
-
-                                "capacityValue3": 1,
-
-                                "arrivalDateTime": "2018-01-25T14:15:46+00:00",
-
-                                "calculatedMileage": 36.96,
-
-                                "calculatedTravelTime": 57.53,
-
-                                "actualTravelTime": 0,
-
-                                "deliverySequenceNumber": 1,
-
-                                "activityType": "ORDER",
-
-                                "tags": "DEFAULT",
-
-                                "vehicleName": "FREE_BAR_VAN",
-
-                                "departureTime": "2018-01-25T14:22:14+00:00",
-
-                                "customerRefNum": null,
-
-                                "postalcode": "SA313DF",
-
-                                "orderNumber": "18948146268",
-
-                                "shiftAttributes": "DEFAULT",
-
-                                "shiftId": "FREE_BAR_SHIFT",
-
-                                "status": "CONFIRMED",
-
-                                "maxAcceptableDelay": 0,
-
-                                "locked": false
-
-                            },
-
-                            {
-
-                                "id": null,
-
-                                "reservationId": "18945681061180123140804743",
-
-                                "fromTime": "2018-01-25T13:00:00+00:00",
-
-                                "toTime": "2018-01-25T15:00:00+00:00",
-
-                                "latitude": 51.761139,
-
-                                "longitude": -4.505375,
-
-                                "serviceTime": 7,
-
-                                "serviceTime_MMSS": "7:33",
-
-                                "capacityWeight": 28.939,
-
-                                "capacityVolume": 92.262,
-
-                                "capacityValue3": 1,
-
-                                "arrivalDateTime": "2018-01-25T12:35:39+00:00",
-
-                                "calculatedMileage": 26.67,
-
-                                "calculatedTravelTime": 50.64,
-
-                                "actualTravelTime": 21.83,
-
-                                "deliverySequenceNumber": 2,
-
-                                "activityType": "ORDER",
-
-                                "tags": "DEFAULT",
-
-                                "vehicleName": "FREE_BAR_VAN",
-
-                                "departureTime": "2018-01-25T13:07:33+00:00",
-
-                                "customerRefNum": null,
-
-                                "postalcode": "SA334RJ",
-
-                                "orderNumber": "18945681061",
-
-                                "shiftAttributes": "DEFAULT",
-
-                                "shiftId": "FREE_BAR_SHIFT",
-
-                                "status": "CONFIRMED",
-
-                                "maxAcceptableDelay": 0,
-
-                                "locked": false
-
-                            },
-
-                            {
-
-                                "id": null,
-
-                                "reservationId": "1893248571418012314050973",
-
-                                "fromTime": "2018-01-25T15:00:00+00:00",
-
-                                "toTime": "2018-01-25T17:00:00+00:00",
-
-                                "latitude": 51.734025,
-
-                                "longitude": -4.713041,
-
-                                "serviceTime": 8,
-
-                                "serviceTime_MMSS": "8:28",
-
-                                "capacityWeight": 23.25,
-
-                                "capacityVolume": 62,
-
-                                "capacityValue3": 1,
-
-                                "arrivalDateTime": "2018-01-25T16:57:32+00:00",
-
-                                "calculatedMileage": 14.05,
-
-                                "calculatedTravelTime": 25.01,
-
-                                "actualTravelTime": 21.76,
-
-                                "deliverySequenceNumber": 3,
-
-                                "activityType": "ORDER",
-
-                                "tags": "DEFAULT",
-
-                                "vehicleName": "FREE_BAR_VAN",
-
-                                "departureTime": "2018-01-25T17:06:00+00:00",
-
-                                "customerRefNum": null,
-
-                                "postalcode": "SA680UQ",
-
-                                "orderNumber": "18932485714",
-
-                                "shiftAttributes": "DEFAULT",
-
-                                "shiftId": "FREE_BAR_SHIFT",
-
-                                "status": "CONFIRMED",
-
-                                "maxAcceptableDelay": 0,
-
-                                "locked": false
-
-                            },
-
-                            {
-
-                                "id": null,
-
-                                "reservationId": "18915304267180124183803963",
-
-                                "fromTime": "2018-01-25T10:00:00+00:00",
-
-                                "toTime": "2018-01-25T12:00:00+00:00",
-
-                                "latitude": 51.989842,
-
-                                "longitude": -4.96909,
-
-                                "serviceTime": 6,
-
-                                "serviceTime_MMSS": "6:15",
-
-                                "capacityWeight": 23.25,
-
-                                "capacityVolume": 62.731,
-
-                                "capacityValue3": 1,
-
-                                "arrivalDateTime": "2018-01-25T08:43:50+00:00",
-
-                                "calculatedMileage": 24.76,
-
-                                "calculatedTravelTime": 44.83,
-
-                                "actualTravelTime": 44.03,
-
-                                "deliverySequenceNumber": 4,
-
-                                "activityType": "ORDER",
-
-                                "tags": "DEFAULT",
-
-                                "vehicleName": "FREE_BAR_VAN",
-
-                                "departureTime": "2018-01-25T10:06:15+00:00",
-
-                                "customerRefNum": null,
-
-                                "postalcode": "SA659AY",
-
-                                "orderNumber": "18915304267",
-
-                                "shiftAttributes": "DEFAULT",
-
-                                "shiftId": "FREE_BAR_SHIFT",
-
-                                "status": "CONFIRMED",
-
-                                "maxAcceptableDelay": 0,
-
-                                "locked": false
-
-                            },
-
-                            {
-
-                                "id": null,
-
-                                "reservationId": "1891341327118012317084451",
-
-                                "fromTime": "2018-01-25T16:00:00+00:00",
-
-                                "toTime": "2018-01-25T18:00:00+00:00",
-
-                                "latitude": 52.192904,
-
-                                "longitude": -4.308519,
-
-                                "serviceTime": 8,
-
-                                "serviceTime_MMSS": "8:39",
-
-                                "capacityWeight": 50.128,
-
-                                "capacityVolume": 137.217,
-
-                                "capacityValue3": 1,
-
-                                "arrivalDateTime": "2018-01-25T17:48:13+00:00",
-
-                                "calculatedMileage": 14.38,
-
-                                "calculatedTravelTime": 26.83,
-
-                                "actualTravelTime": 55.24,
-
-                                "deliverySequenceNumber": 5,
-
-                                "activityType": "ORDER",
-
-                                "tags": "DEFAULT",
-
-                                "vehicleName": "FREE_BAR_VAN",
-
-                                "departureTime": "2018-01-25T17:56:52+00:00",
-
-                                "customerRefNum": null,
-
-                                "postalcode": "SA470NF",
-
-                                "orderNumber": "18913413271",
-
-                                "shiftAttributes": "DEFAULT",
-
-                                "shiftId": "FREE_BAR_SHIFT",
-
-                                "status": "CONFIRMED",
-
-                                "maxAcceptableDelay": 0,
-
-                                "locked": false
-
-                            },
-
-                            {
-
-                                "id": null,
-
-                                "reservationId": "18947161963180124105014977",
-
-                                "fromTime": "2018-01-25T20:00:00+00:00",
-
-                                "toTime": "2018-01-25T22:00:00+00:00",
-
-                                "latitude": 51.958169,
-
-                                "longitude": -4.965787,
-
-                                "serviceTime": 7,
-
-                                "serviceTime_MMSS": "7:33",
-
-                                "capacityWeight": 23.25,
-
-                                "capacityVolume": 62,
-
-                                "capacityValue3": 1,
-
-                                "arrivalDateTime": "2018-01-25T20:10:18+00:00",
-
-                                "calculatedMileage": 41.6,
-
-                                "calculatedTravelTime": 70.29,
-
-                                "actualTravelTime": 59.86,
-
-                                "deliverySequenceNumber": 6,
-
-                                "activityType": "ORDER",
-
-                                "tags": "DEFAULT",
-
-                                "vehicleName": "FREE_BAR_VAN",
-
-                                "departureTime": "2018-01-25T20:17:51+00:00",
-
-                                "customerRefNum": null,
-
-                                "postalcode": "SA625XR",
-
-                                "orderNumber": "18947161963",
-
-                                "shiftAttributes": "DEFAULT",
-
-                                "shiftId": "FREE_BAR_SHIFT",
-
-                                "status": "CONFIRMED",
-
-                                "maxAcceptableDelay": 0,
-
-                                "locked": false
-
-                            },
-
-                            {
-
-                                "id": null,
-
-                                "reservationId": "18933872405180124080539876",
-
-                                "fromTime": "2018-01-25T10:00:00+00:00",
-
-                                "toTime": "2018-01-25T12:00:00+00:00",
-
-                                "latitude": 52.003634,
-
-                                "longitude": -4.914221,
-
-                                "serviceTime": 6,
-
-                                "serviceTime_MMSS": "6:29",
-
-                                "capacityWeight": 23.25,
-
-                                "capacityVolume": 62.776,
-
-                                "capacityValue3": 1,
-
-                                "arrivalDateTime": "2018-01-25T08:48:20+00:00",
-
-                                "calculatedMileage": 28.21,
-
-                                "calculatedTravelTime": 49.33,
-
-                                "actualTravelTime": 13,
-
-                                "deliverySequenceNumber": 7,
-
-                                "activityType": "ORDER",
-
-                                "tags": "DEFAULT",
-
-                                "vehicleName": "FREE_BAR_VAN",
-
-                                "departureTime": "2018-01-25T10:06:29+00:00",
-
-                                "customerRefNum": null,
-
-                                "postalcode": "SA420XP",
-
-                                "orderNumber": "18933872405",
-
-                                "shiftAttributes": "DEFAULT",
-
-                                "shiftId": "FREE_BAR_SHIFT",
-
-                                "status": "CONFIRMED",
-
-                                "maxAcceptableDelay": 0,
-
-                                "locked": false
-
-                            },
-
-                            {
-
-                                "id": null,
-
-                                "reservationId": "1884267661618012412015500",
-
-                                "fromTime": "2018-01-25T21:00:00+00:00",
-
-                                "toTime": "2018-01-25T23:00:00+00:00",
-
-                                "latitude": 51.712077,
-
-                                "longitude": -4.70776,
-
-                                "serviceTime": 6,
-
-                                "serviceTime_MMSS": "6:43",
-
-                                "capacityWeight": 23.25,
-
-                                "capacityVolume": 62,
-
-                                "capacityValue3": 1,
-
-                                "arrivalDateTime": "2018-01-25T21:22:59+00:00",
-
-                                "calculatedMileage": 48,
-
-                                "calculatedTravelTime": 81,
-
-                                "actualTravelTime": 51.24,
-
-                                "deliverySequenceNumber": 8,
-
-                                "activityType": "ORDER",
-
-                                "tags": "DEFAULT",
-
-                                "vehicleName": "FREE_BAR_VAN",
-
-                                "departureTime": "2018-01-25T21:29:42+00:00",
-
-                                "customerRefNum": null,
-
-                                "postalcode": "SA699JJ",
-
-                                "orderNumber": "18948458585",
-
-                                "shiftAttributes": "DEFAULT",
-
-                                "shiftId": "FREE_BAR_SHIFT",
-
-                                "status": "CONFIRMED",
-
-                                "maxAcceptableDelay": 0,
-
-                                "locked": false
-
-                            },
-
-                            {
-
-                                "id": null,
-
-                                "reservationId": "1892212420318012417201391",
-
-                                "fromTime": "2018-01-25T18:00:00+00:00",
-
-                                "toTime": "2018-01-25T20:00:00+00:00",
-
-                                "latitude": 51.819258,
-
-                                "longitude": -4.600729,
-
-                                "serviceTime": 7,
-
-                                "serviceTime_MMSS": "7:33",
-
-                                "capacityWeight": 29.434,
-
-                                "capacityVolume": 117.215,
-
-                                "capacityValue3": 1,
-
-                                "arrivalDateTime": "2018-01-25T19:27:46+00:00",
-
-                                "calculatedMileage": 21.6,
-
-                                "calculatedTravelTime": 43.35,
-
-                                "actualTravelTime": 19.34,
-
-                                "deliverySequenceNumber": 9,
-
-                                "activityType": "ORDER",
-
-                                "tags": "DEFAULT",
-
-                                "vehicleName": "FREE_BAR_VAN",
-
-                                "departureTime": "2018-01-25T19:35:19+00:00",
-
-                                "customerRefNum": null,
-
-                                "postalcode": "SA340DA",
-
-                                "orderNumber": "18922124203",
-
-                                "shiftAttributes": "DEFAULT",
-
-                                "shiftId": "FREE_BAR_SHIFT",
-
-                                "status": "CONFIRMED",
-
-                                "maxAcceptableDelay": 0,
-
-                                "locked": false
-
-                            },
-
-                            {
-
-                                "id": null,
-
-                                "reservationId": "18935359678180123185630351",
-
-                                "fromTime": "2018-01-25T13:00:00+00:00",
-
-                                "toTime": "2018-01-25T15:00:00+00:00",
-
-                                "latitude": 52.129843,
-
-                                "longitude": -4.541125,
-
-                                "serviceTime": 8,
-
-                                "serviceTime_MMSS": "8:39",
-
-                                "capacityWeight": 35.161,
-
-                                "capacityVolume": 104.37,
-
-                                "capacityValue3": 1,
-
-                                "arrivalDateTime": "2018-01-25T00:00:00+00:00",
-
-                                "calculatedMileage": 0,
-
-                                "calculatedTravelTime": 0,
-
-                                "actualTravelTime": 51.45,
-
-                                "deliverySequenceNumber": 10,
-
-                                "activityType": "ORDER",
-
-                                "tags": "DEFAULT",
-
-                                "vehicleName": "FREE_BAR_VAN",
-
-                                "departureTime": "2018-01-25T13:08:39+00:00",
-
-                                "customerRefNum": null,
-
-                                "postalcode": "SA432EL",
-
-                                "orderNumber": "18948102173",
-
-                                "shiftAttributes": "DEFAULT",
-
-                                "shiftId": "FREE_BAR_SHIFT",
-
-                                "status": "CONFIRMED",
-
-                                "maxAcceptableDelay": 0,
-
-                                "locked": false
-
-                            },
-
-                            {
-
-                                "id": null,
-
-                                "reservationId": "18923055967180124075347653",
-
-                                "fromTime": "2018-01-25T09:00:00+00:00",
-
-                                "toTime": "2018-01-25T10:00:00+00:00",
-
-                                "latitude": 51.689489,
-
-                                "longitude": -4.926684,
-
-                                "serviceTime": 6,
-
-                                "serviceTime_MMSS": "6:28",
-
-                                "capacityWeight": 23.25,
-
-                                "capacityVolume": 62,
-
-                                "capacityValue3": 1,
-
-                                "arrivalDateTime": "2018-01-25T08:32:28+00:00",
-
-                                "calculatedMileage": 1.05,
-
-                                "calculatedTravelTime": 3.46,
-
-                                "actualTravelTime": 65.12,
-
-                                "deliverySequenceNumber": 11,
-
-                                "activityType": "ORDER",
-
-                                "tags": "DEFAULT",
-
-                                "vehicleName": "FREE_BAR_VAN",
-
-                                "departureTime": "2018-01-25T09:06:28+00:00",
-
-                                "customerRefNum": null,
-
-                                "postalcode": "SA726ND",
-
-                                "orderNumber": "18923055967",
-
-                                "shiftAttributes": "DEFAULT",
-
-                                "shiftId": "FREE_BAR_SHIFT",
-
-                                "status": "CONFIRMED",
-
-                                "maxAcceptableDelay": 0,
-
-                                "locked": false
-
-                            },
-
-                            {
-
-                                "id": null,
-
-                                "reservationId": "18705897567180124225520925",
-
-                                "fromTime": "2018-01-25T20:00:00+00:00",
-
-                                "toTime": "2018-01-25T22:00:00+00:00",
-
-                                "latitude": 51.714288,
-
-                                "longitude": -5.037309,
-
-                                "serviceTime": 6,
-
-                                "serviceTime_MMSS": "6:43",
-
-                                "capacityWeight": 23.25,
-
-                                "capacityVolume": 62,
-
-                                "capacityValue3": 1,
-
-                                "arrivalDateTime": "2018-01-25T21:27:07+00:00",
-
-                                "calculatedMileage": 51.96,
-
-                                "calculatedTravelTime": 85.15,
-
-                                "actualTravelTime": 14.81,
-
-                                "deliverySequenceNumber": 12,
-
-                                "activityType": "ORDER",
-
-                                "tags": "DEFAULT",
-
-                                "vehicleName": "FREE_BAR_VAN",
-
-                                "departureTime": "2018-01-25T21:33:50+00:00",
-
-                                "customerRefNum": null,
-
-                                "postalcode": "SA732AP",
-
-                                "orderNumber": "18705897567",
-
-                                "shiftAttributes": "DEFAULT",
-
-                                "shiftId": "FREE_BAR_SHIFT",
-
-                                "status": "CONFIRMED",
-
-                                "maxAcceptableDelay": 0,
-
-                                "locked": false
-
-                            },
-
-                            {
-
-                                "id": null,
-
-                                "reservationId": "18872258624180124091028864",
-
-                                "fromTime": "2018-01-25T12:00:00+00:00",
-
-                                "toTime": "2018-01-25T14:00:00+00:00",
-
-                                "latitude": 51.969312,
-
-                                "longitude": -4.647836,
-
-                                "serviceTime": 6,
-
-                                "serviceTime_MMSS": "6:43",
-
-                                "capacityWeight": 23.25,
-
-                                "capacityVolume": 62,
-
-                                "capacityValue3": 1,
-
-                                "arrivalDateTime": "2018-01-25T14:35:28+00:00",
-
-                                "calculatedMileage": 9.14,
-
-                                "calculatedTravelTime": 17.6,
-
-                                "actualTravelTime": 45.57,
-
-                                "deliverySequenceNumber": 13,
-
-                                "activityType": "ORDER",
-
-                                "tags": "DEFAULT",
-
-                                "vehicleName": "FREE_BAR_VAN",
-
-                                "departureTime": "2018-01-25T14:42:11+00:00",
-
-                                "customerRefNum": null,
-
-                                "postalcode": "SA413RD",
-
-                                "orderNumber": "18872258624",
-
-                                "shiftAttributes": "DEFAULT",
-
-                                "shiftId": "FREE_BAR_SHIFT",
-
-                                "status": "CONFIRMED",
-
-                                "maxAcceptableDelay": 0,
-
-                                "locked": false
-
-                            },
-
-                            {
-
-                                "id": null,
-
-                                "reservationId": "18940495378180121183920367",
-
-                                "fromTime": "2018-01-25T16:00:00+00:00",
-
-                                "toTime": "2018-01-25T18:00:00+00:00",
-
-                                "latitude": 51.880294,
-
-                                "longitude": -5.26763,
-
-                                "serviceTime": 6,
-
-                                "serviceTime_MMSS": "6:28",
-
-                                "capacityWeight": 23.25,
-
-                                "capacityVolume": 62,
-
-                                "capacityValue3": 1,
-
-                                "arrivalDateTime": "2018-01-25T16:26:51+00:00",
-
-                                "calculatedMileage": 12.58,
-
-                                "calculatedTravelTime": 26.33,
-
-                                "actualTravelTime": 54.07,
-
-                                "deliverySequenceNumber": 14,
-
-                                "activityType": "ORDER",
-
-                                "tags": "DEFAULT",
-
-                                "vehicleName": "FREE_BAR_VAN",
-
-                                "departureTime": "2018-01-25T16:33:19+00:00",
-
-                                "customerRefNum": null,
-
-                                "postalcode": "SA626SG",
-
-                                "orderNumber": "18940495378",
-
-                                "shiftAttributes": "DEFAULT",
-
-                                "shiftId": "FREE_BAR_SHIFT",
-
-                                "status": "CONFIRMED",
-
-                                "maxAcceptableDelay": 0,
-
-                                "locked": false
-
-                            },
-
-                            {
-
-                                "id": null,
-
-                                "reservationId": "18729551844180123211336429",
-
-                                "fromTime": "2018-01-25T12:00:00+00:00",
-
-                                "toTime": "2018-01-25T14:00:00+00:00",
-
-                                "latitude": 51.857654,
-
-                                "longitude": -4.306624,
-
-                                "serviceTime": 8,
-
-                                "serviceTime_MMSS": "8:0",
-
-                                "capacityWeight": 23.25,
-
-                                "capacityVolume": 62,
-
-                                "capacityValue3": 1,
-
-                                "arrivalDateTime": "2018-01-25T11:44:37+00:00",
-
-                                "calculatedMileage": 15.41,
-
-                                "calculatedTravelTime": 29.61,
-
-                                "actualTravelTime": 67.21,
-
-                                "deliverySequenceNumber": 15,
-
-                                "activityType": "ORDER",
-
-                                "tags": "DEFAULT",
-
-                                "vehicleName": "FREE_BAR_VAN",
-
-                                "departureTime": "2018-01-25T12:08:00+00:00",
-
-                                "customerRefNum": null,
-
-                                "postalcode": "SA311BY",
-
-                                "orderNumber": "18729551844",
-
-                                "shiftAttributes": "DEFAULT",
-
-                                "shiftId": "FREE_BAR_SHIFT",
-
-                                "status": "CONFIRMED",
-
-                                "maxAcceptableDelay": 0,
-
-                                "locked": false
-
-                            },
-
-                            {
-
-                                "id": null,
-
-                                "reservationId": "18911333641180123163207270",
-
-                                "fromTime": "2018-01-25T16:00:00+00:00",
-
-                                "toTime": "2018-01-25T18:00:00+00:00",
-
-                                "latitude": 51.900361,
-
-                                "longitude": -4.680792,
-
-                                "serviceTime": 14,
-
-                                "serviceTime_MMSS": "14:17",
-
-                                "capacityWeight": 62.344,
-
-                                "capacityVolume": 221.407,
-
-                                "capacityValue3": 1,
-
-                                "arrivalDateTime": "2018-01-25T17:55:33+00:00",
-
-                                "calculatedMileage": 26.64,
-
-                                "calculatedTravelTime": 47.41,
-
-                                "actualTravelTime": 37.14,
-
-                                "deliverySequenceNumber": 16,
-
-                                "activityType": "ORDER",
-
-                                "tags": "DEFAULT",
-
-                                "vehicleName": "FREE_BAR_VAN",
-
-                                "departureTime": "2018-01-25T18:09:50+00:00",
-
-                                "customerRefNum": null,
-
-                                "postalcode": "SA340XE",
-
-                                "orderNumber": "18911333641",
-
-                                "shiftAttributes": "DEFAULT",
-
-                                "shiftId": "FREE_BAR_SHIFT",
-
-                                "status": "CONFIRMED",
-
-                                "maxAcceptableDelay": 0,
-
-                                "locked": false
-
-                            },
-
-                            {
-
-                                "id": null,
-
-                                "reservationId": "1888780777318012320352860",
-
-                                "fromTime": "2018-01-25T12:00:00+00:00",
-
-                                "toTime": "2018-01-25T14:00:00+00:00",
-
-                                "latitude": 52.055226,
-
-                                "longitude": -4.506337,
-
-                                "serviceTime": 6,
-
-                                "serviceTime_MMSS": "6:43",
-
-                                "capacityWeight": 24.009,
-
-                                "capacityVolume": 62,
-
-                                "capacityValue3": 1,
-
-                                "arrivalDateTime": "2018-01-25T13:25:58+00:00",
-
-                                "calculatedMileage": 20.41,
-
-                                "calculatedTravelTime": 43.29,
-
-                                "actualTravelTime": 30.89,
-
-                                "deliverySequenceNumber": 17,
-
-                                "activityType": "ORDER",
-
-                                "tags": "DEFAULT",
-
-                                "vehicleName": "FREE_BAR_VAN",
-
-                                "departureTime": "2018-01-25T13:32:41+00:00",
-
-                                "customerRefNum": null,
-
-                                "postalcode": "SA389PE",
-
-                                "orderNumber": "18946983961",
-
-                                "shiftAttributes": "DEFAULT",
-
-                                "shiftId": "FREE_BAR_SHIFT",
-
-                                "status": "CONFIRMED",
-
-                                "maxAcceptableDelay": 0,
-
-                                "locked": false
-
-                            },
-
-                            {
-
-                                "id": null,
-
-                                "reservationId": "18945113905180123073424866",
-
-                                "fromTime": "2018-01-25T18:00:00+00:00",
-
-                                "toTime": "2018-01-25T20:00:00+00:00",
-
-                                "latitude": 51.874396,
-
-                                "longitude": -5.203861,
-
-                                "serviceTime": 8,
-
-                                "serviceTime_MMSS": "8:53",
-
-                                "capacityWeight": 47.258,
-
-                                "capacityVolume": 133.288,
-
-                                "capacityValue3": 1,
-
-                                "arrivalDateTime": "2018-01-25T17:47:40+00:00",
-
-                                "calculatedMileage": 20.76,
-
-                                "calculatedTravelTime": 39.53,
-
-                                "actualTravelTime": 65.9,
-
-                                "deliverySequenceNumber": 18,
-
-                                "activityType": "ORDER",
-
-                                "tags": "DEFAULT",
-
-                               "vehicleName": "FREE_BAR_VAN",
-
-                                "departureTime": "2018-01-25T18:08:53+00:00",
-
-                                "customerRefNum": null,
-
-                                "postalcode": "SA626TZ",
-
-                                "orderNumber": "18947968061",
-
-                                "shiftAttributes": "DEFAULT",
-
-                                "shiftId": "FREE_BAR_SHIFT",
-
-                                "status": "CONFIRMED",
-
-                                "maxAcceptableDelay": 0,
-
-                                "locked": false
-
-                            },
-
-                            {
-
-                                "id": null,
-
-                                "reservationId": "18922427987180124220611577",
-
-                                "fromTime": "2018-01-25T09:00:00+00:00",
-
-                                "toTime": "2018-01-25T10:00:00+00:00",
-
-                                "latitude": 51.67432,
-
-                                "longitude": -4.932863,
-
-                                "serviceTime": 7,
-
-                                "serviceTime_MMSS": "7:0",
-
-                                "capacityWeight": 30.26,
-
-                                "capacityVolume": 105.884,
-
-                                "capacityValue3": 1,
-
-                                "arrivalDateTime": "2018-01-25T09:11:27+00:00",
-
-                                "calculatedMileage": 3.95,
-
-                                "calculatedTravelTime": 12.44,
-
-                                "actualTravelTime": 46.7,
-
-                                "deliverySequenceNumber": 19,
-
-                                "activityType": "ORDER",
-
-                                "tags": "DEFAULT",
-
-                                "vehicleName": "FREE_BAR_VAN",
-
-                                "departureTime": "2018-01-25T09:18:27+00:00",
-
-                                "customerRefNum": null,
-
-                                "postalcode": "SA714JQ",
-
-                                "orderNumber": "18948924139",
-
-                                "shiftAttributes": "DEFAULT",
-
-                                "shiftId": "FREE_BAR_SHIFT",
-
-                                "status": "CONFIRMED",
-
-                                "maxAcceptableDelay": 0,
-
-                                "locked": false
-
-                            },
-
-                            {
-
-                                "id": null,
-
-                                "reservationId": "18934228918180123192523719",
-
-                                "fromTime": "2018-01-25T18:00:00+00:00",
-
-                                "toTime": "2018-01-25T19:00:00+00:00",
-
-                                "latitude": 51.71251,
-
-                                "longitude": -4.951122,
-
-                                "serviceTime": 6,
-
-                                "serviceTime_MMSS": "6:1",
-
-                                "capacityWeight": 23.727,
-
-                                "capacityVolume": 62,
-
-                                "capacityValue3": 1,
-
-                                "arrivalDateTime": "2018-01-25T17:01:21+00:00",
-
-                                "calculatedMileage": 0.56,
-
-                                "calculatedTravelTime": 2.43,
-
-                                "actualTravelTime": 12.36,
-
-                                "deliverySequenceNumber": 20,
-
-                                "activityType": "ORDER",
-
-                                "tags": "DEFAULT",
-
-                                "vehicleName": "FREE_BAR_VAN",
-
-                                "departureTime": "2018-01-25T18:06:01+00:00",
-
-                                "customerRefNum": null,
-
-                                "postalcode": "SA731TW",
-
-                                "orderNumber": "18948059064",
-
-                                "shiftAttributes": "DEFAULT",
-
-                                "shiftId": "FREE_BAR_SHIFT",
-
-                                "status": "CONFIRMED",
-
-                                "maxAcceptableDelay": 0,
-
-                                "locked": false
-
-                            },
-
-                            {
-
-                                "id": null,
-
-                                "reservationId": "18947416011180124122312384",
-
-                                "fromTime": "2018-01-25T11:00:00+00:00",
-
-                                "toTime": "2018-01-25T13:00:00+00:00",
-
-                                "latitude": 51.795389,
-
-                                "longitude": -4.975865,
-
-                                "serviceTime": 13,
-
-                                "serviceTime_MMSS": "13:13",
-
-                                "capacityWeight": 23.25,
-
-                                "capacityVolume": 87.671,
-
-                                "capacityValue3": 1,
-
-                                "arrivalDateTime": "2018-01-25T10:45:17+00:00",
-
-                                "calculatedMileage": 17.1,
-
-                                "calculatedTravelTime": 29.73,
-
-                                "actualTravelTime": 12.83,
-
-                                "deliverySequenceNumber": 21,
-
-                                "activityType": "ORDER",
-
-                                "tags": "DEFAULT",
-
-                                "vehicleName": "FREE_BAR_VAN",
-
-                                "departureTime": "2018-01-25T11:13:13+00:00",
-
-                                "customerRefNum": null,
-
-                                "postalcode": "SA611NZ",
-
-                                "orderNumber": "18947416011",
-
-                                "shiftAttributes": "DEFAULT",
-
-                                "shiftId": "FREE_BAR_SHIFT",
-
-                                "status": "CONFIRMED",
-
-                                "maxAcceptableDelay": 0,
-
-                                "locked": false
-
-                            },
-
-                            {
-
-                                "id": null,
-
-                                "reservationId": "18922416695180124084957582",
-
-                                "fromTime": "2018-01-25T10:00:00+00:00",
-
-                                "toTime": "2018-01-25T12:00:00+00:00",
-
-                                "latitude": 51.757891,
-
-                                "longitude": -4.578706,
-
-                                "serviceTime": 14,
-
-                                "serviceTime_MMSS": "14:17",
-
-                                "capacityWeight": 94.923,
-
-                                "capacityVolume": 259.47,
-
-                                "capacityValue3": 1,
-
-                                "arrivalDateTime": "2018-01-25T09:31:58+00:00",
-
-                                "calculatedMileage": 18.67,
-
-                                "calculatedTravelTime": 32.96,
-
-                                "actualTravelTime": 36.35,
-
-                                "deliverySequenceNumber": 22,
-
-                                "activityType": "ORDER",
-
-                                "tags": "DEFAULT",
-
-                                "vehicleName": "FREE_BAR_VAN",
-
-                                "departureTime": "2018-01-25T10:14:17+00:00",
-
-                                "customerRefNum": null,
-
-                                "postalcode": "SA334PS",
-
-                                "orderNumber": "18948796094",
-
-                                "shiftAttributes": "DEFAULT",
-
-                                "shiftId": "FREE_BAR_SHIFT",
-
-                                "status": "CONFIRMED",
-
-                                "maxAcceptableDelay": 0,
-
-                                "locked": false
-
-                            },
-
-                            {
-
-                                "id": null,
-
-                                "reservationId": "18931515674180123160416265",
-
-                                "fromTime": "2018-01-25T14:30:00+00:00",
-
-                                "toTime": "2018-01-25T15:30:00+00:00",
-
-                                "latitude": 51.69327,
-
-                                "longitude": -4.94581,
-
-                                "serviceTime": 6,
-
-                                "serviceTime_MMSS": "6:43",
-
-                                "capacityWeight": 32.317,
-
-                                "capacityVolume": 109.051,
-
-                                "capacityValue3": 1,
-
-                                "arrivalDateTime": "2018-01-25T14:00:17+00:00",
-
-                                "calculatedMileage": 7.23,
-
-                                "calculatedTravelTime": 16.28,
-
-                                "actualTravelTime": 30.64,
-
-                                "deliverySequenceNumber": 23,
-
-                                "activityType": "ORDER",
-
-                                "tags": "DEFAULT",
-
-                                "vehicleName": "FREE_BAR_VAN",
-
-                                "departureTime": "2018-01-25T14:36:43+00:00",
-
-                                "customerRefNum": null,
-
-                                "postalcode": "SA726JS",
-
-                                "orderNumber": "18931515674",
-
-                                "shiftAttributes": "DEFAULT",
-
-                                "shiftId": "FREE_BAR_SHIFT",
-
-                                "status": "CONFIRMED",
-
-                                "maxAcceptableDelay": 0,
-
-                                "locked": false
-
-                            },
-
-                            {
-
-                                "id": null,
-
-                                "reservationId": "18872819809180122172029683",
-
-                                "fromTime": "2018-01-25T17:00:00+00:00",
-
-                                "toTime": "2018-01-25T19:00:00+00:00",
-
-                                "latitude": 52.194989,
-
-                                "longitude": -4.311817,
-
-                                "serviceTime": 6,
-
-                                "serviceTime_MMSS": "6:28",
-
-                                "capacityWeight": 27.544,
-
-                                "capacityVolume": 76.528,
-
-                                "capacityValue3": 1,
-
-                                "arrivalDateTime": "2018-01-25T19:50:10+00:00",
-
-                                "calculatedMileage": 14.5,
-
-                                "calculatedTravelTime": 26.28,
-
-                                "actualTravelTime": 81.7,
-
-                                "deliverySequenceNumber": 24,
-
-                                "activityType": "ORDER",
-
-                                "tags": "DEFAULT",
-
-                                "vehicleName": "FREE_BAR_VAN",
-
-                                "departureTime": "2018-01-25T19:56:38+00:00",
-
-                                "customerRefNum": null,
-
-                                "postalcode": "SA470NJ",
-
-                                "orderNumber": "18945486747",
-
-                                "shiftAttributes": "DEFAULT",
-
-                                "shiftId": "FREE_BAR_SHIFT",
-
-                                "status": "CONFIRMED",
-
-                                "maxAcceptableDelay": 0,
-
-                                "locked": false
-
-                            },
-
-                            {
-
-                                "id": null,
-
-                                "reservationId": "1892190189118012409273474",
-
-                                "fromTime": "2018-01-25T18:00:00+00:00",
-
-                                "toTime": "2018-01-25T20:00:00+00:00",
-
-                                "latitude": 51.927032,
-
-                                "longitude": -4.427825,
-
-                                "serviceTime": 10,
-
-                                "serviceTime_MMSS": "10:25",
-
-                                "capacityWeight": 58.661,
-
-                                "capacityVolume": 188.05,
-
-                                "capacityValue3": 1,
-
-                                "arrivalDateTime": "2018-01-25T20:04:28+00:00",
-
-                                "calculatedMileage": 11.83,
-
-                                "calculatedTravelTime": 20.73,
-
-                                "actualTravelTime": 37.06,
-
-                                "deliverySequenceNumber": 25,
-
-                                "activityType": "ORDER",
-
-                                "tags": "DEFAULT",
-
-                                "vehicleName": "FREE_BAR_VAN",
-
-                                "departureTime": "2018-01-25T20:14:53+00:00",
-
-                                "customerRefNum": null,
-
-                                "postalcode": "SA336NP",
-
-                                "orderNumber": "18921901891",
-
-                                "shiftAttributes": "DEFAULT",
-
-                                "shiftId": "FREE_BAR_SHIFT",
-
-                                "status": "CONFIRMED",
-
-                                "maxAcceptableDelay": 0,
-
-                                "locked": false
-
-                            },
-
-                            {
-
-                                "id": null,
-
-                                "reservationId": "18820288197180123091112795",
-
-                                "fromTime": "2018-01-25T15:00:00+00:00",
-
-                                "toTime": "2018-01-25T17:00:00+00:00",
-
-                                "latitude": 52.087245,
-
-                                "longitude": -4.498919,
-
-                                "serviceTime": 11,
-
-                                "serviceTime_MMSS": "11:3",
-
-                                "capacityWeight": 72.864,
-
-                                "capacityVolume": 218.191,
-
-                                "capacityValue3": 1,
-
-                                "arrivalDateTime": "2018-01-25T16:16:31+00:00",
-
-                                "calculatedMileage": 37.39,
-
-                                "calculatedTravelTime": 62.96,
-
-                                "actualTravelTime": 24.19,
-
-                                "deliverySequenceNumber": 26,
-
-                                "activityType": "ORDER",
-
-                                "tags": "DEFAULT",
-
-                                "vehicleName": "FREE_BAR_VAN",
-
-                                "departureTime": "2018-01-25T16:27:34+00:00",
-
-                                "customerRefNum": null,
-
-                                "postalcode": "SA389QB",
-
-                                "orderNumber": "18946044054",
-
-                                "shiftAttributes": "DEFAULT",
-
-                                "shiftId": "FREE_BAR_SHIFT",
-
-                                "status": "CONFIRMED",
-
-                                "maxAcceptableDelay": 0,
-
-                                "locked": false
-
-                            },
-
-                            {
-
-                                "id": null,
-
-                                "reservationId": "18932623906180123114234955",
-
-                                "fromTime": "2018-01-25T10:00:00+00:00",
-
-                                "toTime": "2018-01-25T12:00:00+00:00",
-
-                                "latitude": 51.93017,
-
-                                "longitude": -4.983972,
-
-                                "serviceTime": 6,
-
-                                "serviceTime_MMSS": "6:15",
-
-                                "capacityWeight": 23.25,
-
-                                "capacityVolume": 76.248,
-
-                                "capacityValue3": 1,
-
-                                "arrivalDateTime": "2018-01-25T11:22:21+00:00",
-
-                                "calculatedMileage": 46.75,
-
-                                "calculatedTravelTime": 74.13,
-
-                                "actualTravelTime": 48.2,
-
-                                "deliverySequenceNumber": 27,
-
-                                "activityType": "ORDER",
-
-                                "tags": "DEFAULT",
-
-                                "vehicleName": "FREE_BAR_VAN",
-
-                                "departureTime": "2018-01-25T11:28:36+00:00",
-
-                                "customerRefNum": null,
-
-                                "postalcode": "SA625RZ",
-
-                                "orderNumber": "18946051980",
-
-                                "shiftAttributes": "DEFAULT",
-
-                                "shiftId": "FREE_BAR_SHIFT",
-
-                                "status": "CONFIRMED",
-
-                                "maxAcceptableDelay": 0,
-
-                                "locked": false
-
-                            },
-
-                            {
-
-                                "id": null,
-
-                                "reservationId": "18932249861180123220526412",
-
-                                "fromTime": "2018-01-25T13:00:00+00:00",
-
-                                "toTime": "2018-01-25T15:00:00+00:00",
-
-                                "latitude": 51.883698,
-
-                                "longitude": -5.261002,
-
-                                "serviceTime": 6,
-
-                                "serviceTime_MMSS": "6:28",
-
-                                "capacityWeight": 23.25,
-
-                                "capacityVolume": 62,
-
-                                "capacityValue3": 1,
-
-                                "arrivalDateTime": "2018-01-25T15:33:16+00:00",
-
-                                "calculatedMileage": 25.57,
-
-                                "calculatedTravelTime": 49.26,
-
-                                "actualTravelTime": 22.75,
-
-                                "deliverySequenceNumber": 28,
-
-                                "activityType": "ORDER",
-
-                                "tags": "DEFAULT",
-
-                                "vehicleName": "FREE_BAR_VAN",
-
-                                "departureTime": "2018-01-25T15:39:44+00:00",
-
-                                "customerRefNum": null,
-
-                                "postalcode": "SA626NY",
-
-                                "orderNumber": "18932249861",
-
-                                "shiftAttributes": "DEFAULT",
-
-                                "shiftId": "FREE_BAR_SHIFT",
-
-                                "status": "CONFIRMED",
-
-                                "maxAcceptableDelay": 0,
-
-                                "locked": false
-
-                            }
-
-                        ],
+                        "solutionActivities": [],
 
                         "carrier": null,
 
-                        "calculatedTravelTime": 64111,
+                        "calculatedTravelTime": 0,
 
-                        "calculatedTravelDistance": 597.74,
+                        "calculatedTravelDistance": 0,
 
                         "externalReferenceKey": "50ffbc23-fc46-419e-8595-34b0db691fd6"
 
@@ -8586,11 +6904,11 @@
 
                                 "serviceTime_MMSS": "44:0",
 
-                                "capacityWeight": 301.129,
+                                "capacityWeight": 431.533,
 
-                                "capacityVolume": 8895.179,
+                                "capacityVolume": 9239.724,
 
-                                "capacityValue3": 2147483637,
+                                "capacityValue3": 2147483638,
 
                                 "arrivalDateTime": "2018-01-25T07:15:00+00:00",
 
@@ -8622,7 +6940,7 @@
 
                                 "status": null,
 
-                                "maxAcceptableDelay": 1324,
+                                "maxAcceptableDelay": 2129,
 
                                 "locked": false
 
@@ -8668,7 +6986,7 @@
 
                                 "vehicleName": "VAN-1-4251",
 
-                               "departureTime": "2018-01-25T08:15:34+00:00",
+                                "departureTime": "2018-01-25T08:15:34+00:00",
 
                                 "customerRefNum": null,
 
@@ -8682,7 +7000,7 @@
 
                                 "status": "CONFIRMED",
 
-                                "maxAcceptableDelay": 1324,
+                                "maxAcceptableDelay": 2129,
 
                                 "locked": false
 
@@ -8692,33 +7010,33 @@
 
                                 "id": null,
 
-                                "reservationId": "18187359298180124100335822",
+                                "reservationId": "18922427987180124220611577",
 
                                 "fromTime": "2018-01-25T09:00:00+00:00",
 
-                                "toTime": "2018-01-25T11:00:00+00:00",
+                                "toTime": "2018-01-25T10:00:00+00:00",
 
-                                "latitude": 51.647783,
+                                "latitude": 51.67432,
 
-                                "longitude": -4.777758,
+                                "longitude": -4.932863,
 
                                 "serviceTime": 7,
 
-                                "serviceTime_MMSS": "7:33",
+                                "serviceTime_MMSS": "7:0",
 
-                                "capacityWeight": 24.815,
+                                "capacityWeight": 30.26,
 
-                                "capacityVolume": 87.614,
+                                "capacityVolume": 105.884,
 
                                 "capacityValue3": 1,
 
-                                "arrivalDateTime": "2018-01-25T08:37:56+00:00",
+                                "arrivalDateTime": "2018-01-25T08:29:20+00:00",
 
-                                "calculatedMileage": 9.16,
+                                "calculatedMileage": 4.12,
 
-                                "calculatedTravelTime": 22.36,
+                                "calculatedTravelTime": 13.76,
 
-                                "actualTravelTime": 20.12,
+                                "actualTravelTime": 12.38,
 
                                 "deliverySequenceNumber": 3,
 
@@ -8728,21 +7046,21 @@
 
                                 "vehicleName": "VAN-1-4251",
 
-                                "departureTime": "2018-01-25T09:07:33+00:00",
+                                "departureTime": "2018-01-25T09:07:00+00:00",
 
                                 "customerRefNum": null,
 
-                                "postalcode": "SA707TU",
+                                "postalcode": "SA714JQ",
 
-                                "orderNumber": "18187359298",
+                                "orderNumber": "18948924139",
 
-                               "shiftAttributes": "DEFAULT",
+                                "shiftAttributes": "DEFAULT",
 
                                 "shiftId": "WAVE 1 TWICE DAILY",
 
                                 "status": "CONFIRMED",
 
-                                "maxAcceptableDelay": 1324,
+                                "maxAcceptableDelay": 2129,
 
                                 "locked": false
 
@@ -8752,33 +7070,33 @@
 
                                 "id": null,
 
-                                "reservationId": "18947109111180124100830667",
+                                "reservationId": "18923055967180124075347653",
 
                                 "fromTime": "2018-01-25T09:00:00+00:00",
 
                                 "toTime": "2018-01-25T10:00:00+00:00",
 
-                                "latitude": 51.649304,
+                                "latitude": 51.689489,
 
-                                "longitude": -4.860838,
+                                "longitude": -4.926684,
 
-                                "serviceTime": 10,
+                                "serviceTime": 4,
 
-                                "serviceTime_MMSS": "10:48",
+                                "serviceTime_MMSS": "4:57",
 
-                                "capacityWeight": 71.674,
+                                "capacityWeight": 11.958,
 
-                                "capacityVolume": 193.377,
+                                "capacityVolume": 34.033,
 
                                 "capacityValue3": 1,
 
-                                "arrivalDateTime": "2018-01-25T09:22:06+00:00",
+                                "arrivalDateTime": "2018-01-25T09:14:24+00:00",
 
-                                "calculatedMileage": 6.61,
+                                "calculatedMileage": 2.18,
 
-                                "calculatedTravelTime": 14.55,
+                                "calculatedTravelTime": 7.4,
 
-                                "actualTravelTime": 13.08,
+                                "actualTravelTime": 6.65,
 
                                 "deliverySequenceNumber": 4,
 
@@ -8788,13 +7106,13 @@
 
                                 "vehicleName": "VAN-1-4251",
 
-                                "departureTime": "2018-01-25T09:32:54+00:00",
+                                "departureTime": "2018-01-25T09:19:21+00:00",
 
                                 "customerRefNum": null,
 
-                                "postalcode": "SA715LE",
+                                "postalcode": "SA726ND",
 
-                                "orderNumber": "18947109104",
+                                "orderNumber": "18923055967",
 
                                 "shiftAttributes": "DEFAULT",
 
@@ -8802,7 +7120,7 @@
 
                                 "status": "CONFIRMED",
 
-                                "maxAcceptableDelay": 0,
+                                "maxAcceptableDelay": 289,
 
                                 "locked": false
 
@@ -8812,33 +7130,33 @@
 
                                 "id": null,
 
-                                "reservationId": "18947109109180124100613849",
+                                "reservationId": "18915304267180124183803963",
 
-                                "fromTime": "2018-01-25T09:00:00+00:00",
+                                "fromTime": "2018-01-25T10:00:00+00:00",
 
-                                "toTime": "2018-01-25T10:00:00+00:00",
+                                "toTime": "2018-01-25T12:00:00+00:00",
 
-                                "latitude": 51.649304,
+                                "latitude": 51.989842,
 
-                                "longitude": -4.860838,
+                                "longitude": -4.96909,
 
-                                "serviceTime": 10,
+                                "serviceTime": 6,
 
-                                "serviceTime_MMSS": "10:48",
+                                "serviceTime_MMSS": "6:15",
 
-                                "capacityWeight": 72.575,
+                                "capacityWeight": 19.216,
 
-                                "capacityVolume": 195.235,
+                                "capacityVolume": 62.731,
 
                                 "capacityValue3": 1,
 
-                                "arrivalDateTime": "2018-01-25T09:32:54+00:00",
+                                "arrivalDateTime": "2018-01-25T10:04:32+00:00",
 
-                                "calculatedMileage": 0.01,
+                                "calculatedMileage": 25.05,
 
-                                "calculatedTravelTime": 0,
+                                "calculatedTravelTime": 45.18,
 
-                                "actualTravelTime": 0,
+                                "actualTravelTime": 40.65,
 
                                 "deliverySequenceNumber": 5,
 
@@ -8848,21 +7166,21 @@
 
                                 "vehicleName": "VAN-1-4251",
 
-                                "departureTime": "2018-01-25T09:43:42+00:00",
+                                "departureTime": "2018-01-25T10:10:47+00:00",
 
                                 "customerRefNum": null,
 
-                                "postalcode": "SA715LE",
+                                "postalcode": "SA659AY",
 
-                                "orderNumber": "18947109109",
+                                "orderNumber": "18915304267",
 
                                 "shiftAttributes": "DEFAULT",
 
                                 "shiftId": "WAVE 1 TWICE DAILY",
 
-                                "status": "RESERVED",
+                                "status": "CONFIRMED",
 
-                                "maxAcceptableDelay": 0,
+                                "maxAcceptableDelay": 289,
 
                                 "locked": false
 
@@ -8872,33 +7190,33 @@
 
                                 "id": null,
 
-                                "reservationId": "18938669729180124160902985",
+                                "reservationId": "18933872405180124080539876",
 
-                                "fromTime": "2018-01-25T09:00:00+00:00",
+                                "fromTime": "2018-01-25T10:00:00+00:00",
 
-                                "toTime": "2018-01-25T10:00:00+00:00",
+                                "toTime": "2018-01-25T12:00:00+00:00",
 
-                                "latitude": 51.673551,
+                                "latitude": 52.003634,
 
-                                "longitude": -4.914978,
+                                "longitude": -4.914221,
 
-                               "serviceTime": 6,
+                                "serviceTime": 6,
 
-                                "serviceTime_MMSS": "6:43",
+                                "serviceTime_MMSS": "6:29",
 
-                                "capacityWeight": 23.25,
+                                "capacityWeight": 16.425,
 
-                                "capacityVolume": 62,
+                                "capacityVolume": 62.776,
 
                                 "capacityValue3": 1,
 
-                                "arrivalDateTime": "2018-01-25T09:54:32+00:00",
+                                "arrivalDateTime": "2018-01-25T10:19:55+00:00",
 
-                                "calculatedMileage": 4.16,
+                                "calculatedMileage": 3.87,
 
-                                "calculatedTravelTime": 10.83,
+                                "calculatedTravelTime": 9.13,
 
-                                "actualTravelTime": 9.75,
+                                "actualTravelTime": 8.21,
 
                                 "deliverySequenceNumber": 6,
 
@@ -8908,13 +7226,13 @@
 
                                 "vehicleName": "VAN-1-4251",
 
-                                "departureTime": "2018-01-25T10:01:15+00:00",
+                                "departureTime": "2018-01-25T10:26:24+00:00",
 
                                 "customerRefNum": null,
 
-                                "postalcode": "SA714EE",
+                                "postalcode": "SA420XP",
 
-                                "orderNumber": "18948043065",
+                                "orderNumber": "18933872405",
 
                                 "shiftAttributes": "DEFAULT",
 
@@ -8922,7 +7240,7 @@
 
                                 "status": "CONFIRMED",
 
-                                "maxAcceptableDelay": 0,
+                                "maxAcceptableDelay": 289,
 
                                 "locked": false
 
@@ -8932,33 +7250,33 @@
 
                                 "id": null,
 
-                                "reservationId": "18932556279180123083346777",
+                                "reservationId": "18932623906180123114234955",
 
                                 "fromTime": "2018-01-25T10:00:00+00:00",
 
                                 "toTime": "2018-01-25T12:00:00+00:00",
 
-                                "latitude": 51.81915,
+                                "latitude": 51.93017,
 
-                                "longitude": -4.612174,
+                                "longitude": -4.983972,
 
-                                "serviceTime": 7,
+                                "serviceTime": 6,
 
-                                "serviceTime_MMSS": "7:48",
+                                "serviceTime_MMSS": "6:15",
 
-                                "capacityWeight": 27.353,
+                                "capacityWeight": 17.102,
 
-                                "capacityVolume": 127.843,
+                                "capacityVolume": 76.248,
 
                                 "capacityValue3": 1,
 
-                                "arrivalDateTime": "2018-01-25T10:35:30+00:00",
+                                "arrivalDateTime": "2018-01-25T10:42:44+00:00",
 
-                                "calculatedMileage": 19.35,
+                                "calculatedMileage": 8.91,
 
-                                "calculatedTravelTime": 34.25,
+                                "calculatedTravelTime": 16.33,
 
-                                "actualTravelTime": 30.82,
+                                "actualTravelTime": 14.68,
 
                                 "deliverySequenceNumber": 7,
 
@@ -8968,133 +7286,13 @@
 
                                 "vehicleName": "VAN-1-4251",
 
-                                "departureTime": "2018-01-25T10:43:18+00:00",
+                                "departureTime": "2018-01-25T10:48:59+00:00",
 
                                 "customerRefNum": null,
 
-                                "postalcode": "SA340QB",
+                                "postalcode": "SA625RZ",
 
-                                "orderNumber": "18948083363",
-
-                               "shiftAttributes": "DEFAULT",
-
-                                "shiftId": "WAVE 1 TWICE DAILY",
-
-                                "status": "CONFIRMED",
-
-                                "maxAcceptableDelay": 885,
-
-                                "locked": false
-
-                            },
-
-                            {
-
-                                "id": null,
-
-                                "reservationId": "18940835629180124231616973",
-
-                                "fromTime": "2018-01-25T10:00:00+00:00",
-
-                                "toTime": "2018-01-25T12:00:00+00:00",
-
-                                "latitude": 51.812704,
-
-                                "longitude": -4.4949,
-
-                                "serviceTime": 7,
-
-                                "serviceTime_MMSS": "7:1",
-
-                                "capacityWeight": 34.192,
-
-                                "capacityVolume": 92.281,
-
-                                "capacityValue3": 1,
-
-                                "arrivalDateTime": "2018-01-25T10:53:08+00:00",
-
-                                "calculatedMileage": 5.62,
-
-                                "calculatedTravelTime": 9.83,
-
-                                "actualTravelTime": 8.85,
-
-                                "deliverySequenceNumber": 8,
-
-                                "activityType": "order",
-
-                                "tags": "DEFAULT",
-
-                                "vehicleName": "VAN-1-4251",
-
-                                "departureTime": "2018-01-25T11:00:09+00:00",
-
-                                "customerRefNum": null,
-
-                                "postalcode": "SA334EF",
-
-                                "orderNumber": "18940835629",
-
-                                "shiftAttributes": "DEFAULT",
-
-                                "shiftId": "WAVE 1 TWICE DAILY",
-
-                                "status": "RESERVED",
-
-                                "maxAcceptableDelay": 885,
-
-                                "locked": false
-
-                            },
-
-                            {
-
-                                "id": null,
-
-                                "reservationId": "18797443454180124175011806",
-
-                                "fromTime": "2018-01-25T11:00:00+00:00",
-
-                                "toTime": "2018-01-25T13:00:00+00:00",
-
-                                "latitude": 51.860776,
-
-                                "longitude": -4.319783,
-
-                               "serviceTime": 6,
-
-                                "serviceTime_MMSS": "6:0",
-
-                                "capacityWeight": 23.25,
-
-                                "capacityVolume": 84.218,
-
-                                "capacityValue3": 1,
-
-                                "arrivalDateTime": "2018-01-25T11:16:21+00:00",
-
-                                "calculatedMileage": 9.8,
-
-                                "calculatedTravelTime": 16.19,
-
-                                "actualTravelTime": 14.58,
-
-                                "deliverySequenceNumber": 9,
-
-                                "activityType": "ORDER",
-
-                                "tags": "DEFAULT",
-
-                                "vehicleName": "VAN-1-4251",
-
-                                "departureTime": "2018-01-25T11:22:21+00:00",
-
-                                "customerRefNum": null,
-
-                                "postalcode": "SA311SH",
-
-                                "orderNumber": "18797443454",
+                                "orderNumber": "18946051980",
 
                                 "shiftAttributes": "DEFAULT",
 
@@ -9102,67 +7300,7 @@
 
                                 "status": "CONFIRMED",
 
-                                "maxAcceptableDelay": 885,
-
-                                "locked": false
-
-                            },
-
-                            {
-
-                                "id": null,
-
-                                "reservationId": "18742622833180122205201861",
-
-                                "fromTime": "2018-01-25T12:00:00+00:00",
-
-                                "toTime": "2018-01-25T14:00:00+00:00",
-
-                                "latitude": 51.820148,
-
-                                "longitude": -4.600395,
-
-                               "serviceTime": 12,
-
-                                "serviceTime_MMSS": "12:40",
-
-                                "capacityWeight": 26.106,
-
-                                "capacityVolume": 62,
-
-                                "capacityValue3": 1,
-
-                                "arrivalDateTime": "2018-01-25T11:45:15+00:00",
-
-                                "calculatedMileage": 14.33,
-
-                                "calculatedTravelTime": 22.89,
-
-                                "actualTravelTime": 20.6,
-
-                                "deliverySequenceNumber": 10,
-
-                                "activityType": "ORDER",
-
-                                "tags": "DEFAULT",
-
-                                "vehicleName": "VAN-1-4251",
-
-                                "departureTime": "2018-01-25T12:12:40+00:00",
-
-                                "customerRefNum": null,
-
-                                "postalcode": "SA340DA",
-
-                                "orderNumber": "18742622833",
-
-                                "shiftAttributes": "DEFAULT",
-
-                                "shiftId": "WAVE 1 TWICE DAILY",
-
-                                "status": "CONFIRMED",
-
-                                "maxAcceptableDelay": 885,
+                                "maxAcceptableDelay": 289,
 
                                 "locked": false
 
@@ -9178,9 +7316,9 @@
 
                                 "toTime": "2018-01-25T11:45:00+00:00",
 
-                                "latitude": 51.820148,
+                                "latitude": 51.93017,
 
-                                "longitude": -4.600395,
+                                "longitude": -4.983972,
 
                                 "serviceTime": 30,
 
@@ -9192,15 +7330,15 @@
 
                                 "capacityValue3": 0,
 
-                               "arrivalDateTime": "2018-01-25T12:12:40+00:00",
+                                "arrivalDateTime": "2018-01-25T10:48:59+00:00",
 
-                                "calculatedMileage": 0.01,
+                                "calculatedMileage": 0.02,
 
                                 "calculatedTravelTime": 0,
 
                                 "actualTravelTime": 0,
 
-                                "deliverySequenceNumber": 11,
+                                "deliverySequenceNumber": 8,
 
                                 "activityType": "BREAK",
 
@@ -9208,7 +7346,7 @@
 
                                 "vehicleName": "VAN-1-4251",
 
-                                "departureTime": "2018-01-25T12:42:40+00:00",
+                                "departureTime": "2018-01-25T11:18:59+00:00",
 
                                 "customerRefNum": null,
 
@@ -9222,7 +7360,7 @@
 
                                 "status": null,
 
-                                "maxAcceptableDelay": 0,
+                                "maxAcceptableDelay": 289,
 
                                 "locked": false
 
@@ -9232,35 +7370,35 @@
 
                                 "id": null,
 
-                                "reservationId": "1891127084018012400305980",
+                                "reservationId": "18947416011180124122312384",
 
-                                "fromTime": "2018-01-25T12:00:00+00:00",
+                                "fromTime": "2018-01-25T11:00:00+00:00",
 
-                                "toTime": "2018-01-25T14:00:00+00:00",
+                                "toTime": "2018-01-25T13:00:00+00:00",
 
-                                "latitude": 51.842324,
+                                "latitude": 51.795389,
 
-                                "longitude": -4.730554,
+                                "longitude": -4.975865,
 
-                                "serviceTime": 7,
+                                "serviceTime": 13,
 
-                                "serviceTime_MMSS": "7:15",
+                                "serviceTime_MMSS": "13:13",
 
-                                "capacityWeight": 46.003,
+                                "capacityWeight": 17.957,
 
-                                "capacityVolume": 103.95,
+                                "capacityVolume": 87.671,
 
                                 "capacityValue3": 1,
 
-                                "arrivalDateTime": "2018-01-25T12:56:22+00:00",
+                                "arrivalDateTime": "2018-01-25T11:38:31+00:00",
 
-                                "calculatedMileage": 7.66,
+                                "calculatedMileage": 10.8,
 
-                                "calculatedTravelTime": 13.69,
+                                "calculatedTravelTime": 19.53,
 
-                                "actualTravelTime": 12.32,
+                                "actualTravelTime": 17.57,
 
-                                "deliverySequenceNumber": 12,
+                                "deliverySequenceNumber": 9,
 
                                 "activityType": "ORDER",
 
@@ -9268,13 +7406,13 @@
 
                                 "vehicleName": "VAN-1-4251",
 
-                                "departureTime": "2018-01-25T13:03:37+00:00",
+                                "departureTime": "2018-01-25T11:51:44+00:00",
 
                                 "customerRefNum": null,
 
-                                "postalcode": "SA667NQ",
+                                "postalcode": "SA611NZ",
 
-                                "orderNumber": "18911270840",
+                                "orderNumber": "18947416011",
 
                                 "shiftAttributes": "DEFAULT",
 
@@ -9282,7 +7420,127 @@
 
                                 "status": "CONFIRMED",
 
-                                "maxAcceptableDelay": 1466,
+                                "maxAcceptableDelay": 289,
+
+                                "locked": false
+
+                            },
+
+                            {
+
+                                "id": null,
+
+                                "reservationId": "18774922778180124092629609",
+
+                                "fromTime": "2018-01-25T11:00:00+00:00",
+
+                                "toTime": "2018-01-25T13:00:00+00:00",
+
+                                "latitude": 51.714393,
+
+                                "longitude": -5.033248,
+
+                                "serviceTime": 7,
+
+                                "serviceTime_MMSS": "7:15",
+
+                                "capacityWeight": 76.492,
+
+                                "capacityVolume": 169.526,
+
+                                "capacityValue3": 1,
+
+                                "arrivalDateTime": "2018-01-25T12:07:18+00:00",
+
+                                "calculatedMileage": 7.04,
+
+                                "calculatedTravelTime": 15.56,
+
+                                "actualTravelTime": 14,
+
+                                "deliverySequenceNumber": 10,
+
+                                "activityType": "ORDER",
+
+                                "tags": "DEFAULT",
+
+                                "vehicleName": "VAN-1-4251",
+
+                                "departureTime": "2018-01-25T12:14:33+00:00",
+
+                                "customerRefNum": null,
+
+                                "postalcode": "SA732JA",
+
+                                "orderNumber": "18774922778",
+
+                                "shiftAttributes": "DEFAULT",
+
+                                "shiftId": "WAVE 1 TWICE DAILY",
+
+                                "status": "CONFIRMED",
+
+                                "maxAcceptableDelay": 289,
+
+                                "locked": false
+
+                            },
+
+                            {
+
+                                "id": null,
+
+                                "reservationId": "18932249861180123220526412",
+
+                                "fromTime": "2018-01-25T13:00:00+00:00",
+
+                                "toTime": "2018-01-25T15:00:00+00:00",
+
+                                "latitude": 51.883698,
+
+                                "longitude": -5.261002,
+
+                                "serviceTime": 6,
+
+                                "serviceTime_MMSS": "6:28",
+
+                                "capacityWeight": 17.603,
+
+                                "capacityVolume": 43.85,
+
+                                "capacityValue3": 1,
+
+                                "arrivalDateTime": "2018-01-25T12:59:03+00:00",
+
+                                "calculatedMileage": 22.96,
+
+                                "calculatedTravelTime": 44.5,
+
+                                "actualTravelTime": 40.03,
+
+                                "deliverySequenceNumber": 11,
+
+                                "activityType": "ORDER",
+
+                                "tags": "DEFAULT",
+
+                                "vehicleName": "VAN-1-4251",
+
+                                "departureTime": "2018-01-25T13:06:28+00:00",
+
+                                "customerRefNum": null,
+
+                                "postalcode": "SA626NY",
+
+                                "orderNumber": "18932249861",
+
+                                "shiftAttributes": "DEFAULT",
+
+                                "shiftId": "WAVE 1 TWICE DAILY",
+
+                                "status": "CONFIRMED",
+
+                                "maxAcceptableDelay": 289,
 
                                 "locked": false
 
@@ -9306,21 +7564,21 @@
 
                                 "serviceTime_MMSS": "0:0",
 
-                                "capacityWeight": 1,
+                                "capacityWeight": 12.775,
 
-                                "capacityVolume": 1,
+                                "capacityVolume": 22.216,
 
                                 "capacityValue3": 0,
 
-                                "arrivalDateTime": "2018-01-25T13:34:34+00:00",
+                                "arrivalDateTime": "2018-01-25T13:55:08+00:00",
 
-                                "calculatedMileage": 18.67,
+                                "calculatedMileage": 25.32,
 
-                                "calculatedTravelTime": 30.94,
+                                "calculatedTravelTime": 48.66,
 
-                                "actualTravelTime": 27.85,
+                                "actualTravelTime": 43.79,
 
-                                "deliverySequenceNumber": 13,
+                                "deliverySequenceNumber": 12,
 
                                 "activityType": "DEPOT",
 
@@ -9328,7 +7586,7 @@
 
                                 "vehicleName": "VAN-1-4251",
 
-                                "departureTime": "2018-01-25T13:34:34+00:00",
+                                "departureTime": "2018-01-25T13:55:08+00:00",
 
                                 "customerRefNum": null,
 
@@ -9342,7 +7600,7 @@
 
                                 "status": null,
 
-                                "maxAcceptableDelay": 1466,
+                                "maxAcceptableDelay": 232,
 
                                 "locked": false
 
@@ -9352,9 +7610,9 @@
 
                         "carrier": null,
 
-                        "calculatedTravelTime": 10769,
+                        "calculatedTravelTime": 13439,
 
-                        "calculatedTravelDistance": 96.49,
+                        "calculatedTravelDistance": 111.39,
 
                         "externalReferenceKey": "929b281c-b44d-4949-b8c1-daeb490afdb6"
 
@@ -9466,15 +7724,15 @@
 
                                 "longitude": -4.941404,
 
-                               "serviceTime": 44,
+                                "serviceTime": 44,
 
                                 "serviceTime_MMSS": "44:0",
 
-                                "capacityWeight": 366.939,
+                                "capacityWeight": 190.484,
 
-                                "capacityVolume": 9140.3,
+                                "capacityVolume": 8533.641,
 
-                                "capacityValue3": 2147483640,
+                                "capacityValue3": 2147483635,
 
                                 "arrivalDateTime": "2018-01-25T07:15:00+00:00",
 
@@ -9506,7 +7764,7 @@
 
                                 "status": null,
 
-                                "maxAcceptableDelay": 4143,
+                                "maxAcceptableDelay": 3112,
 
                                 "locked": false
 
@@ -9516,33 +7774,33 @@
 
                                 "id": null,
 
-                                "reservationId": "18818121960180123192425583",
+                                "reservationId": "18938669729180124160902985",
 
-                                "fromTime": "2018-01-25T10:00:00+00:00",
+                                "fromTime": "2018-01-25T09:00:00+00:00",
 
-                                "toTime": "2018-01-25T12:00:00+00:00",
+                                "toTime": "2018-01-25T10:00:00+00:00",
 
-                                "latitude": 52.054832,
+                                "latitude": 51.673551,
 
-                                "longitude": -4.659645,
+                                "longitude": -4.914978,
 
-                               "serviceTime": 8,
+                                "serviceTime": 6,
 
-                                "serviceTime_MMSS": "8:15",
+                                "serviceTime_MMSS": "6:43",
 
-                                "capacityWeight": 41.792,
+                                "capacityWeight": 12.996,
 
-                                "capacityVolume": 125.935,
+                                "capacityVolume": 45.881,
 
                                 "capacityValue3": 1,
 
-                                "arrivalDateTime": "2018-01-25T08:55:46+00:00",
+                                "arrivalDateTime": "2018-01-25T08:08:08+00:00",
 
-                                "calculatedMileage": 35.07,
+                                "calculatedMileage": 3,
 
-                                "calculatedTravelTime": 56.76,
+                                "calculatedTravelTime": 9.13,
 
-                                "actualTravelTime": 51.07,
+                                "actualTravelTime": 8.22,
 
                                 "deliverySequenceNumber": 2,
 
@@ -9552,13 +7810,13 @@
 
                                 "vehicleName": "VAN-2-4251",
 
-                                "departureTime": "2018-01-25T10:08:15+00:00",
+                                "departureTime": "2018-01-25T09:06:43+00:00",
 
                                 "customerRefNum": null,
 
-                                "postalcode": "SA433NJ",
+                                "postalcode": "SA714EE",
 
-                                "orderNumber": "18948023793",
+                                "orderNumber": "18948043065",
 
                                 "shiftAttributes": "DEFAULT",
 
@@ -9566,7 +7824,7 @@
 
                                 "status": "CONFIRMED",
 
-                                "maxAcceptableDelay": 4143,
+                                "maxAcceptableDelay": 3112,
 
                                 "locked": false
 
@@ -9576,33 +7834,33 @@
 
                                 "id": null,
 
-                                "reservationId": "18947225088180124095904707",
+                                "reservationId": "18947109109180124100613849",
 
-                                "fromTime": "2018-01-25T10:00:00+00:00",
+                                "fromTime": "2018-01-25T09:00:00+00:00",
 
-                                "toTime": "2018-01-25T12:00:00+00:00",
+                                "toTime": "2018-01-25T10:00:00+00:00",
 
-                                "latitude": 51.864201,
+                                "latitude": 51.649304,
 
-                                "longitude": -4.733056,
+                                "longitude": -4.860838,
 
-                               "serviceTime": 7,
+                                "serviceTime": 10,
 
-                                "serviceTime_MMSS": "7:48",
+                                "serviceTime_MMSS": "10:48",
 
-                                "capacityWeight": 33.326,
+                                "capacityWeight": 72.575,
 
-                                "capacityVolume": 103.408,
+                                "capacityVolume": 195.235,
 
                                 "capacityValue3": 1,
 
-                                "arrivalDateTime": "2018-01-25T10:32:23+00:00",
+                                "arrivalDateTime": "2018-01-25T09:17:47+00:00",
 
-                                "calculatedMileage": 15.21,
+                                "calculatedMileage": 4.16,
 
-                                "calculatedTravelTime": 24.13,
+                                "calculatedTravelTime": 11.06,
 
-                                "actualTravelTime": 21.71,
+                                "actualTravelTime": 9.96,
 
                                 "deliverySequenceNumber": 3,
 
@@ -9612,21 +7870,21 @@
 
                                 "vehicleName": "VAN-2-4251",
 
-                                "departureTime": "2018-01-25T10:40:11+00:00",
+                                "departureTime": "2018-01-25T09:28:35+00:00",
 
                                 "customerRefNum": null,
 
-                                "postalcode": "SA667TN",
+                                "postalcode": "SA715LE",
 
-                                "orderNumber": "18947225088",
+                                "orderNumber": "18947109109",
 
                                 "shiftAttributes": "DEFAULT",
 
                                 "shiftId": "WAVE 1 TWICE DAILY",
 
-                                "status": "CONFIRMED",
+                                "status": "RESERVED",
 
-                                "maxAcceptableDelay": 289,
+                                "maxAcceptableDelay": 0,
 
                                 "locked": false
 
@@ -9636,27 +7894,27 @@
 
                                 "id": null,
 
-                                "reservationId": "279442A9-E63E-4C11-AC1C-9E8B1BBBE2C3",
+                                "reservationId": "18947109111180124100830667",
 
-                                "fromTime": "2018-01-25T10:45:00+00:00",
+                                "fromTime": "2018-01-25T09:00:00+00:00",
 
-                                "toTime": "2018-01-25T11:45:00+00:00",
+                                "toTime": "2018-01-25T10:00:00+00:00",
 
-                                "latitude": 51.864201,
+                                "latitude": 51.649304,
 
-                                "longitude": -4.733056,
+                                "longitude": -4.860838,
 
-                                "serviceTime": 30,
+                                "serviceTime": 10,
 
-                                "serviceTime_MMSS": "30:0",
+                                "serviceTime_MMSS": "10:48",
 
-                                "capacityWeight": 1,
+                                "capacityWeight": 71.674,
 
-                                "capacityVolume": 1,
+                                "capacityVolume": 193.377,
 
-                                "capacityValue3": 0,
+                                "capacityValue3": 1,
 
-                               "arrivalDateTime": "2018-01-25T10:40:11+00:00",
+                                "arrivalDateTime": "2018-01-25T09:28:35+00:00",
 
                                 "calculatedMileage": 0.01,
 
@@ -9666,27 +7924,87 @@
 
                                 "deliverySequenceNumber": 4,
 
-                                "activityType": "BREAK",
+                                "activityType": "ORDER",
 
                                 "tags": "DEFAULT",
 
                                 "vehicleName": "VAN-2-4251",
 
-                                "departureTime": "2018-01-25T11:15:00+00:00",
+                                "departureTime": "2018-01-25T09:39:23+00:00",
 
                                 "customerRefNum": null,
 
-                                "postalcode": null,
+                                "postalcode": "SA715LE",
 
-                                "orderNumber": null,
+                                "orderNumber": "18947109104",
 
                                 "shiftAttributes": "DEFAULT",
 
                                 "shiftId": "WAVE 1 TWICE DAILY",
 
-                                "status": null,
+                                "status": "CONFIRMED",
 
-                                "maxAcceptableDelay": 289,
+                                "maxAcceptableDelay": 0,
+
+                                "locked": false
+
+                            },
+
+                            {
+
+                                "id": null,
+
+                                "reservationId": "18187359298180124100335822",
+
+                                "fromTime": "2018-01-25T09:00:00+00:00",
+
+                                "toTime": "2018-01-25T11:00:00+00:00",
+
+                                "latitude": 51.647783,
+
+                                "longitude": -4.777758,
+
+                                "serviceTime": 7,
+
+                                "serviceTime_MMSS": "7:33",
+
+                                "capacityWeight": 24.815,
+
+                                "capacityVolume": 87.614,
+
+                                "capacityValue3": 1,
+
+                                "arrivalDateTime": "2018-01-25T09:53:51+00:00",
+
+                                "calculatedMileage": 6.61,
+
+                                "calculatedTravelTime": 14.46,
+
+                                "actualTravelTime": 13.01,
+
+                                "deliverySequenceNumber": 5,
+
+                                "activityType": "ORDER",
+
+                                "tags": "DEFAULT",
+
+                                "vehicleName": "VAN-2-4251",
+
+                                "departureTime": "2018-01-25T10:01:24+00:00",
+
+                                "customerRefNum": null,
+
+                                "postalcode": "SA707TU",
+
+                                "orderNumber": "18187359298",
+
+                                "shiftAttributes": "DEFAULT",
+
+                                "shiftId": "WAVE 1 TWICE DAILY",
+
+                                "status": "CONFIRMED",
+
+                                "maxAcceptableDelay": 0,
 
                                 "locked": false
 
@@ -9716,15 +8034,15 @@
 
                                 "capacityValue3": 1,
 
-                                "arrivalDateTime": "2018-01-25T11:45:30+00:00",
+                                "arrivalDateTime": "2018-01-25T10:13:44+00:00",
 
-                                "calculatedMileage": 15.41,
+                                "calculatedMileage": 5.29,
 
-                                "calculatedTravelTime": 30.5,
+                                "calculatedTravelTime": 12.33,
 
-                                "actualTravelTime": 27.44,
+                                "actualTravelTime": 11.09,
 
-                                "deliverySequenceNumber": 5,
+                                "deliverySequenceNumber": 6,
 
                                 "activityType": "ORDER",
 
@@ -9732,7 +8050,7 @@
 
                                 "vehicleName": "VAN-2-4251",
 
-                                "departureTime": "2018-01-25T11:52:30+00:00",
+                                "departureTime": "2018-01-25T10:20:44+00:00",
 
                                 "customerRefNum": null,
 
@@ -9756,93 +8074,33 @@
 
                                 "id": null,
 
-                                "reservationId": "18774922778180124092629609",
+                                "reservationId": "18934099948180123152144899",
 
-                                "fromTime": "2018-01-25T11:00:00+00:00",
+                                "fromTime": "2018-01-25T10:00:00+00:00",
 
-                                "toTime": "2018-01-25T13:00:00+00:00",
+                                "toTime": "2018-01-25T12:00:00+00:00",
 
-                                "latitude": 51.714393,
+                                "latitude": 51.763837,
 
-                                "longitude": -5.033248,
+                                "longitude": -4.80617,
 
                                 "serviceTime": 7,
 
-                                "serviceTime_MMSS": "7:15",
+                                "serviceTime_MMSS": "7:33",
 
-                                "capacityWeight": 76.492,
+                                "capacityWeight": 34.783,
 
-                                "capacityVolume": 169.526,
-
-                                "capacityValue3": 1,
-
-                                "arrivalDateTime": "2018-01-25T12:23:45+00:00",
-
-                                "calculatedMileage": 17.01,
-
-                                "calculatedTravelTime": 31.25,
-
-                                "actualTravelTime": 28.12,
-
-                                "deliverySequenceNumber": 6,
-
-                                "activityType": "ORDER",
-
-                                "tags": "DEFAULT",
-
-                                "vehicleName": "VAN-2-4251",
-
-                                "departureTime": "2018-01-25T12:31:00+00:00",
-
-                                "customerRefNum": null,
-
-                                "postalcode": "SA732JA",
-
-                                "orderNumber": "18774922778",
-
-                                "shiftAttributes": "DEFAULT",
-
-                                "shiftId": "WAVE 1 TWICE DAILY",
-
-                                "status": "CONFIRMED",
-
-                                "maxAcceptableDelay": 0,
-
-                                "locked": false
-
-                            },
-
-                            {
-
-                                "id": null,
-
-                                "reservationId": "18914685937180123092414245",
-
-                                "fromTime": "2018-01-25T13:00:00+00:00",
-
-                                "toTime": "2018-01-25T15:00:00+00:00",
-
-                                "latitude": 52.08573,
-
-                                "longitude": -4.654139,
-
-                                "serviceTime": 10,
-
-                                "serviceTime_MMSS": "10:1",
-
-                                "capacityWeight": 54.942,
-
-                                "capacityVolume": 132.997,
+                                "capacityVolume": 59.411,
 
                                 "capacityValue3": 1,
 
-                                "arrivalDateTime": "2018-01-25T13:30:02+00:00",
+                                "arrivalDateTime": "2018-01-25T10:38:44+00:00",
 
-                                "calculatedMileage": 33.71,
+                                "calculatedMileage": 8.91,
 
-                                "calculatedTravelTime": 59.03,
+                                "calculatedTravelTime": 18,
 
-                                "actualTravelTime": 53.13,
+                                "actualTravelTime": 16.19,
 
                                 "deliverySequenceNumber": 7,
 
@@ -9852,13 +8110,13 @@
 
                                 "vehicleName": "VAN-2-4251",
 
-                                "departureTime": "2018-01-25T13:40:03+00:00",
+                                "departureTime": "2018-01-25T10:46:17+00:00",
 
                                 "customerRefNum": null,
 
-                                "postalcode": "SA431EQ",
+                                "postalcode": "SA678AG",
 
-                                "orderNumber": "18947048753",
+                                "orderNumber": "18934099948",
 
                                 "shiftAttributes": "DEFAULT",
 
@@ -9876,33 +8134,33 @@
 
                                 "id": null,
 
-                                "reservationId": "18934752762180122122513670",
+                                "reservationId": "18947269881180124111715503",
 
-                                "fromTime": "2018-01-25T13:00:00+00:00",
+                                "fromTime": "2018-01-25T11:00:00+00:00",
 
-                                "toTime": "2018-01-25T15:00:00+00:00",
+                                "toTime": "2018-01-25T13:00:00+00:00",
 
-                                "latitude": 51.970181,
+                                "latitude": 51.819727,
 
-                                "longitude": -4.648368,
+                                "longitude": -4.616925,
 
-                                "serviceTime": 7,
+                                "serviceTime": 15,
 
-                                "serviceTime_MMSS": "7:0",
+                                "serviceTime_MMSS": "15:23",
 
-                                "capacityWeight": 23.344,
+                                "capacityWeight": 62.917,
 
-                                "capacityVolume": 62,
+                                "capacityVolume": 281.153,
 
                                 "capacityValue3": 1,
 
-                                "arrivalDateTime": "2018-01-25T13:56:55+00:00",
+                                "arrivalDateTime": "2018-01-25T11:03:43+00:00",
 
-                                "calculatedMileage": 9,
+                                "calculatedMileage": 11.23,
 
-                                "calculatedTravelTime": 16.86,
+                                "calculatedTravelTime": 17.43,
 
-                                "actualTravelTime": 15.17,
+                                "actualTravelTime": 15.68,
 
                                 "deliverySequenceNumber": 8,
 
@@ -9912,13 +8170,133 @@
 
                                 "vehicleName": "VAN-2-4251",
 
-                                "departureTime": "2018-01-25T14:03:55+00:00",
+                                "departureTime": "2018-01-25T11:19:06+00:00",
 
                                 "customerRefNum": null,
 
-                                "postalcode": "SA413QJ",
+                                "postalcode": "SA340AF",
 
-                                "orderNumber": "18943972054",
+                                "orderNumber": "18947269881",
+
+                                "shiftAttributes": "DEFAULT",
+
+                                "shiftId": "WAVE 1 TWICE DAILY",
+
+                                "status": "CONFIRMED",
+
+                                "maxAcceptableDelay": 0,
+
+                                "locked": false
+
+                            },
+
+                            {
+
+                                "id": null,
+
+                                "reservationId": "279442A9-E63E-4C11-AC1C-9E8B1BBBE2C3",
+
+                               "fromTime": "2018-01-25T10:45:00+00:00",
+
+                                "toTime": "2018-01-25T11:45:00+00:00",
+
+                                "latitude": 51.819727,
+
+                                "longitude": -4.616925,
+
+                                "serviceTime": 30,
+
+                                "serviceTime_MMSS": "30:0",
+
+                                "capacityWeight": 1,
+
+                                "capacityVolume": 1,
+
+                                "capacityValue3": 0,
+
+                                "arrivalDateTime": "2018-01-25T11:19:06+00:00",
+
+                                "calculatedMileage": 0.01,
+
+                                "calculatedTravelTime": 0,
+
+                                "actualTravelTime": 0,
+
+                                "deliverySequenceNumber": 9,
+
+                                "activityType": "BREAK",
+
+                                "tags": "DEFAULT",
+
+                                "vehicleName": "VAN-2-4251",
+
+                                "departureTime": "2018-01-25T11:49:06+00:00",
+
+                                "customerRefNum": null,
+
+                                "postalcode": null,
+
+                                "orderNumber": null,
+
+                                "shiftAttributes": "DEFAULT",
+
+                                "shiftId": "WAVE 1 TWICE DAILY",
+
+                                "status": null,
+
+                                "maxAcceptableDelay": 0,
+
+                                "locked": false
+
+                            },
+
+                            {
+
+                                "id": null,
+
+                                "reservationId": "1891127084018012400305980",
+
+                                "fromTime": "2018-01-25T12:00:00+00:00",
+
+                                "toTime": "2018-01-25T14:00:00+00:00",
+
+                                "latitude": 51.842324,
+
+                                "longitude": -4.730554,
+
+                                "serviceTime": 7,
+
+                                "serviceTime_MMSS": "7:15",
+
+                                "capacityWeight": 46.003,
+
+                                "capacityVolume": 103.95,
+
+                                "capacityValue3": 1,
+
+                                "arrivalDateTime": "2018-01-25T12:00:10+00:00",
+
+                                "calculatedMileage": 6.9,
+
+                                "calculatedTravelTime": 11.06,
+
+                                "actualTravelTime": 9.94,
+
+                                "deliverySequenceNumber": 10,
+
+                                "activityType": "ORDER",
+
+                                "tags": "DEFAULT",
+
+                                "vehicleName": "VAN-2-4251",
+
+                                "departureTime": "2018-01-25T12:07:25+00:00",
+
+                                "customerRefNum": null,
+
+                                "postalcode": "SA667NQ",
+
+                                "orderNumber": "18911270840",
 
                                 "shiftAttributes": "DEFAULT",
 
@@ -9956,15 +8334,15 @@
 
                                 "capacityValue3": 1,
 
-                                "arrivalDateTime": "2018-01-25T14:19:43+00:00",
+                                "arrivalDateTime": "2018-01-25T12:07:25+00:00",
 
-                                "calculatedMileage": 10.16,
+                                "calculatedMileage": 0.01,
 
-                                "calculatedTravelTime": 15.8,
+                                "calculatedTravelTime": 0,
 
-                                "actualTravelTime": 14.21,
+                                "actualTravelTime": 0,
 
-                                "deliverySequenceNumber": 9,
+                                "deliverySequenceNumber": 11,
 
                                 "activityType": "ORDER",
 
@@ -9972,7 +8350,7 @@
 
                                 "vehicleName": "VAN-2-4251",
 
-                                "departureTime": "2018-01-25T14:26:43+00:00",
+                                "departureTime": "2018-01-25T12:14:25+00:00",
 
                                 "customerRefNum": null,
 
@@ -9990,9 +8368,189 @@
 
                                 "locked": false
 
+                           },
+
+                            {
+
+                                "id": null,
+
+                                "reservationId": "18857925943180123113022627",
+
+                                "fromTime": "2018-01-25T12:00:00+00:00",
+
+                                "toTime": "2018-01-25T13:00:00+00:00",
+
+                                "latitude": 51.675551,
+
+                                "longitude": -4.918853,
+
+                                "serviceTime": 7,
+
+                                "serviceTime_MMSS": "7:15",
+
+                                "capacityWeight": 27.51,
+
+                                "capacityVolume": 77.159,
+
+                                "capacityValue3": 1,
+
+                                "arrivalDateTime": "2018-01-25T12:45:54+00:00",
+
+                                "calculatedMileage": 18.28,
+
+                                "calculatedTravelTime": 31.48,
+
+                                "actualTravelTime": 28.32,
+
+                                "deliverySequenceNumber": 12,
+
+                                "activityType": "ORDER",
+
+                                "tags": "DEFAULT",
+
+                                "vehicleName": "VAN-2-4251",
+
+                                "departureTime": "2018-01-25T12:53:09+00:00",
+
+                                "customerRefNum": null,
+
+                                "postalcode": "SA714LD",
+
+                                "orderNumber": "18857925943",
+
+                                "shiftAttributes": "DEFAULT",
+
+                                "shiftId": "WAVE 1 TWICE DAILY",
+
+                                "status": "CONFIRMED",
+
+                                "maxAcceptableDelay": 0,
+
+                                "locked": false
+
                             },
 
-                           {
+                            {
+
+                                "id": null,
+
+                                "reservationId": "18920674398180123201827693",
+
+                                "fromTime": "2018-01-25T12:30:00+00:00",
+
+                                "toTime": "2018-01-25T13:30:00+00:00",
+
+                                "latitude": 51.686957,
+
+                                "longitude": -4.943414,
+
+                                "serviceTime": 6,
+
+                                "serviceTime_MMSS": "6:28",
+
+                                "capacityWeight": 13.259,
+
+                                "capacityVolume": 35.801,
+
+                                "capacityValue3": 1,
+
+                                "arrivalDateTime": "2018-01-25T13:00:14+00:00",
+
+                                "calculatedMileage": 2.25,
+
+                                "calculatedTravelTime": 7.08,
+
+                                "actualTravelTime": 6.37,
+
+                                "deliverySequenceNumber": 13,
+
+                                "activityType": "ORDER",
+
+                                "tags": "DEFAULT",
+
+                                "vehicleName": "VAN-2-4251",
+
+                                "departureTime": "2018-01-25T13:06:42+00:00",
+
+                                "customerRefNum": null,
+
+                                "postalcode": "SA726QU",
+
+                                "orderNumber": "18920674398",
+
+                                "shiftAttributes": "DEFAULT",
+
+                                "shiftId": "WAVE 1 TWICE DAILY",
+
+                                "status": "CONFIRMED",
+
+                                "maxAcceptableDelay": 0,
+
+                                "locked": false
+
+                            },
+
+                            {
+
+                                "id": null,
+
+                                "reservationId": "18922330138180122190017357",
+
+                                "fromTime": "2018-01-25T13:00:00+00:00",
+
+                                "toTime": "2018-01-25T15:00:00+00:00",
+
+                                "latitude": 51.705323,
+
+                                "longitude": -4.69996,
+
+                                "serviceTime": 7,
+
+                                "serviceTime_MMSS": "7:0",
+
+                                "capacityWeight": 39.814,
+
+                                "capacityVolume": 103.406,
+
+                                "capacityValue3": 1,
+
+                                "arrivalDateTime": "2018-01-25T13:31:52+00:00",
+
+                                "calculatedMileage": 12.55,
+
+                                "calculatedTravelTime": 25.16,
+
+                                "actualTravelTime": 22.64,
+
+                                "deliverySequenceNumber": 14,
+
+                                "activityType": "ORDER",
+
+                                "tags": "DEFAULT",
+
+                                "vehicleName": "VAN-2-4251",
+
+                                "departureTime": "2018-01-25T13:38:52+00:00",
+
+                                "customerRefNum": null,
+
+                                "postalcode": "SA699PE",
+
+                                "orderNumber": "18947974293",
+
+                                "shiftAttributes": "DEFAULT",
+
+                                "shiftId": "WAVE 1 TWICE DAILY",
+
+                                "status": "CONFIRMED",
+
+                                "maxAcceptableDelay": 0,
+
+                                "locked": false
+
+                            },
+
+                            {
 
                                 "id": null,
 
@@ -10010,21 +8568,21 @@
 
                                 "serviceTime_MMSS": "0:0",
 
-                                "capacityWeight": 1,
+                                "capacityWeight": 0.958,
 
-                                "capacityVolume": 1,
+                                "capacityVolume": 18.527,
 
                                 "capacityValue3": 0,
 
-                                "arrivalDateTime": "2018-01-25T14:57:41+00:00",
+                                "arrivalDateTime": "2018-01-25T14:01:48+00:00",
 
-                                "calculatedMileage": 18.67,
+                                "calculatedMileage": 12.23,
 
-                                "calculatedTravelTime": 30.96,
+                                "calculatedTravelTime": 22.93,
 
-                                "actualTravelTime": 27.85,
+                                "actualTravelTime": 20.64,
 
-                                "deliverySequenceNumber": 10,
+                                "deliverySequenceNumber": 15,
 
                                 "activityType": "DEPOT",
 
@@ -10032,7 +8590,7 @@
 
                                 "vehicleName": "VAN-2-4251",
 
-                                "departureTime": "2018-01-25T14:57:41+00:00",
+                                "departureTime": "2018-01-25T14:01:48+00:00",
 
                                 "customerRefNum": null,
 
@@ -10056,9 +8614,9 @@
 
                         "carrier": null,
 
-                        "calculatedTravelTime": 15919,
+                        "calculatedTravelTime": 10810,
 
-                        "calculatedTravelDistance": 154.25,
+                        "calculatedTravelDistance": 91.46,
 
                         "externalReferenceKey": "71ebc505-899e-441b-ac47-ed7ffce4780b"
 
@@ -10174,11 +8732,11 @@
 
                                 "serviceTime_MMSS": "44:0",
 
-                                "capacityWeight": 297.718,
+                                "capacityWeight": 310.408,
 
-                                "capacityVolume": 8843.576,
+                                "capacityVolume": 8932.245,
 
-                                "capacityValue3": 2147483636,
+                                "capacityValue3": 2147483634,
 
                                 "arrivalDateTime": "2018-01-25T07:45:00+00:00",
 
@@ -10210,67 +8768,7 @@
 
                                 "status": null,
 
-                                "maxAcceptableDelay": 625,
-
-                                "locked": false
-
-                            },
-
-                            {
-
-                                "id": null,
-
-                                "reservationId": "18934948101180124224253331",
-
-                                "fromTime": "2018-01-25T09:00:00+00:00",
-
-                                "toTime": "2018-01-25T11:00:00+00:00",
-
-                                "latitude": 51.799908,
-
-                                "longitude": -4.979843,
-
-                                "serviceTime": 7,
-
-                                "serviceTime_MMSS": "7:1",
-
-                                "capacityWeight": 33.195,
-
-                                "capacityVolume": 100.724,
-
-                                "capacityValue3": 1,
-
-                                "arrivalDateTime": "2018-01-25T08:49:35+00:00",
-
-                                "calculatedMileage": 9.75,
-
-                                "calculatedTravelTime": 20.58,
-
-                                "actualTravelTime": 18.51,
-
-                                "deliverySequenceNumber": 2,
-
-                                "activityType": "ORDER",
-
-                                "tags": "DEFAULT",
-
-                                "vehicleName": "VAN-3-4251",
-
-                                "departureTime": "2018-01-25T09:07:01+00:00",
-
-                                "customerRefNum": null,
-
-                                "postalcode": "SA611BZ",
-
-                                "orderNumber": "18934948101",
-
-                                "shiftAttributes": "DEFAULT",
-
-                                "shiftId": "WAVE 2 TWICE DAILY",
-
-                                "status": "RESERVED",
-
-                                "maxAcceptableDelay": 625,
+                                "maxAcceptableDelay": 189,
 
                                 "locked": false
 
@@ -10296,19 +8794,19 @@
 
                                 "capacityWeight": 41.094,
 
-                               "capacityVolume": 118.995,
+                                "capacityVolume": 118.995,
 
                                 "capacityValue3": 1,
 
-                                "arrivalDateTime": "2018-01-25T09:23:37+00:00",
+                                "arrivalDateTime": "2018-01-25T08:36:30+00:00",
 
-                                "calculatedMileage": 7.7,
+                                "calculatedMileage": 2.95,
 
-                                "calculatedTravelTime": 16.61,
+                                "calculatedTravelTime": 7.5,
 
-                                "actualTravelTime": 14.93,
+                                "actualTravelTime": 6.74,
 
-                                "deliverySequenceNumber": 3,
+                                "deliverySequenceNumber": 2,
 
                                 "activityType": "ORDER",
 
@@ -10316,7 +8814,7 @@
 
                                 "vehicleName": "VAN-3-4251",
 
-                                "departureTime": "2018-01-25T09:31:11+00:00",
+                                "departureTime": "2018-01-25T08:44:04+00:00",
 
                                 "customerRefNum": null,
 
@@ -10330,7 +8828,7 @@
 
                                 "status": "CONFIRMED",
 
-                                "maxAcceptableDelay": 0,
+                                "maxAcceptableDelay": 189,
 
                                 "locked": false
 
@@ -10356,11 +8854,11 @@
 
                                 "capacityWeight": 26.114,
 
-                               "capacityVolume": 92.888,
+                                "capacityVolume": 92.888,
 
                                 "capacityValue3": 1,
 
-                                "arrivalDateTime": "2018-01-25T09:35:19+00:00",
+                                "arrivalDateTime": "2018-01-25T08:48:12+00:00",
 
                                 "calculatedMileage": 1.31,
 
@@ -10368,7 +8866,7 @@
 
                                 "actualTravelTime": 3.72,
 
-                                "deliverySequenceNumber": 4,
+                                "deliverySequenceNumber": 3,
 
                                 "activityType": "ORDER",
 
@@ -10376,7 +8874,7 @@
 
                                 "vehicleName": "VAN-3-4251",
 
-                                "departureTime": "2018-01-25T09:43:58+00:00",
+                                "departureTime": "2018-01-25T08:56:51+00:00",
 
                                 "customerRefNum": null,
 
@@ -10390,7 +8888,7 @@
 
                                 "status": "CONFIRMED",
 
-                                "maxAcceptableDelay": 0,
+                                "maxAcceptableDelay": 189,
 
                                 "locked": false
 
@@ -10400,33 +8898,93 @@
 
                                 "id": null,
 
-                                "reservationId": "18935003095180124084930135",
+                                "reservationId": "18818121960180123192425583",
 
                                 "fromTime": "2018-01-25T10:00:00+00:00",
 
                                 "toTime": "2018-01-25T12:00:00+00:00",
 
-                                "latitude": 51.814711,
+                                "latitude": 52.054832,
 
-                                "longitude": -4.496506,
+                                "longitude": -4.659645,
 
                                 "serviceTime": 8,
 
-                                "serviceTime_MMSS": "8:39",
+                                "serviceTime_MMSS": "8:15",
 
-                                "capacityWeight": 41.521,
+                                "capacityWeight": 41.792,
 
-                               "capacityVolume": 142.298,
+                                "capacityVolume": 125.935,
 
                                 "capacityValue3": 1,
 
-                                "arrivalDateTime": "2018-01-25T10:25:40+00:00",
+                                "arrivalDateTime": "2018-01-25T09:56:02+00:00",
 
-                                "calculatedMileage": 26.42,
+                                "calculatedMileage": 32.82,
 
-                                "calculatedTravelTime": 41.7,
+                                "calculatedTravelTime": 59.18,
 
-                                "actualTravelTime": 37.53,
+                                "actualTravelTime": 53.25,
+
+                                "deliverySequenceNumber": 4,
+
+                                "activityType": "ORDER",
+
+                                "tags": "DEFAULT",
+
+                                "vehicleName": "VAN-3-4251",
+
+                                "departureTime": "2018-01-25T10:08:15+00:00",
+
+                                "customerRefNum": null,
+
+                                "postalcode": "SA433NJ",
+
+                                "orderNumber": "18948023793",
+
+                                "shiftAttributes": "DEFAULT",
+
+                                "shiftId": "WAVE 2 TWICE DAILY",
+
+                                "status": "CONFIRMED",
+
+                                "maxAcceptableDelay": 238,
+
+                                "locked": false
+
+                            },
+
+                            {
+
+                                "id": null,
+
+                                "reservationId": "18947767235180124162105109",
+
+                                "fromTime": "2018-01-25T10:00:00+00:00",
+
+                                "toTime": "2018-01-25T12:00:00+00:00",
+
+                                "latitude": 52.042582,
+
+                                "longitude": -4.469865,
+
+                                "serviceTime": 7,
+
+                                "serviceTime_MMSS": "7:33",
+
+                                "capacityWeight": 38.816,
+
+                                "capacityVolume": 122.602,
+
+                                "capacityValue3": 1,
+
+                                "arrivalDateTime": "2018-01-25T10:27:41+00:00",
+
+                                "calculatedMileage": 11.83,
+
+                                "calculatedTravelTime": 19.43,
+
+                                "actualTravelTime": 17.48,
 
                                 "deliverySequenceNumber": 5,
 
@@ -10436,13 +8994,13 @@
 
                                 "vehicleName": "VAN-3-4251",
 
-                                "departureTime": "2018-01-25T10:34:19+00:00",
+                                "departureTime": "2018-01-25T10:35:14+00:00",
 
                                 "customerRefNum": null,
 
-                                "postalcode": "SA334DZ",
+                                "postalcode": "SA389NT",
 
-                                "orderNumber": "18935003095",
+                                "orderNumber": "18947767235",
 
                                 "shiftAttributes": "DEFAULT",
 
@@ -10460,33 +9018,33 @@
 
                                 "id": null,
 
-                               "reservationId": "18935241193180124203452938",
+                                "reservationId": "18933186544180123204951279",
 
-                                "fromTime": "2018-01-25T09:00:00+00:00",
+                                "fromTime": "2018-01-25T10:00:00+00:00",
 
-                                "toTime": "2018-01-25T11:00:00+00:00",
+                                "toTime": "2018-01-25T12:00:00+00:00",
 
-                                "latitude": 51.720004,
+                                "latitude": 51.940332,
 
-                                "longitude": -4.745333,
+                                "longitude": -4.306251,
 
-                                "serviceTime": 8,
+                                "serviceTime": 6,
 
-                                "serviceTime_MMSS": "8:28",
+                                "serviceTime_MMSS": "6:43",
 
-                                "capacityWeight": 23.25,
+                                "capacityWeight": 16.006,
 
-                                "capacityVolume": 66.629,
+                                "capacityVolume": 46.006,
 
                                 "capacityValue3": 1,
 
-                                "arrivalDateTime": "2018-01-25T10:54:59+00:00",
+                                "arrivalDateTime": "2018-01-25T11:03:44+00:00",
 
-                                "calculatedMileage": 13.9,
+                                "calculatedMileage": 13.58,
 
-                                "calculatedTravelTime": 20.66,
+                                "calculatedTravelTime": 28.5,
 
-                                "actualTravelTime": 18.58,
+                                "actualTravelTime": 25.64,
 
                                 "deliverySequenceNumber": 6,
 
@@ -10496,13 +9054,13 @@
 
                                 "vehicleName": "VAN-3-4251",
 
-                                "departureTime": "2018-01-25T11:03:27+00:00",
+                                "departureTime": "2018-01-25T11:10:27+00:00",
 
                                 "customerRefNum": null,
 
-                                "postalcode": "SA680RD",
+                                "postalcode": "SA336BT",
 
-                                "orderNumber": "18935241193",
+                                "orderNumber": "18948222703",
 
                                 "shiftAttributes": "DEFAULT",
 
@@ -10520,33 +9078,33 @@
 
                                 "id": null,
 
-                               "reservationId": "18924294910180124145502395",
+                                "reservationId": "18930334393180124080354896",
 
-                                "fromTime": "2018-01-25T09:00:00+00:00",
+                                "fromTime": "2018-01-25T11:00:00+00:00",
 
-                                "toTime": "2018-01-25T11:00:00+00:00",
+                                "toTime": "2018-01-25T13:00:00+00:00",
 
-                                "latitude": 51.715477,
+                                "latitude": 51.858475,
 
-                                "longitude": -4.732967,
+                                "longitude": -4.305112,
 
                                 "serviceTime": 12,
 
-                                "serviceTime_MMSS": "12:40",
+                                "serviceTime_MMSS": "12:8",
 
-                                "capacityWeight": 23.25,
+                                "capacityWeight": 15.301,
 
-                                "capacityVolume": 85.683,
+                                "capacityVolume": 52.359,
 
                                 "capacityValue3": 1,
 
-                                "arrivalDateTime": "2018-01-25T11:06:31+00:00",
+                                "arrivalDateTime": "2018-01-25T11:28:38+00:00",
 
-                                "calculatedMileage": 1.36,
+                                "calculatedMileage": 7.03,
 
-                                "calculatedTravelTime": 3.06,
+                                "calculatedTravelTime": 18.18,
 
-                                "actualTravelTime": 2.75,
+                                "actualTravelTime": 16.35,
 
                                 "deliverySequenceNumber": 7,
 
@@ -10556,13 +9114,13 @@
 
                                 "vehicleName": "VAN-3-4251",
 
-                                "departureTime": "2018-01-25T11:19:11+00:00",
+                                "departureTime": "2018-01-25T11:40:46+00:00",
 
                                 "customerRefNum": null,
 
-                                "postalcode": "SA699DY",
+                                "postalcode": "SA311DA",
 
-                                "orderNumber": "18924294910",
+                                "orderNumber": "18947791071",
 
                                 "shiftAttributes": "DEFAULT",
 
@@ -10580,15 +9138,15 @@
 
                                 "id": null,
 
-                               "reservationId": "914AD677-339B-46FB-96F1-CBE888EBDF75",
+                                "reservationId": "914AD677-339B-46FB-96F1-CBE888EBDF75",
 
                                 "fromTime": "2018-01-25T11:15:00+00:00",
 
                                 "toTime": "2018-01-25T12:15:00+00:00",
 
-                                "latitude": 51.715477,
+                                "latitude": 51.858475,
 
-                                "longitude": -4.732967,
+                                "longitude": -4.305112,
 
                                 "serviceTime": 30,
 
@@ -10600,9 +9158,9 @@
 
                                 "capacityValue3": 0,
 
-                                "arrivalDateTime": "2018-01-25T11:19:11+00:00",
+                                "arrivalDateTime": "2018-01-25T11:40:46+00:00",
 
-                                "calculatedMileage": 0.01,
+                                "calculatedMileage": 0.02,
 
                                 "calculatedTravelTime": 0,
 
@@ -10616,7 +9174,7 @@
 
                                 "vehicleName": "VAN-3-4251",
 
-                                "departureTime": "2018-01-25T11:49:11+00:00",
+                                "departureTime": "2018-01-25T12:10:46+00:00",
 
                                 "customerRefNum": null,
 
@@ -10640,49 +9198,49 @@
 
                                 "id": null,
 
-                                "reservationId": "18885576652180123214944189",
+                                "reservationId": "18729551844180123211336429",
 
-                                "fromTime": "2018-01-25T10:00:00+00:00",
+                                "fromTime": "2018-01-25T12:00:00+00:00",
 
-                                "toTime": "2018-01-25T12:00:00+00:00",
+                                "toTime": "2018-01-25T14:00:00+00:00",
 
-                                "latitude": 51.820594,
+                                "latitude": 51.857654,
 
-                                "longitude": -4.493914,
+                                "longitude": -4.306624,
 
-                                "serviceTime": 18,
+                                "serviceTime": 6,
 
-                                "serviceTime_MMSS": "18:40",
+                                "serviceTime_MMSS": "6:35",
 
-                                "capacityWeight": 96.59,
+                                "capacityWeight": 14.833,
 
-                                "capacityVolume": 286.038,
+                                "capacityVolume": 37.676,
 
                                 "capacityValue3": 1,
 
-                                "arrivalDateTime": "2018-01-25T12:10:15+00:00",
+                                "arrivalDateTime": "2018-01-25T12:11:14+00:00",
 
-                                "calculatedMileage": 13.75,
+                                "calculatedMileage": 0.08,
 
-                                "calculatedTravelTime": 21.06,
+                                "calculatedTravelTime": 0.46,
 
-                                "actualTravelTime": 18.94,
+                                "actualTravelTime": 0.41,
 
                                 "deliverySequenceNumber": 9,
 
                                 "activityType": "ORDER",
 
-                                "tags": "DEFAULT",
+                               "tags": "DEFAULT",
 
                                 "vehicleName": "VAN-3-4251",
 
-                                "departureTime": "2018-01-25T12:28:55+00:00",
+                                "departureTime": "2018-01-25T12:17:49+00:00",
 
                                 "customerRefNum": null,
 
-                                "postalcode": "SA334BL",
+                                "postalcode": "SA311BY",
 
-                                "orderNumber": "18885576652",
+                                "orderNumber": "18729551844",
 
                                 "shiftAttributes": "DEFAULT",
 
@@ -10700,33 +9258,33 @@
 
                                 "id": null,
 
-                                "reservationId": "18857925943180123113022627",
+                                "reservationId": "18797443454180124175011806",
 
-                                "fromTime": "2018-01-25T12:00:00+00:00",
+                                "fromTime": "2018-01-25T11:00:00+00:00",
 
                                 "toTime": "2018-01-25T13:00:00+00:00",
 
-                                "latitude": 51.675551,
+                                "latitude": 51.860776,
 
-                                "longitude": -4.918853,
+                                "longitude": -4.319783,
 
-                                "serviceTime": 7,
+                                "serviceTime": 6,
 
-                                "serviceTime_MMSS": "7:15",
+                                "serviceTime_MMSS": "6:0",
 
-                                "capacityWeight": 27.51,
+                                "capacityWeight": 21.71,
 
-                                "capacityVolume": 77.159,
+                                "capacityVolume": 84.218,
 
                                 "capacityValue3": 1,
 
-                                "arrivalDateTime": "2018-01-25T13:04:31+00:00",
+                                "arrivalDateTime": "2018-01-25T12:20:57+00:00",
 
-                                "calculatedMileage": 22.78,
+                                "calculatedMileage": 0.72,
 
-                                "calculatedTravelTime": 35.6,
+                                "calculatedTravelTime": 3.13,
 
-                                "actualTravelTime": 32.03,
+                                "actualTravelTime": 2.81,
 
                                 "deliverySequenceNumber": 10,
 
@@ -10736,13 +9294,13 @@
 
                                 "vehicleName": "VAN-3-4251",
 
-                                "departureTime": "2018-01-25T13:11:46+00:00",
+                                "departureTime": "2018-01-25T12:26:57+00:00",
 
                                 "customerRefNum": null,
 
-                                "postalcode": "SA714LD",
+                                "postalcode": "SA311SH",
 
-                                "orderNumber": "18857925943",
+                                "orderNumber": "18797443454",
 
                                 "shiftAttributes": "DEFAULT",
 
@@ -10760,33 +9318,33 @@
 
                                 "id": null,
 
-                                "reservationId": "18920674398180123201827693",
+                                "reservationId": "18938846468180123121924268",
 
-                                "fromTime": "2018-01-25T12:30:00+00:00",
+                                "fromTime": "2018-01-25T12:00:00+00:00",
 
-                                "toTime": "2018-01-25T13:30:00+00:00",
+                                "toTime": "2018-01-25T14:00:00+00:00",
 
-                                "latitude": 51.686957,
+                                "latitude": 51.856169,
 
-                                "longitude": -4.943414,
+                                "longitude": -4.316757,
 
                                 "serviceTime": 6,
 
                                 "serviceTime_MMSS": "6:28",
 
-                                "capacityWeight": 23.25,
+                                "capacityWeight": 27.184,
 
-                                "capacityVolume": 62,
+                                "capacityVolume": 60.25,
 
                                 "capacityValue3": 1,
 
-                                "arrivalDateTime": "2018-01-25T13:18:51+00:00",
+                                "arrivalDateTime": "2018-01-25T12:29:36+00:00",
 
-                                "calculatedMileage": 2.25,
+                                "calculatedMileage": 0.68,
 
-                                "calculatedTravelTime": 7.08,
+                                "calculatedTravelTime": 2.64,
 
-                                "actualTravelTime": 6.37,
+                                "actualTravelTime": 2.37,
 
                                 "deliverySequenceNumber": 11,
 
@@ -10796,13 +9354,13 @@
 
                                 "vehicleName": "VAN-3-4251",
 
-                                "departureTime": "2018-01-25T13:25:19+00:00",
+                                "departureTime": "2018-01-25T12:36:04+00:00",
 
                                 "customerRefNum": null,
 
-                                "postalcode": "SA726QU",
+                                "postalcode": "SA313DF",
 
-                                "orderNumber": "18920674398",
+                                "orderNumber": "18948146268",
 
                                 "shiftAttributes": "DEFAULT",
 
@@ -10830,23 +9388,23 @@
 
                                 "longitude": -4.335154,
 
-                                "serviceTime": 7,
+                                "serviceTime": 6,
 
-                                "serviceTime_MMSS": "7:33",
+                                "serviceTime_MMSS": "6:12",
 
-                                "capacityWeight": 23.25,
+                                "capacityWeight": 0.385,
 
-                                "capacityVolume": 62,
+                                "capacityVolume": 1.933,
 
                                 "capacityValue3": 1,
 
-                                "arrivalDateTime": "2018-01-25T14:14:55+00:00",
+                                "arrivalDateTime": "2018-01-25T12:39:40+00:00",
 
-                                "calculatedMileage": 32.07,
+                                "calculatedMileage": 1.15,
 
-                                "calculatedTravelTime": 49.6,
+                                "calculatedTravelTime": 3.6,
 
-                                "actualTravelTime": 44.63,
+                                "actualTravelTime": 3.24,
 
                                 "deliverySequenceNumber": 12,
 
@@ -10856,13 +9414,73 @@
 
                                 "vehicleName": "VAN-3-4251",
 
-                                "departureTime": "2018-01-25T14:22:28+00:00",
+                                "departureTime": "2018-01-25T12:45:52+00:00",
 
                                 "customerRefNum": null,
 
                                 "postalcode": "SA313EN",
 
                                 "orderNumber": "18946341697",
+
+                                "shiftAttributes": "DEFAULT",
+
+                                "shiftId": "WAVE 2 TWICE DAILY",
+
+                                "status": "CONFIRMED",
+
+                               "maxAcceptableDelay": 0,
+
+                                "locked": false
+
+                            },
+
+                            {
+
+                                "id": null,
+
+                                "reservationId": "18945681061180123140804743",
+
+                                "fromTime": "2018-01-25T13:00:00+00:00",
+
+                                "toTime": "2018-01-25T15:00:00+00:00",
+
+                                "latitude": 51.761139,
+
+                                "longitude": -4.505375,
+
+                                "serviceTime": 7,
+
+                                "serviceTime_MMSS": "7:33",
+
+                                "capacityWeight": 28.939,
+
+                                "capacityVolume": 92.262,
+
+                                "capacityValue3": 1,
+
+                                "arrivalDateTime": "2018-01-25T13:11:24+00:00",
+
+                                "calculatedMileage": 15.3,
+
+                                "calculatedTravelTime": 25.53,
+
+                                "actualTravelTime": 22.98,
+
+                                "deliverySequenceNumber": 13,
+
+                                "activityType": "ORDER",
+
+                                "tags": "DEFAULT",
+
+                                "vehicleName": "VAN-3-4251",
+
+                                "departureTime": "2018-01-25T13:18:57+00:00",
+
+                                "customerRefNum": null,
+
+                                "postalcode": "SA334RJ",
+
+                                "orderNumber": "18945681061",
 
                                 "shiftAttributes": "DEFAULT",
 
@@ -10880,35 +9498,35 @@
 
                                 "id": null,
 
-                                "reservationId": "17611705559180121134248829",
+                                "reservationId": "18742622833180122205201861",
 
-                                "fromTime": "2018-01-25T15:00:00+00:00",
+                                "fromTime": "2018-01-25T12:00:00+00:00",
 
-                                "toTime": "2018-01-25T16:00:00+00:00",
+                                "toTime": "2018-01-25T14:00:00+00:00",
 
-                                "latitude": 51.671187,
+                                "latitude": 51.820148,
 
-                                "longitude": -4.918196,
+                                "longitude": -4.600395,
 
-                                "serviceTime": 6,
+                                "serviceTime": 12,
 
-                                "serviceTime_MMSS": "6:43",
+                                "serviceTime_MMSS": "12:40",
 
-                                "capacityWeight": 23.25,
+                                "capacityWeight": 26.106,
 
-                                "capacityVolume": 62,
+                                "capacityVolume": 56.871,
 
                                 "capacityValue3": 1,
 
-                                "arrivalDateTime": "2018-01-25T15:10:28+00:00",
+                                "arrivalDateTime": "2018-01-25T13:39:02+00:00",
 
-                                "calculatedMileage": 31.28,
+                                "calculatedMileage": 11.09,
 
-                                "calculatedTravelTime": 48,
+                                "calculatedTravelTime": 20.08,
 
-                                "actualTravelTime": 43.2,
+                                "actualTravelTime": 18.07,
 
-                                "deliverySequenceNumber": 13,
+                                "deliverySequenceNumber": 14,
 
                                 "activityType": "ORDER",
 
@@ -10916,13 +9534,73 @@
 
                                 "vehicleName": "VAN-3-4251",
 
-                                "departureTime": "2018-01-25T15:17:11+00:00",
+                                "departureTime": "2018-01-25T13:51:42+00:00",
 
                                 "customerRefNum": null,
 
-                                "postalcode": "SA714EZ",
+                                "postalcode": "SA340DA",
 
-                                "orderNumber": "17611705559",
+                                "orderNumber": "18742622833",
+
+                                "shiftAttributes": "DEFAULT",
+
+                                "shiftId": "WAVE 2 TWICE DAILY",
+
+                                "status": "CONFIRMED",
+
+                                "maxAcceptableDelay": 0,
+
+                                "locked": false
+
+                            },
+
+                            {
+
+                                "id": null,
+
+                                "reservationId": "18769265879180124120921223",
+
+                                "fromTime": "2018-01-25T13:00:00+00:00",
+
+                                "toTime": "2018-01-25T15:00:00+00:00",
+
+                                "latitude": 51.734262,
+
+                                "longitude": -4.714865,
+
+                                "serviceTime": 7,
+
+                                "serviceTime_MMSS": "7:1",
+
+                                "capacityWeight": 18.155,
+
+                                "capacityVolume": 53.661,
+
+                                "capacityValue3": 1,
+
+                                "arrivalDateTime": "2018-01-25T14:10:48+00:00",
+
+                                "calculatedMileage": 9.55,
+
+                                "calculatedTravelTime": 19.1,
+
+                                "actualTravelTime": 17.17,
+
+                                "deliverySequenceNumber": 15,
+
+                                "activityType": "ORDER",
+
+                                "tags": "DEFAULT",
+
+                                "vehicleName": "VAN-3-4251",
+
+                                "departureTime": "2018-01-25T14:17:49+00:00",
+
+                                "customerRefNum": null,
+
+                                "postalcode": "SA680UB",
+
+                                "orderNumber": "18948629912",
 
                                 "shiftAttributes": "DEFAULT",
 
@@ -10942,7 +9620,7 @@
 
                                 "reservationId": "16AF73A1-B937-4D5E-B29C-C62D9526DCE7",
 
-                               "fromTime": "2018-01-25T07:45:00+00:00",
+                                "fromTime": "2018-01-25T07:45:00+00:00",
 
                                 "toTime": "2018-01-25T14:29:00+00:00",
 
@@ -10954,21 +9632,21 @@
 
                                 "serviceTime_MMSS": "0:0",
 
-                                "capacityWeight": 1,
+                                "capacityWeight": 54.131,
 
-                                "capacityVolume": 1,
+                                "capacityVolume": 123.072,
 
                                 "capacityValue3": 0,
 
-                                "arrivalDateTime": "2018-01-25T15:25:27+00:00",
+                                "arrivalDateTime": "2018-01-25T14:36:55+00:00",
 
-                                "calculatedMileage": 2.56,
+                                "calculatedMileage": 11.33,
 
-                                "calculatedTravelTime": 8.26,
+                                "calculatedTravelTime": 19.1,
 
-                                "actualTravelTime": 7.44,
+                                "actualTravelTime": 17.17,
 
-                                "deliverySequenceNumber": 14,
+                                "deliverySequenceNumber": 16,
 
                                 "activityType": "DEPOT",
 
@@ -10976,7 +9654,7 @@
 
                                 "vehicleName": "VAN-3-4251",
 
-                                "departureTime": "2018-01-25T15:25:27+00:00",
+                                "departureTime": "2018-01-25T14:36:55+00:00",
 
                                 "customerRefNum": null,
 
@@ -11000,9 +9678,9 @@
 
                         "carrier": null,
 
-                        "calculatedTravelTime": 16583,
+                        "calculatedTravelTime": 13836,
 
-                        "calculatedTravelDistance": 165.139999,
+                        "calculatedTravelDistance": 119.479999,
 
                         "externalReferenceKey": "903c6b39-ca00-44b6-9bb2-6250d1fc9241"
 
@@ -11118,11 +9796,11 @@
 
                                 "serviceTime_MMSS": "44:0",
 
-                                "capacityWeight": 382.125,
+                                "capacityWeight": 135.788,
 
-                                "capacityVolume": 9163.495,
+                                "capacityVolume": 8388.102,
 
-                                "capacityValue3": 2147483639,
+                                "capacityValue3": 2147483634,
 
                                 "arrivalDateTime": "2018-01-25T08:15:00+00:00",
 
@@ -11154,7 +9832,7 @@
 
                                 "status": null,
 
-                                "maxAcceptableDelay": 90,
+                                "maxAcceptableDelay": 133,
 
                                 "locked": false
 
@@ -11164,33 +9842,33 @@
 
                                 "id": null,
 
-                                "reservationId": "18933186544180123204951279",
+                                "reservationId": "18935241193180124203452938",
 
-                                "fromTime": "2018-01-25T10:00:00+00:00",
+                                "fromTime": "2018-01-25T09:00:00+00:00",
 
-                                "toTime": "2018-01-25T12:00:00+00:00",
+                                "toTime": "2018-01-25T11:00:00+00:00",
 
-                                "latitude": 51.940332,
+                                "latitude": 51.720004,
 
-                                "longitude": -4.306251,
+                                "longitude": -4.745333,
 
-                                "serviceTime": 6,
+                                "serviceTime": 8,
 
-                                "serviceTime_MMSS": "6:43",
+                                "serviceTime_MMSS": "8:28",
 
-                                "capacityWeight": 23.25,
+                                "capacityWeight": 17.978,
 
-                                "capacityVolume": 62,
+                                "capacityVolume": 66.629,
 
                                 "capacityValue3": 1,
 
-                                "arrivalDateTime": "2018-01-25T10:01:30+00:00",
+                                "arrivalDateTime": "2018-01-25T09:14:48+00:00",
 
-                                "calculatedMileage": 39.38,
+                                "calculatedMileage": 9.5,
 
-                                "calculatedTravelTime": 62.5,
+                                "calculatedTravelTime": 15.8,
 
-                                "actualTravelTime": 56.24,
+                                "actualTravelTime": 14.21,
 
                                 "deliverySequenceNumber": 2,
 
@@ -11200,13 +9878,13 @@
 
                                 "vehicleName": "VAN-4-4251",
 
-                                "departureTime": "2018-01-25T10:08:13+00:00",
+                                "departureTime": "2018-01-25T09:23:16+00:00",
 
                                 "customerRefNum": null,
 
-                                "postalcode": "SA336BT",
+                                "postalcode": "SA680RD",
 
-                                "orderNumber": "18948222703",
+                                "orderNumber": "18935241193",
 
                                 "shiftAttributes": "DEFAULT",
 
@@ -11214,7 +9892,7 @@
 
                                 "status": "CONFIRMED",
 
-                                "maxAcceptableDelay": 90,
+                                "maxAcceptableDelay": 133,
 
                                 "locked": false
 
@@ -11224,33 +9902,33 @@
 
                                 "id": null,
 
-                                "reservationId": "18947767235180124162105109",
+                                "reservationId": "18924294910180124145502395",
 
-                                "fromTime": "2018-01-25T10:00:00+00:00",
+                                "fromTime": "2018-01-25T09:00:00+00:00",
 
-                                "toTime": "2018-01-25T12:00:00+00:00",
+                                "toTime": "2018-01-25T11:00:00+00:00",
 
-                                "latitude": 52.042582,
+                                "latitude": 51.715477,
 
-                                "longitude": -4.469865,
+                                "longitude": -4.732967,
 
-                                "serviceTime": 7,
+                                "serviceTime": 12,
 
-                                "serviceTime_MMSS": "7:33",
+                                "serviceTime_MMSS": "12:40",
 
-                                "capacityWeight": 38.816,
+                                "capacityWeight": 22.614,
 
-                                "capacityVolume": 122.602,
+                                "capacityVolume": 85.683,
 
                                 "capacityValue3": 1,
 
-                                "arrivalDateTime": "2018-01-25T10:36:41+00:00",
+                                "arrivalDateTime": "2018-01-25T09:26:20+00:00",
 
-                                "calculatedMileage": 13.58,
+                                "calculatedMileage": 1.36,
 
-                                "calculatedTravelTime": 28.46,
+                                "calculatedTravelTime": 3.06,
 
-                                "actualTravelTime": 25.62,
+                                "actualTravelTime": 2.75,
 
                                 "deliverySequenceNumber": 3,
 
@@ -11260,13 +9938,13 @@
 
                                 "vehicleName": "VAN-4-4251",
 
-                                "departureTime": "2018-01-25T10:44:14+00:00",
+                                "departureTime": "2018-01-25T09:39:00+00:00",
 
                                 "customerRefNum": null,
 
-                                "postalcode": "SA389NT",
+                                "postalcode": "SA699DY",
 
-                                "orderNumber": "18947767235",
+                                "orderNumber": "18924294910",
 
                                 "shiftAttributes": "DEFAULT",
 
@@ -11274,7 +9952,7 @@
 
                                 "status": "CONFIRMED",
 
-                                "maxAcceptableDelay": 90,
+                                "maxAcceptableDelay": 133,
 
                                 "locked": false
 
@@ -11284,33 +9962,33 @@
 
                                 "id": null,
 
-                                "reservationId": "18934099948180123152144899",
+                                "reservationId": "18922416695180124084957582",
 
                                 "fromTime": "2018-01-25T10:00:00+00:00",
 
                                 "toTime": "2018-01-25T12:00:00+00:00",
 
-                                "latitude": 51.763837,
+                                "latitude": 51.757891,
 
-                                "longitude": -4.80617,
+                                "longitude": -4.578706,
 
-                                "serviceTime": 7,
+                                "serviceTime": 14,
 
-                                "serviceTime_MMSS": "7:33",
+                                "serviceTime_MMSS": "14:17",
 
-                                "capacityWeight": 34.783,
+                                "capacityWeight": 94.923,
 
-                                "capacityVolume": 62,
+                                "capacityVolume": 259.47,
 
                                 "capacityValue3": 1,
 
-                                "arrivalDateTime": "2018-01-25T11:35:57+00:00",
+                                "arrivalDateTime": "2018-01-25T09:57:47+00:00",
 
-                                "calculatedMileage": 30.67,
+                                "calculatedMileage": 9.27,
 
-                                "calculatedTravelTime": 51.71,
+                                "calculatedTravelTime": 18.78,
 
-                                "actualTravelTime": 46.53,
+                                "actualTravelTime": 16.89,
 
                                 "deliverySequenceNumber": 4,
 
@@ -11320,13 +9998,13 @@
 
                                 "vehicleName": "VAN-4-4251",
 
-                                "departureTime": "2018-01-25T11:43:30+00:00",
+                                "departureTime": "2018-01-25T10:14:17+00:00",
 
                                 "customerRefNum": null,
 
-                                "postalcode": "SA678AG",
+                                "postalcode": "SA334PS",
 
-                                "orderNumber": "18934099948",
+                                "orderNumber": "18948796094",
 
                                 "shiftAttributes": "DEFAULT",
 
@@ -11334,7 +10012,307 @@
 
                                 "status": "CONFIRMED",
 
-                                "maxAcceptableDelay": 90,
+                                "maxAcceptableDelay": 133,
+
+                                "locked": false
+
+                            },
+
+                            {
+
+                                "id": null,
+
+                                "reservationId": "18940835629180124231616973",
+
+                                "fromTime": "2018-01-25T10:00:00+00:00",
+
+                                "toTime": "2018-01-25T12:00:00+00:00",
+
+                                "latitude": 51.812704,
+
+                                "longitude": -4.4949,
+
+                                "serviceTime": 7,
+
+                                "serviceTime_MMSS": "7:1",
+
+                                "capacityWeight": 34.192,
+
+                                "capacityVolume": 92.281,
+
+                                "capacityValue3": 1,
+
+                                "arrivalDateTime": "2018-01-25T10:27:41+00:00",
+
+                                "calculatedMileage": 5.7,
+
+                                "calculatedTravelTime": 13.4,
+
+                                "actualTravelTime": 12.06,
+
+                                "deliverySequenceNumber": 5,
+
+                                "activityType": "ORDER",
+
+                                "tags": "DEFAULT",
+
+                                "vehicleName": "VAN-4-4251",
+
+                                "departureTime": "2018-01-25T10:34:42+00:00",
+
+                                "customerRefNum": null,
+
+                                "postalcode": "SA334EF",
+
+                                "orderNumber": "18940835629",
+
+                                "shiftAttributes": "DEFAULT",
+
+                                "shiftId": "WAVE 3 TWICE DAILY NS NW EVN",
+
+                                "status": "CONFIRMED",
+
+                                "maxAcceptableDelay": 0,
+
+                                "locked": false
+
+                            },
+
+                            {
+
+                                "id": null,
+
+                                "reservationId": "18935003095180124084930135",
+
+                                "fromTime": "2018-01-25T10:00:00+00:00",
+
+                                "toTime": "2018-01-25T12:00:00+00:00",
+
+                                "latitude": 51.814711,
+
+                                "longitude": -4.496506,
+
+                                "serviceTime": 8,
+
+                                "serviceTime_MMSS": "8:39",
+
+                                "capacityWeight": 41.521,
+
+                               "capacityVolume": 142.298,
+
+                                "capacityValue3": 1,
+
+                                "arrivalDateTime": "2018-01-25T10:35:22+00:00",
+
+                                "calculatedMileage": 0.2,
+
+                                "calculatedTravelTime": 0.66,
+
+                                "actualTravelTime": 0.59,
+
+                                "deliverySequenceNumber": 6,
+
+                                "activityType": "ORDER",
+
+                                "tags": "DEFAULT",
+
+                                "vehicleName": "VAN-4-4251",
+
+                                "departureTime": "2018-01-25T10:44:01+00:00",
+
+                                "customerRefNum": null,
+
+                                "postalcode": "SA334DZ",
+
+                                "orderNumber": "18935003095",
+
+                                "shiftAttributes": "DEFAULT",
+
+                                "shiftId": "WAVE 3 TWICE DAILY NS NW EVN",
+
+                                "status": "CONFIRMED",
+
+                                "maxAcceptableDelay": 0,
+
+                                "locked": false
+
+                            },
+
+                            {
+
+                                "id": null,
+
+                                "reservationId": "18885576652180123214944189",
+
+                                "fromTime": "2018-01-25T10:00:00+00:00",
+
+                                "toTime": "2018-01-25T12:00:00+00:00",
+
+                                "latitude": 51.820594,
+
+                                "longitude": -4.493914,
+
+                                "serviceTime": 18,
+
+                                "serviceTime_MMSS": "18:40",
+
+                                "capacityWeight": 96.59,
+
+                                "capacityVolume": 286.038,
+
+                                "capacityValue3": 1,
+
+                                "arrivalDateTime": "2018-01-25T10:46:07+00:00",
+
+                                "calculatedMileage": 0.58,
+
+                                "calculatedTravelTime": 2.1,
+
+                                "actualTravelTime": 1.88,
+
+                                "deliverySequenceNumber": 7,
+
+                                "activityType": "ORDER",
+
+                                "tags": "DEFAULT",
+
+                                "vehicleName": "VAN-4-4251",
+
+                                "departureTime": "2018-01-25T11:04:47+00:00",
+
+                                "customerRefNum": null,
+
+                                "postalcode": "SA334BL",
+
+                                "orderNumber": "18885576652",
+
+                                "shiftAttributes": "DEFAULT",
+
+                                "shiftId": "WAVE 3 TWICE DAILY NS NW EVN",
+
+                                "status": "CONFIRMED",
+
+                                "maxAcceptableDelay": 0,
+
+                                "locked": false
+
+                            },
+
+                            {
+
+                                "id": null,
+
+                                "reservationId": "18932556279180123083346777",
+
+                                "fromTime": "2018-01-25T10:00:00+00:00",
+
+                                "toTime": "2018-01-25T12:00:00+00:00",
+
+                                "latitude": 51.81915,
+
+                                "longitude": -4.612174,
+
+                                "serviceTime": 7,
+
+                                "serviceTime_MMSS": "7:48",
+
+                                "capacityWeight": 27.353,
+
+                                "capacityVolume": 127.843,
+
+                                "capacityValue3": 1,
+
+                                "arrivalDateTime": "2018-01-25T11:14:40+00:00",
+
+                                "calculatedMileage": 5.58,
+
+                                "calculatedTravelTime": 9.88,
+
+                                "actualTravelTime": 8.88,
+
+                                "deliverySequenceNumber": 8,
+
+                                "activityType": "ORDER",
+
+                                "tags": "DEFAULT",
+
+                                "vehicleName": "VAN-4-4251",
+
+                                "departureTime": "2018-01-25T11:22:28+00:00",
+
+                                "customerRefNum": null,
+
+                                "postalcode": "SA340QB",
+
+                                "orderNumber": "18948083363",
+
+                                "shiftAttributes": "DEFAULT",
+
+                                "shiftId": "WAVE 3 TWICE DAILY NS NW EVN",
+
+                                "status": "CONFIRMED",
+
+                                "maxAcceptableDelay": 0,
+
+                                "locked": false
+
+                            },
+
+                            {
+
+                                "id": null,
+
+                                "reservationId": "18947225088180124095904707",
+
+                                "fromTime": "2018-01-25T10:00:00+00:00",
+
+                                "toTime": "2018-01-25T12:00:00+00:00",
+
+                                "latitude": 51.864201,
+
+                                "longitude": -4.733056,
+
+                                "serviceTime": 7,
+
+                                "serviceTime_MMSS": "7:48",
+
+                                "capacityWeight": 33.326,
+
+                               "capacityVolume": 103.408,
+
+                                "capacityValue3": 1,
+
+                                "arrivalDateTime": "2018-01-25T11:37:15+00:00",
+
+                                "calculatedMileage": 8.59,
+
+                                "calculatedTravelTime": 14.78,
+
+                                "actualTravelTime": 13.3,
+
+                                "deliverySequenceNumber": 9,
+
+                                "activityType": "ORDER",
+
+                                "tags": "DEFAULT",
+
+                                "vehicleName": "VAN-4-4251",
+
+                                "departureTime": "2018-01-25T11:45:03+00:00",
+
+                                "customerRefNum": null,
+
+                                "postalcode": "SA667TN",
+
+                                "orderNumber": "18947225088",
+
+                                "shiftAttributes": "DEFAULT",
+
+                                "shiftId": "WAVE 3 TWICE DAILY NS NW EVN",
+
+                                "status": "CONFIRMED",
+
+                                "maxAcceptableDelay": 0,
 
                                 "locked": false
 
@@ -11350,9 +10328,9 @@
 
                                 "toTime": "2018-01-25T12:45:00+00:00",
 
-                                "latitude": 51.763837,
+                                "latitude": 51.864201,
 
-                                "longitude": -4.80617,
+                                "longitude": -4.733056,
 
                                 "serviceTime": 30,
 
@@ -11364,15 +10342,15 @@
 
                                 "capacityValue3": 0,
 
-                                "arrivalDateTime": "2018-01-25T11:43:30+00:00",
+                                "arrivalDateTime": "2018-01-25T11:45:03+00:00",
 
-                                "calculatedMileage": 0.39,
+                                "calculatedMileage": 0.01,
 
                                 "calculatedTravelTime": 0,
 
                                 "actualTravelTime": 0,
 
-                                "deliverySequenceNumber": 5,
+                                "deliverySequenceNumber": 10,
 
                                 "activityType": "BREAK",
 
@@ -11380,7 +10358,7 @@
 
                                 "vehicleName": "VAN-4-4251",
 
-                                "departureTime": "2018-01-25T12:15:00+00:00",
+                                "departureTime": "2018-01-25T12:15:03+00:00",
 
                                 "customerRefNum": null,
 
@@ -11394,66 +10372,6 @@
 
                                 "status": null,
 
-                                "maxAcceptableDelay": 90,
-
-                               "locked": false
-
-                            },
-
-                            {
-
-                                "id": null,
-
-                                "reservationId": "18930334393180124080354896",
-
-                                "fromTime": "2018-01-25T11:00:00+00:00",
-
-                                "toTime": "2018-01-25T13:00:00+00:00",
-
-                                "latitude": 51.858475,
-
-                                "longitude": -4.305112,
-
-                                "serviceTime": 12,
-
-                                "serviceTime_MMSS": "12:8",
-
-                                "capacityWeight": 23.25,
-
-                                "capacityVolume": 62,
-
-                                "capacityValue3": 1,
-
-                                "arrivalDateTime": "2018-01-25T12:55:00+00:00",
-
-                                "calculatedMileage": 25.96,
-
-                                "calculatedTravelTime": 40,
-
-                                "actualTravelTime": 35.99,
-
-                                "deliverySequenceNumber": 6,
-
-                                "activityType": "ORDER",
-
-                                "tags": "DEFAULT",
-
-                                "vehicleName": "VAN-4-4251",
-
-                                "departureTime": "2018-01-25T13:07:08+00:00",
-
-                                "customerRefNum": null,
-
-                                "postalcode": "SA311DA",
-
-                                "orderNumber": "18947791071",
-
-                                "shiftAttributes": "DEFAULT",
-
-                                "shiftId": "WAVE 3 TWICE DAILY NS NW EVN",
-
-                                "status": "CONFIRMED",
-
                                 "maxAcceptableDelay": 0,
 
                                 "locked": false
@@ -11464,95 +10382,35 @@
 
                                 "id": null,
 
-                                "reservationId": "18947269881180124111715503",
+                                "reservationId": "18872258624180124091028864",
 
-                                "fromTime": "2018-01-25T11:00:00+00:00",
+                                "fromTime": "2018-01-25T12:00:00+00:00",
 
-                                "toTime": "2018-01-25T13:00:00+00:00",
+                                "toTime": "2018-01-25T14:00:00+00:00",
 
-                                "latitude": 51.819727,
+                                "latitude": 51.969312,
 
-                                "longitude": -4.616925,
-
-                                "serviceTime": 15,
-
-                                "serviceTime_MMSS": "15:23",
-
-                                "capacityWeight": 62.917,
-
-                                "capacityVolume": 281.153,
-
-                                "capacityValue3": 1,
-
-                                "arrivalDateTime": "2018-01-25T13:31:05+00:00",
-
-                                "calculatedMileage": 14.73,
-
-                                "calculatedTravelTime": 23.94,
-
-                                "actualTravelTime": 21.55,
-
-                                "deliverySequenceNumber": 7,
-
-                                "activityType": "ORDER",
-
-                                "tags": "DEFAULT",
-
-                                "vehicleName": "VAN-4-4251",
-
-                                "departureTime": "2018-01-25T13:46:28+00:00",
-
-                                "customerRefNum": null,
-
-                                "postalcode": "SA340AF",
-
-                                "orderNumber": "18947269881",
-
-                                "shiftAttributes": "DEFAULT",
-
-                                "shiftId": "WAVE 3 TWICE DAILY NS NW EVN",
-
-                                "status": "CONFIRMED",
-
-                                "maxAcceptableDelay": 0,
-
-                                "locked": false
-
-                            },
-
-                            {
-
-                                "id": null,
-
-                                "reservationId": "18837720657180124191211308",
-
-                                "fromTime": "2018-01-25T14:30:00+00:00",
-
-                                "toTime": "2018-01-25T15:30:00+00:00",
-
-                                "latitude": 51.693174,
-
-                                "longitude": -4.946803,
+                                "longitude": -4.647836,
 
                                 "serviceTime": 6,
 
                                 "serviceTime_MMSS": "6:43",
 
-                                "capacityWeight": 51.789,
+                                "capacityWeight": 16.78,
 
-                                "capacityVolume": 81.34,
+                                "capacityVolume": 55.383,
 
                                 "capacityValue3": 1,
 
-                                "arrivalDateTime": "2018-01-25T14:22:01+00:00",
+                                "arrivalDateTime": "2018-01-25T12:28:54+00:00",
 
-                                "calculatedMileage": 20.42,
+                                "calculatedMileage": 8.83,
 
-                                "calculatedTravelTime": 35.54,
+                                "calculatedTravelTime": 13.84,
 
-                                "actualTravelTime": 31.98,
+                                "actualTravelTime": 12.46,
 
-                                "deliverySequenceNumber": 8,
+                                "deliverySequenceNumber": 11,
 
                                 "activityType": "ORDER",
 
@@ -11560,13 +10418,13 @@
 
                                 "vehicleName": "VAN-4-4251",
 
-                                "departureTime": "2018-01-25T14:36:43+00:00",
+                                "departureTime": "2018-01-25T12:35:37+00:00",
 
                                 "customerRefNum": null,
 
-                                "postalcode": "SA726JP",
+                                "postalcode": "SA413RD",
 
-                                "orderNumber": "18837720657",
+                                "orderNumber": "18872258624",
 
                                 "shiftAttributes": "DEFAULT",
 
@@ -11574,7 +10432,7 @@
 
                                 "status": "CONFIRMED",
 
-                                "maxAcceptableDelay": 479,
+                                "maxAcceptableDelay": 0,
 
                                 "locked": false
 
@@ -11584,35 +10442,215 @@
 
                                 "id": null,
 
-                                "reservationId": "18922330138180122190017357",
+                                "reservationId": "1888780777318012320352860",
+
+                                "fromTime": "2018-01-25T12:00:00+00:00",
+
+                                "toTime": "2018-01-25T14:00:00+00:00",
+
+                                "latitude": 52.055226,
+
+                                "longitude": -4.506337,
+
+                                "serviceTime": 6,
+
+                                "serviceTime_MMSS": "6:43",
+
+                                "capacityWeight": 24.009,
+
+                                "capacityVolume": 58.417,
+
+                                "capacityValue3": 1,
+
+                                "arrivalDateTime": "2018-01-25T12:58:19+00:00",
+
+                                "calculatedMileage": 11.58,
+
+                                "calculatedTravelTime": 22.69,
+
+                                "actualTravelTime": 20.42,
+
+                                "deliverySequenceNumber": 12,
+
+                                "activityType": "ORDER",
+
+                                "tags": "DEFAULT",
+
+                                "vehicleName": "VAN-4-4251",
+
+                                "departureTime": "2018-01-25T13:05:02+00:00",
+
+                                "customerRefNum": null,
+
+                                "postalcode": "SA389PE",
+
+                                "orderNumber": "18946983961",
+
+                                "shiftAttributes": "DEFAULT",
+
+                                "shiftId": "WAVE 3 TWICE DAILY NS NW EVN",
+
+                                "status": "CONFIRMED",
+
+                                "maxAcceptableDelay": 0,
+
+                                "locked": false
+
+                            },
+
+                            {
+
+                                "id": null,
+
+                                "reservationId": "18935359678180123185630351",
 
                                 "fromTime": "2018-01-25T13:00:00+00:00",
 
                                 "toTime": "2018-01-25T15:00:00+00:00",
 
-                                "latitude": 51.705323,
+                                "latitude": 52.129843,
 
-                                "longitude": -4.69996,
+                                "longitude": -4.541125,
+
+                                "serviceTime": 8,
+
+                                "serviceTime_MMSS": "8:39",
+
+                                "capacityWeight": 35.161,
+
+                               "capacityVolume": 104.37,
+
+                                "capacityValue3": 1,
+
+                                "arrivalDateTime": "2018-01-25T13:20:12+00:00",
+
+                                "calculatedMileage": 7.79,
+
+                                "calculatedTravelTime": 15.16,
+
+                                "actualTravelTime": 13.64,
+
+                                "deliverySequenceNumber": 13,
+
+                                "activityType": "ORDER",
+
+                                "tags": "DEFAULT",
+
+                                "vehicleName": "VAN-4-4251",
+
+                                "departureTime": "2018-01-25T13:28:51+00:00",
+
+                                "customerRefNum": null,
+
+                                "postalcode": "SA432EL",
+
+                                "orderNumber": "18948102173",
+
+                                "shiftAttributes": "DEFAULT",
+
+                                "shiftId": "WAVE 3 TWICE DAILY NS NW EVN",
+
+                                "status": "CONFIRMED",
+
+                                "maxAcceptableDelay": 0,
+
+                                "locked": false
+
+                            },
+
+                            {
+
+                                "id": null,
+
+                               "reservationId": "18914685937180123092414245",
+
+                                "fromTime": "2018-01-25T13:00:00+00:00",
+
+                                "toTime": "2018-01-25T15:00:00+00:00",
+
+                                "latitude": 52.08573,
+
+                                "longitude": -4.654139,
+
+                                "serviceTime": 10,
+
+                                "serviceTime_MMSS": "10:1",
+
+                                "capacityWeight": 54.942,
+
+                                "capacityVolume": 132.997,
+
+                                "capacityValue3": 1,
+
+                                "arrivalDateTime": "2018-01-25T13:43:30+00:00",
+
+                                "calculatedMileage": 6.45,
+
+                                "calculatedTravelTime": 14.65,
+
+                                "actualTravelTime": 13.17,
+
+                                "deliverySequenceNumber": 14,
+
+                                "activityType": "ORDER",
+
+                                "tags": "DEFAULT",
+
+                                "vehicleName": "VAN-4-4251",
+
+                                "departureTime": "2018-01-25T13:53:31+00:00",
+
+                                "customerRefNum": null,
+
+                                "postalcode": "SA431EQ",
+
+                                "orderNumber": "18947048753",
+
+                                "shiftAttributes": "DEFAULT",
+
+                                "shiftId": "WAVE 3 TWICE DAILY NS NW EVN",
+
+                                "status": "CONFIRMED",
+
+                                "maxAcceptableDelay": 0,
+
+                                "locked": false
+
+                            },
+
+                            {
+
+                                "id": null,
+
+                               "reservationId": "18934752762180122122513670",
+
+                                "fromTime": "2018-01-25T13:00:00+00:00",
+
+                                "toTime": "2018-01-25T15:00:00+00:00",
+
+                                "latitude": 51.970181,
+
+                                "longitude": -4.648368,
 
                                 "serviceTime": 7,
 
                                 "serviceTime_MMSS": "7:0",
 
-                                "capacityWeight": 39.814,
+                                "capacityWeight": 23.344,
 
-                                "capacityVolume": 103.406,
+                                "capacityVolume": 44.469,
 
                                 "capacityValue3": 1,
 
-                                "arrivalDateTime": "2018-01-25T15:01:29+00:00",
+                                "arrivalDateTime": "2018-01-25T14:10:23+00:00",
 
-                                "calculatedMileage": 12.72,
+                                "calculatedMileage": 9,
 
-                                "calculatedTravelTime": 24.76,
+                                "calculatedTravelTime": 16.86,
 
-                                "actualTravelTime": 22.28,
+                                "actualTravelTime": 15.17,
 
-                                "deliverySequenceNumber": 9,
+                                "deliverySequenceNumber": 15,
 
                                 "activityType": "ORDER",
 
@@ -11620,13 +10658,13 @@
 
                                 "vehicleName": "VAN-4-4251",
 
-                                "departureTime": "2018-01-25T15:08:29+00:00",
+                                "departureTime": "2018-01-25T14:17:23+00:00",
 
                                 "customerRefNum": null,
 
-                                "postalcode": "SA699PE",
+                                "postalcode": "SA413QJ",
 
-                                "orderNumber": "18947974293",
+                                "orderNumber": "18943972054",
 
                                 "shiftAttributes": "DEFAULT",
 
@@ -11644,67 +10682,7 @@
 
                                 "id": null,
 
-                                "reservationId": "18918382981180122202911245",
-
-                                "fromTime": "2018-01-25T14:00:00+00:00",
-
-                                "toTime": "2018-01-25T15:00:00+00:00",
-
-                                "latitude": 51.713115,
-
-                                "longitude": -4.9503,
-
-                                "serviceTime": 6,
-
-                                "serviceTime_MMSS": "6:1",
-
-                                "capacityWeight": 23.25,
-
-                                "capacityVolume": 62,
-
-                                "capacityValue3": 1,
-
-                                "arrivalDateTime": "2018-01-25T15:35:44+00:00",
-
-                                "calculatedMileage": 14.41,
-
-                                "calculatedTravelTime": 27.25,
-
-                                "actualTravelTime": 24.51,
-
-                                "deliverySequenceNumber": 10,
-
-                                "activityType": "ORDER",
-
-                                "tags": "DEFAULT",
-
-                                "vehicleName": "VAN-4-4251",
-
-                                "departureTime": "2018-01-25T15:41:45+00:00",
-
-                                "customerRefNum": null,
-
-                                "postalcode": "SA731UF",
-
-                                "orderNumber": "18947812234",
-
-                                "shiftAttributes": "DEFAULT",
-
-                                "shiftId": "WAVE 3 TWICE DAILY NS NW EVN",
-
-                                "status": "CONFIRMED",
-
-                                "maxAcceptableDelay": 0,
-
-                                "locked": false
-
-                            },
-
-                            {
-
-                                "id": null,
-
-                                "reservationId": "FB64D98D-D1D1-491F-A355-70AF54561E8B",
+                               "reservationId": "FB64D98D-D1D1-491F-A355-70AF54561E8B",
 
                                 "fromTime": "2018-01-25T08:15:00+00:00",
 
@@ -11718,21 +10696,21 @@
 
                                 "serviceTime_MMSS": "0:0",
 
-                                "capacityWeight": 1,
+                                "capacityWeight": 22.457,
 
-                                "capacityVolume": 1,
+                                "capacityVolume": 53.585,
 
                                 "capacityValue3": 0,
 
-                                "arrivalDateTime": "2018-01-25T15:49:15+00:00",
+                                "arrivalDateTime": "2018-01-25T15:03:25+00:00",
 
-                                "calculatedMileage": 2.99,
+                                "calculatedMileage": 28.71,
 
-                                "calculatedTravelTime": 7.5,
+                                "calculatedTravelTime": 46.03,
 
-                                "actualTravelTime": 6.74,
+                                "actualTravelTime": 41.42,
 
-                                "deliverySequenceNumber": 11,
+                                "deliverySequenceNumber": 16,
 
                                 "activityType": "DEPOT",
 
@@ -11740,7 +10718,7 @@
 
                                 "vehicleName": "VAN-4-4251",
 
-                                "departureTime": "2018-01-25T15:49:15+00:00",
+                                "departureTime": "2018-01-25T15:03:25+00:00",
 
                                 "customerRefNum": null,
 
@@ -11764,9 +10742,9 @@
 
                         "carrier": null,
 
-                        "calculatedTravelTime": 18102,
+                        "calculatedTravelTime": 12465,
 
-                        "calculatedTravelDistance": 175.25,
+                        "calculatedTravelDistance": 113.21,
 
                         "externalReferenceKey": "908b865c-cde5-4ae9-b002-a4df05ec8f17"
 
@@ -11882,11 +10860,11 @@
 
                                 "serviceTime_MMSS": "44:0",
 
-                                "capacityWeight": 368.982,
+                                "capacityWeight": 129.68,
 
-                                "capacityVolume": 9040.745,
+                                "capacityVolume": 8677.861,
 
-                                "capacityValue3": 2147483638,
+                                "capacityValue3": 2147483633,
 
                                 "arrivalDateTime": "2018-01-25T14:00:00+00:00",
 
@@ -11928,33 +10906,33 @@
 
                                 "id": null,
 
-                                "reservationId": "18932397541180121130354819",
+                                "reservationId": "18918382981180122202911245",
 
                                 "fromTime": "2018-01-25T14:00:00+00:00",
 
-                                "toTime": "2018-01-25T16:00:00+00:00",
+                                "toTime": "2018-01-25T15:00:00+00:00",
 
-                                "latitude": 51.760214,
+                                "latitude": 51.713115,
 
-                                "longitude": -5.134887,
+                                "longitude": -4.9503,
 
-                                "serviceTime": 8,
+                                "serviceTime": 4,
 
-                                "serviceTime_MMSS": "8:53",
+                                "serviceTime_MMSS": "4:36",
 
-                                "capacityWeight": 52.185,
+                                "capacityWeight": 16.978,
 
-                                "capacityVolume": 273.425,
+                                "capacityVolume": 37.625,
 
                                 "capacityValue3": 1,
 
-                                "arrivalDateTime": "2018-01-25T15:11:27+00:00",
+                                "arrivalDateTime": "2018-01-25T14:51:26+00:00",
 
-                                "calculatedMileage": 13.75,
+                                "calculatedMileage": 2.93,
 
-                                "calculatedTravelTime": 27.44,
+                                "calculatedTravelTime": 7.43,
 
-                                "actualTravelTime": 24.69,
+                                "actualTravelTime": 6.69,
 
                                 "deliverySequenceNumber": 2,
 
@@ -11964,13 +10942,253 @@
 
                                 "vehicleName": "VAN-1-4251",
 
-                                "departureTime": "2018-01-25T15:20:20+00:00",
+                                "departureTime": "2018-01-25T14:56:02+00:00",
 
                                 "customerRefNum": null,
 
-                                "postalcode": "SA623XB",
+                                "postalcode": "SA731UF",
 
-                                "orderNumber": "18945975829",
+                                "orderNumber": "18947812234",
+
+                                "shiftAttributes": "DEFAULT",
+
+                                "shiftId": "WAVE 1 TWICE DAILY",
+
+                                "status": "CONFIRMED",
+
+                                "maxAcceptableDelay": 0,
+
+                                "locked": false
+
+                            },
+
+                            {
+
+                                "id": null,
+
+                                "reservationId": "18052331354180123213441374",
+
+                                "fromTime": "2018-01-25T14:00:00+00:00",
+
+                                "toTime": "2018-01-25T16:00:00+00:00",
+
+                                "latitude": 51.901564,
+
+                                "longitude": -5.016498,
+
+                                "serviceTime": 10,
+
+                                "serviceTime_MMSS": "10:25",
+
+                                "capacityWeight": 52.106,
+
+                                "capacityVolume": 89.397,
+
+                                "capacityValue3": 1,
+
+                                "arrivalDateTime": "2018-01-25T15:27:54+00:00",
+
+                                "calculatedMileage": 16,
+
+                                "calculatedTravelTime": 31.86,
+
+                                "actualTravelTime": 28.67,
+
+                                "deliverySequenceNumber": 3,
+
+                                "activityType": "ORDER",
+
+                                "tags": "DEFAULT",
+
+                                "vehicleName": "VAN-1-4251",
+
+                                "departureTime": "2018-01-25T15:38:19+00:00",
+
+                                "customerRefNum": null,
+
+                                "postalcode": "SA625NT",
+
+                                "orderNumber": "18052331354",
+
+                                "shiftAttributes": "DEFAULT",
+
+                                "shiftId": "WAVE 1 TWICE DAILY",
+
+                                "status": "CONFIRMED",
+
+                                "maxAcceptableDelay": 0,
+
+                                "locked": false
+
+                            },
+
+                            {
+
+                                "id": null,
+
+                                "reservationId": "18849550483180122215234227",
+
+                                "fromTime": "2018-01-25T16:00:00+00:00",
+
+                                "toTime": "2018-01-25T18:00:00+00:00",
+
+                                "latitude": 51.976324,
+
+                                "longitude": -4.881173,
+
+                                "serviceTime": 8,
+
+                                "serviceTime_MMSS": "8:38",
+
+                                "capacityWeight": 43.734,
+
+                                "capacityVolume": 105.01,
+
+                                "capacityValue3": 1,
+
+                                "arrivalDateTime": "2018-01-25T16:06:22+00:00",
+
+                                "calculatedMileage": 11.58,
+
+                                "calculatedTravelTime": 28.05,
+
+                                "actualTravelTime": 25.23,
+
+                                "deliverySequenceNumber": 4,
+
+                                "activityType": "ORDER",
+
+                                "tags": "DEFAULT",
+
+                                "vehicleName": "VAN-1-4251",
+
+                                "departureTime": "2018-01-25T16:15:00+00:00",
+
+                                "customerRefNum": null,
+
+                                "postalcode": "SA659SJ",
+
+                                "orderNumber": "18948794613",
+
+                                "shiftAttributes": "DEFAULT",
+
+                                "shiftId": "WAVE 1 TWICE DAILY",
+
+                                "status": "CONFIRMED",
+
+                                "maxAcceptableDelay": 0,
+
+                                "locked": false
+
+                            },
+
+                            {
+
+                                "id": null,
+
+                                "reservationId": "1892063367718012314463629",
+
+                                "fromTime": "2018-01-25T15:00:00+00:00",
+
+                                "toTime": "2018-01-25T17:00:00+00:00",
+
+                                "latitude": 52.013952,
+
+                                "longitude": -4.798056,
+
+                                "serviceTime": 6,
+
+                                "serviceTime_MMSS": "6:43",
+
+                                "capacityWeight": 41.999,
+
+                                "capacityVolume": 62.161,
+
+                                "capacityValue3": 1,
+
+                                "arrivalDateTime": "2018-01-25T16:29:36+00:00",
+
+                                "calculatedMileage": 5.87,
+
+                                "calculatedTravelTime": 14.59,
+
+                                "actualTravelTime": 13.13,
+
+                                "deliverySequenceNumber": 5,
+
+                                "activityType": "ORDER",
+
+                                "tags": "DEFAULT",
+
+                                "vehicleName": "VAN-1-4251",
+
+                                "departureTime": "2018-01-25T16:36:19+00:00",
+
+                                "customerRefNum": null,
+
+                                "postalcode": "SA420NA",
+
+                                "orderNumber": "18920633677",
+
+                                "shiftAttributes": "DEFAULT",
+
+                                "shiftId": "WAVE 1 TWICE DAILY",
+
+                                "status": "CONFIRMED",
+
+                                "maxAcceptableDelay": 0,
+
+                                "locked": false
+
+                            },
+
+                            {
+
+                                "id": null,
+
+                                "reservationId": "18935065579180124160514651",
+
+                                "fromTime": "2018-01-25T16:00:00+00:00",
+
+                                "toTime": "2018-01-25T18:00:00+00:00",
+
+                                "latitude": 51.990616,
+
+                                "longitude": -4.971923,
+
+                                "serviceTime": 8,
+
+                                "serviceTime_MMSS": "8:39",
+
+                                "capacityWeight": 56.584,
+
+                                "capacityVolume": 166.235,
+
+                                "capacityValue3": 1,
+
+                                "arrivalDateTime": "2018-01-25T16:54:18+00:00",
+
+                                "calculatedMileage": 9,
+
+                                "calculatedTravelTime": 17.98,
+
+                                "actualTravelTime": 16.17,
+
+                                "deliverySequenceNumber": 6,
+
+                                "activityType": "ORDER",
+
+                                "tags": "DEFAULT",
+
+                                "vehicleName": "VAN-1-4251",
+
+                                "departureTime": "2018-01-25T17:02:57+00:00",
+
+                                "customerRefNum": null,
+
+                                "postalcode": "SA659LE",
+
+                                "orderNumber": "18947768405",
 
                                 "shiftAttributes": "DEFAULT",
 
@@ -12008,15 +11226,15 @@
 
                                 "capacityValue3": 1,
 
-                                "arrivalDateTime": "2018-01-25T16:03:06+00:00",
+                                "arrivalDateTime": "2018-01-25T17:06:33+00:00",
 
-                                "calculatedMileage": 23.62,
+                                "calculatedMileage": 0.68,
 
-                                "calculatedTravelTime": 42.76,
+                                "calculatedTravelTime": 3.6,
 
-                                "actualTravelTime": 38.47,
+                                "actualTravelTime": 3.24,
 
-                                "deliverySequenceNumber": 3,
+                                "deliverySequenceNumber": 7,
 
                                 "activityType": "ORDER",
 
@@ -12024,7 +11242,7 @@
 
                                 "vehicleName": "VAN-1-4251",
 
-                                "departureTime": "2018-01-25T16:09:34+00:00",
+                                "departureTime": "2018-01-25T17:13:01+00:00",
 
                                 "customerRefNum": null,
 
@@ -12048,95 +11266,35 @@
 
                                 "id": null,
 
-                                "reservationId": "1894172082918012419461219",
-
-                                "fromTime": "2018-01-25T14:00:00+00:00",
-
-                                "toTime": "2018-01-25T16:00:00+00:00",
-
-                                "latitude": 51.757053,
-
-                                "longitude": -4.994297,
-
-                                "serviceTime": 6,
-
-                                "serviceTime_MMSS": "6:0",
-
-                                "capacityWeight": 23.25,
-
-                                "capacityVolume": 62,
-
-                                "capacityValue3": 1,
-
-                                "arrivalDateTime": "2018-01-25T16:42:53+00:00",
-
-                                "calculatedMileage": 19.39,
-
-                                "calculatedTravelTime": 33.31,
-
-                                "actualTravelTime": 29.98,
-
-                                "deliverySequenceNumber": 4,
-
-                                "activityType": "ORDER",
-
-                                "tags": "DEFAULT",
-
-                                "vehicleName": "VAN-1-4251",
-
-                                "departureTime": "2018-01-25T16:48:53+00:00",
-
-                                "customerRefNum": null,
-
-                                "postalcode": "SA623QG",
-
-                                "orderNumber": "18941720829",
-
-                                "shiftAttributes": "DEFAULT",
-
-                                "shiftId": "WAVE 1 TWICE DAILY",
-
-                                "status": "CONFIRMED",
-
-                                "maxAcceptableDelay": 0,
-
-                                "locked": false
-
-                            },
-
-                            {
-
-                                "id": null,
-
-                                "reservationId": "18802167358180123233040978",
+                                "reservationId": "18931601206180122213357853",
 
                                 "fromTime": "2018-01-25T16:00:00+00:00",
 
                                 "toTime": "2018-01-25T18:00:00+00:00",
 
-                                "latitude": 51.819559,
+                                "latitude": 52.004351,
 
-                                "longitude": -4.498167,
+                                "longitude": -5.001676,
 
-                                "serviceTime": 8,
+                                "serviceTime": 7,
 
-                                "serviceTime_MMSS": "8:28",
+                                "serviceTime_MMSS": "7:0",
 
-                                "capacityWeight": 23.25,
+                                "capacityWeight": 20.742,
 
-                                "capacityVolume": 62,
+                                "capacityVolume": 53.883,
 
                                 "capacityValue3": 1,
 
-                                "arrivalDateTime": "2018-01-25T17:28:30+00:00",
+                                "arrivalDateTime": "2018-01-25T17:20:41+00:00",
 
-                                "calculatedMileage": 25.26,
+                                "calculatedMileage": 1.93,
 
-                                "calculatedTravelTime": 39.61,
+                                "calculatedTravelTime": 7.66,
 
-                                "actualTravelTime": 35.64,
+                                "actualTravelTime": 6.88,
 
-                                "deliverySequenceNumber": 5,
+                                "deliverySequenceNumber": 8,
 
                                 "activityType": "ORDER",
 
@@ -12144,13 +11302,13 @@
 
                                 "vehicleName": "VAN-1-4251",
 
-                                "departureTime": "2018-01-25T17:36:58+00:00",
+                                "departureTime": "2018-01-25T17:27:41+00:00",
 
                                 "customerRefNum": null,
 
-                                "postalcode": "SA334AA",
+                                "postalcode": "SA640HH",
 
-                                "orderNumber": "18802167358",
+                                "orderNumber": "18931601206",
 
                                 "shiftAttributes": "DEFAULT",
 
@@ -12168,35 +11326,35 @@
 
                                 "id": null,
 
-                                "reservationId": "18946550027180124090639983",
+                                "reservationId": "18940495378180121183920367",
 
-                                "fromTime": "2018-01-25T18:00:00+00:00",
+                                "fromTime": "2018-01-25T16:00:00+00:00",
 
-                                "toTime": "2018-01-25T20:00:00+00:00",
+                                "toTime": "2018-01-25T18:00:00+00:00",
 
-                                "latitude": 51.812119,
+                                "latitude": 51.880294,
 
-                                "longitude": -4.974742,
+                                "longitude": -5.26763,
 
-                                "serviceTime": 8,
+                                "serviceTime": 4,
 
-                                "serviceTime_MMSS": "8:1",
+                                "serviceTime_MMSS": "4:57",
 
-                                "capacityWeight": 45.594,
+                                "capacityWeight": 5.354,
 
-                                "capacityVolume": 155.959,
+                                "capacityVolume": 8.907,
 
                                 "capacityValue3": 1,
 
-                                "arrivalDateTime": "2018-01-25T18:12:00+00:00",
+                                "arrivalDateTime": "2018-01-25T17:58:26+00:00",
 
-                                "calculatedMileage": 22.3,
+                                "calculatedMileage": 16.05,
 
-                                "calculatedTravelTime": 35.03,
+                                "calculatedTravelTime": 30.75,
 
-                                "actualTravelTime": 31.53,
+                                "actualTravelTime": 27.67,
 
-                                "deliverySequenceNumber": 6,
+                                "deliverySequenceNumber": 9,
 
                                 "activityType": "ORDER",
 
@@ -12204,13 +11362,73 @@
 
                                 "vehicleName": "VAN-1-4251",
 
-                                "departureTime": "2018-01-25T18:20:01+00:00",
+                                "departureTime": "2018-01-25T18:03:23+00:00",
 
                                 "customerRefNum": null,
 
-                                "postalcode": "SA612GA",
+                                "postalcode": "SA626SG",
 
-                                "orderNumber": "18946550027",
+                                "orderNumber": "18940495378",
+
+                                "shiftAttributes": "DEFAULT",
+
+                                "shiftId": "WAVE 1 TWICE DAILY",
+
+                                "status": "CONFIRMED",
+
+                                "maxAcceptableDelay": 0,
+
+                                "locked": false
+
+                            },
+
+                            {
+
+                                "id": null,
+
+                                "reservationId": "18948226281180124200501225",
+
+                                "fromTime": "2018-01-25T17:00:00+00:00",
+
+                                "toTime": "2018-01-25T19:00:00+00:00",
+
+                                "latitude": 51.969481,
+
+                                "longitude": -4.868295,
+
+                                "serviceTime": 8,
+
+                                "serviceTime_MMSS": "8:53",
+
+                                "capacityWeight": 44.475,
+
+                                "capacityVolume": 141.847,
+
+                                "capacityValue3": 1,
+
+                                "arrivalDateTime": "2018-01-25T18:45:23+00:00",
+
+                                "calculatedMileage": 20.94,
+
+                                "calculatedTravelTime": 42,
+
+                                "actualTravelTime": 37.78,
+
+                                "deliverySequenceNumber": 10,
+
+                                "activityType": "ORDER",
+
+                                "tags": "DEFAULT",
+
+                                "vehicleName": "VAN-1-4251",
+
+                                "departureTime": "2018-01-25T18:54:16+00:00",
+
+                                "customerRefNum": null,
+
+                                "postalcode": "SA659SE",
+
+                                "orderNumber": "18948226281",
 
                                 "shiftAttributes": "DEFAULT",
 
@@ -12234,9 +11452,9 @@
 
                                 "toTime": "2018-01-25T18:30:00+00:00",
 
-                                "latitude": 51.812119,
+                                "latitude": 51.969481,
 
-                                "longitude": -4.974742,
+                                "longitude": -4.868295,
 
                                 "serviceTime": 30,
 
@@ -12248,7 +11466,7 @@
 
                                 "capacityValue3": 0,
 
-                                "arrivalDateTime": "2018-01-25T18:20:01+00:00",
+                                "arrivalDateTime": "2018-01-25T18:54:16+00:00",
 
                                 "calculatedMileage": 0.01,
 
@@ -12256,7 +11474,7 @@
 
                                 "actualTravelTime": 0,
 
-                                "deliverySequenceNumber": 7,
+                                "deliverySequenceNumber": 11,
 
                                 "activityType": "BREAK",
 
@@ -12264,7 +11482,7 @@
 
                                 "vehicleName": "VAN-1-4251",
 
-                                "departureTime": "2018-01-25T18:50:01+00:00",
+                                "departureTime": "2018-01-25T19:24:16+00:00",
 
                                 "customerRefNum": null,
 
@@ -12288,35 +11506,35 @@
 
                                 "id": null,
 
-                                "reservationId": "18898797764180124142011268",
+                                "reservationId": "18942622698180124122151888",
 
                                 "fromTime": "2018-01-25T18:00:00+00:00",
 
                                 "toTime": "2018-01-25T20:00:00+00:00",
 
-                                "latitude": 51.790404,
+                                "latitude": 51.994318,
 
-                                "longitude": -4.415113,
+                                "longitude": -5.022592,
 
                                 "serviceTime": 8,
 
-                                "serviceTime_MMSS": "8:0",
+                                "serviceTime_MMSS": "8:38",
 
-                                "capacityWeight": 23.25,
+                                "capacityWeight": 52.88,
 
-                                "capacityVolume": 62,
+                                "capacityVolume": 125.313,
 
                                 "capacityValue3": 1,
 
-                                "arrivalDateTime": "2018-01-25T19:38:03+00:00",
+                                "arrivalDateTime": "2018-01-25T19:50:31+00:00",
 
-                                "calculatedMileage": 28.46,
+                                "calculatedMileage": 9.66,
 
-                                "calculatedTravelTime": 48.03,
+                                "calculatedTravelTime": 26.25,
 
-                                "actualTravelTime": 43.22,
+                                "actualTravelTime": 23.62,
 
-                                "deliverySequenceNumber": 8,
+                                "deliverySequenceNumber": 12,
 
                                 "activityType": "ORDER",
 
@@ -12324,13 +11542,13 @@
 
                                 "vehicleName": "VAN-1-4251",
 
-                                "departureTime": "2018-01-25T19:46:03+00:00",
+                                "departureTime": "2018-01-25T19:59:09+00:00",
 
                                 "customerRefNum": null,
 
-                                "postalcode": "SA335HL",
+                                "postalcode": "SA640LB",
 
-                                "orderNumber": "18898797764",
+                                "orderNumber": "18948282301",
 
                                 "shiftAttributes": "DEFAULT",
 
@@ -12338,7 +11556,7 @@
 
                                 "status": "CONFIRMED",
 
-                                "maxAcceptableDelay": 837,
+                                "maxAcceptableDelay": 51,
 
                                 "locked": false
 
@@ -12348,95 +11566,35 @@
 
                                 "id": null,
 
-                                "reservationId": "18933297780180124001257264",
+                                "reservationId": "18928932191180123203335633",
 
-                                "fromTime": "2018-01-25T21:00:00+00:00",
-
-                                "toTime": "2018-01-25T23:00:00+00:00",
-
-                                "latitude": 51.703906,
-
-                                "longitude": -4.706027,
-
-                                "serviceTime": 6,
-
-                                "serviceTime_MMSS": "6:0",
-
-                                "capacityWeight": 25.702,
-
-                                "capacityVolume": 67.281,
-
-                                "capacityValue3": 1,
-
-                                "arrivalDateTime": "2018-01-25T20:24:00+00:00",
-
-                                "calculatedMileage": 21.82,
-
-                                "calculatedTravelTime": 37.95,
-
-                                "actualTravelTime": 34.14,
-
-                                "deliverySequenceNumber": 9,
-
-                                "activityType": "ORDER",
-
-                                "tags": "DEFAULT",
-
-                                "vehicleName": "VAN-1-4251",
-
-                                "departureTime": "2018-01-25T21:06:00+00:00",
-
-                                "customerRefNum": null,
-
-                                "postalcode": "SA699PR",
-
-                                "orderNumber": "18947838313",
-
-                                "shiftAttributes": "DEFAULT",
-
-                                "shiftId": "WAVE 1 TWICE DAILY",
-
-                                "status": "CONFIRMED",
-
-                                "maxAcceptableDelay": 2160,
-
-                                "locked": false
-
-                            },
-
-                            {
-
-                                "id": null,
-
-                                "reservationId": "18930056482180124203448510",
-
-                                "fromTime": "2018-01-25T21:00:00+00:00",
+                                "fromTime": "2018-01-25T20:00:00+00:00",
 
                                 "toTime": "2018-01-25T22:00:00+00:00",
 
-                                "latitude": 51.674989,
+                                "latitude": 51.928653,
 
-                                "longitude": -4.931995,
+                                "longitude": -5.163193,
 
-                                "serviceTime": 6,
+                                "serviceTime": 7,
 
-                                "serviceTime_MMSS": "6:15",
+                                "serviceTime_MMSS": "7:33",
 
-                                "capacityWeight": 23.25,
+                                "capacityWeight": 25.274,
 
-                                "capacityVolume": 62,
+                                "capacityVolume": 81.718,
 
                                 "capacityValue3": 1,
 
-                                "arrivalDateTime": "2018-01-25T21:30:14+00:00",
+                                "arrivalDateTime": "2018-01-25T20:17:44+00:00",
 
-                                "calculatedMileage": 12.05,
+                                "calculatedMileage": 8.83,
 
-                                "calculatedTravelTime": 24.23,
+                                "calculatedTravelTime": 18.58,
 
-                                "actualTravelTime": 21.8,
+                                "actualTravelTime": 16.71,
 
-                                "deliverySequenceNumber": 10,
+                                "deliverySequenceNumber": 13,
 
                                 "activityType": "ORDER",
 
@@ -12444,13 +11602,13 @@
 
                                 "vehicleName": "VAN-1-4251",
 
-                                "departureTime": "2018-01-25T21:36:29+00:00",
+                                "departureTime": "2018-01-25T20:25:17+00:00",
 
                                 "customerRefNum": null,
 
-                                "postalcode": "SA714NA",
+                                "postalcode": "SA625JS",
 
-                                "orderNumber": "18930056482",
+                                "orderNumber": "18947872052",
 
                                 "shiftAttributes": "DEFAULT",
 
@@ -12458,7 +11616,67 @@
 
                                 "status": "CONFIRMED",
 
-                                "maxAcceptableDelay": 0,
+                                "maxAcceptableDelay": 134,
+
+                                "locked": false
+
+                            },
+
+                            {
+
+                                "id": null,
+
+                                "reservationId": "18947161963180124105014977",
+
+                                "fromTime": "2018-01-25T20:00:00+00:00",
+
+                                "toTime": "2018-01-25T22:00:00+00:00",
+
+                                "latitude": 51.958169,
+
+                                "longitude": -4.965787,
+
+                                "serviceTime": 6,
+
+                                "serviceTime_MMSS": "6:12",
+
+                                "capacityWeight": 19.57,
+
+                                "capacityVolume": 46.89,
+
+                                "capacityValue3": 1,
+
+                                "arrivalDateTime": "2018-01-25T20:43:26+00:00",
+
+                                "calculatedMileage": 10,
+
+                                "calculatedTravelTime": 18.14,
+
+                                "actualTravelTime": 16.32,
+
+                                "deliverySequenceNumber": 14,
+
+                                "activityType": "ORDER",
+
+                                "tags": "DEFAULT",
+
+                                "vehicleName": "VAN-1-4251",
+
+                                "departureTime": "2018-01-25T20:49:38+00:00",
+
+                                "customerRefNum": null,
+
+                                "postalcode": "SA625XR",
+
+                                "orderNumber": "18947161963",
+
+                                "shiftAttributes": "DEFAULT",
+
+                                "shiftId": "WAVE 1 TWICE DAILY",
+
+                                "status": "CONFIRMED",
+
+                                "maxAcceptableDelay": 134,
 
                                 "locked": false
 
@@ -12488,15 +11706,15 @@
 
                                 "capacityValue3": 1,
 
-                                "arrivalDateTime": "2018-01-25T22:04:23+00:00",
+                                "arrivalDateTime": "2018-01-25T21:13:10+00:00",
 
-                                "calculatedMileage": 12.39,
+                                "calculatedMileage": 13.16,
 
-                                "calculatedTravelTime": 27.89,
+                                "calculatedTravelTime": 23.53,
 
-                                "actualTravelTime": 25.1,
+                                "actualTravelTime": 21.17,
 
-                                "deliverySequenceNumber": 11,
+                                "deliverySequenceNumber": 15,
 
                                 "activityType": "ORDER",
 
@@ -12504,7 +11722,7 @@
 
                                 "vehicleName": "VAN-1-4251",
 
-                                "departureTime": "2018-01-25T22:15:53+00:00",
+                                "departureTime": "2018-01-25T21:24:40+00:00",
 
                                 "customerRefNum": null,
 
@@ -12518,7 +11736,67 @@
 
                                 "status": "CONFIRMED",
 
-                                "maxAcceptableDelay": 0,
+                                "maxAcceptableDelay": 134,
+
+                                "locked": false
+
+                            },
+
+                            {
+
+                                "id": null,
+
+                                "reservationId": "18934019088180124142812375",
+
+                                "fromTime": "2018-01-25T21:00:00+00:00",
+
+                                "toTime": "2018-01-25T23:00:00+00:00",
+
+                                "latitude": 51.755273,
+
+                                "longitude": -4.98896,
+
+                                "serviceTime": 7,
+
+                                "serviceTime_MMSS": "7:48",
+
+                                "capacityWeight": 35.843,
+
+                                "capacityVolume": 93.027,
+
+                                "capacityValue3": 1,
+
+                                "arrivalDateTime": "2018-01-25T21:36:28+00:00",
+
+                                "calculatedMileage": 4.65,
+
+                                "calculatedTravelTime": 11.8,
+
+                                "actualTravelTime": 10.6,
+
+                                "deliverySequenceNumber": 16,
+
+                                "activityType": "ORDER",
+
+                                "tags": "DEFAULT",
+
+                                "vehicleName": "VAN-1-4251",
+
+                                "departureTime": "2018-01-25T21:44:16+00:00",
+
+                                "customerRefNum": null,
+
+                                "postalcode": "SA623QD",
+
+                                "orderNumber": "18934019088",
+
+                                "shiftAttributes": "DEFAULT",
+
+                                "shiftId": "WAVE 1 TWICE DAILY",
+
+                                "status": "CONFIRMED",
+
+                                "maxAcceptableDelay": 134,
 
                                 "locked": false
 
@@ -12542,21 +11820,21 @@
 
                                 "serviceTime_MMSS": "0:0",
 
-                                "capacityWeight": 1,
+                                "capacityWeight": 41.234,
 
-                                "capacityVolume": 1,
+                                "capacityVolume": 96.522,
 
                                 "capacityValue3": 0,
 
-                                "arrivalDateTime": "2018-01-25T22:38:23+00:00",
+                                "arrivalDateTime": "2018-01-25T21:57:46+00:00",
 
-                                "calculatedMileage": 10.41,
+                                "calculatedMileage": 6.53,
 
-                                "calculatedTravelTime": 22.5,
+                                "calculatedTravelTime": 13.5,
 
-                                "actualTravelTime": 20.23,
+                                "actualTravelTime": 12.14,
 
-                                "deliverySequenceNumber": 12,
+                                "deliverySequenceNumber": 17,
 
                                 "activityType": "DEPOT",
 
@@ -12564,7 +11842,7 @@
 
                                 "vehicleName": "VAN-1-4251",
 
-                                "departureTime": "2018-01-25T22:38:23+00:00",
+                                "departureTime": "2018-01-25T21:57:46+00:00",
 
                                 "customerRefNum": null,
 
@@ -12578,7 +11856,7 @@
 
                                 "status": null,
 
-                                "maxAcceptableDelay": 0,
+                                "maxAcceptableDelay": 134,
 
                                 "locked": false
 
@@ -12588,9 +11866,9 @@
 
                         "carrier": null,
 
-                        "calculatedTravelTime": 20328,
+                        "calculatedTravelTime": 17746,
 
-                        "calculatedTravelDistance": 189.46,
+                        "calculatedTravelDistance": 137.829999,
 
                         "externalReferenceKey": "7a9054a7-aa3d-4bcd-a53b-beba2dc1b179"
 
@@ -12706,11 +11984,11 @@
 
                                 "serviceTime_MMSS": "44:0",
 
-                                "capacityWeight": 348.617,
+                                "capacityWeight": 209.127,
 
-                                "capacityVolume": 9168.165,
+                                "capacityVolume": 8628.75,
 
-                                "capacityValue3": 2147483639,
+                                "capacityValue3": 2147483632,
 
                                 "arrivalDateTime": "2018-01-25T14:00:00+00:00",
 
@@ -12742,7 +12020,7 @@
 
                                 "status": null,
 
-                                "maxAcceptableDelay": 0,
+                                "maxAcceptableDelay": 309,
 
                                 "locked": false
 
@@ -12752,33 +12030,33 @@
 
                                 "id": null,
 
-                                "reservationId": "1892063367718012314463629",
+                                "reservationId": "18931515674180123160416265",
 
-                                "fromTime": "2018-01-25T15:00:00+00:00",
+                                "fromTime": "2018-01-25T14:30:00+00:00",
 
-                                "toTime": "2018-01-25T17:00:00+00:00",
+                                "toTime": "2018-01-25T15:30:00+00:00",
 
-                                "latitude": 52.013952,
+                                "latitude": 51.69327,
 
-                                "longitude": -4.798056,
+                                "longitude": -4.94581,
 
                                 "serviceTime": 6,
 
                                 "serviceTime_MMSS": "6:43",
 
-                                "capacityWeight": 41.999,
+                                "capacityWeight": 32.317,
 
-                                "capacityVolume": 62.161,
+                                "capacityVolume": 109.051,
 
                                 "capacityValue3": 1,
 
-                                "arrivalDateTime": "2018-01-25T15:35:40+00:00",
+                                "arrivalDateTime": "2018-01-25T14:45:23+00:00",
 
-                                "calculatedMileage": 28.39,
+                                "calculatedMileage": 0.28,
 
-                                "calculatedTravelTime": 51.66,
+                                "calculatedTravelTime": 1.38,
 
-                                "actualTravelTime": 46.49,
+                                "actualTravelTime": 1.23,
 
                                 "deliverySequenceNumber": 2,
 
@@ -12788,13 +12066,13 @@
 
                                 "vehicleName": "VAN-2-4251",
 
-                                "departureTime": "2018-01-25T15:42:23+00:00",
+                                "departureTime": "2018-01-25T14:52:06+00:00",
 
                                 "customerRefNum": null,
 
-                                "postalcode": "SA420NA",
+                                "postalcode": "SA726JS",
 
-                                "orderNumber": "18920633677",
+                                "orderNumber": "18931515674",
 
                                 "shiftAttributes": "DEFAULT",
 
@@ -12802,7 +12080,7 @@
 
                                 "status": "CONFIRMED",
 
-                                "maxAcceptableDelay": 0,
+                                "maxAcceptableDelay": 309,
 
                                 "locked": false
 
@@ -12812,33 +12090,33 @@
 
                                 "id": null,
 
-                                "reservationId": "18052331354180123213441374",
+                                "reservationId": "18837720657180124191211308",
 
-                                "fromTime": "2018-01-25T14:00:00+00:00",
+                                "fromTime": "2018-01-25T14:30:00+00:00",
 
-                                "toTime": "2018-01-25T16:00:00+00:00",
+                                "toTime": "2018-01-25T15:30:00+00:00",
 
-                                "latitude": 51.901564,
+                                "latitude": 51.693174,
 
-                                "longitude": -5.016498,
+                                "longitude": -4.946803,
 
-                                "serviceTime": 10,
+                                "serviceTime": 6,
 
-                                "serviceTime_MMSS": "10:25",
+                                "serviceTime_MMSS": "6:43",
 
-                                "capacityWeight": 52.106,
+                                "capacityWeight": 51.789,
 
-                                "capacityVolume": 89.397,
+                                "capacityVolume": 81.34,
 
                                 "capacityValue3": 1,
 
-                                "arrivalDateTime": "2018-01-25T16:12:33+00:00",
+                                "arrivalDateTime": "2018-01-25T14:53:04+00:00",
 
-                                "calculatedMileage": 16.57,
+                                "calculatedMileage": 0.14,
 
-                                "calculatedTravelTime": 30.16,
+                                "calculatedTravelTime": 0.96,
 
-                                "actualTravelTime": 27.14,
+                                "actualTravelTime": 0.86,
 
                                 "deliverySequenceNumber": 3,
 
@@ -12848,13 +12126,13 @@
 
                                 "vehicleName": "VAN-2-4251",
 
-                                "departureTime": "2018-01-25T16:22:58+00:00",
+                                "departureTime": "2018-01-25T14:59:47+00:00",
 
                                 "customerRefNum": null,
 
-                                "postalcode": "SA625NT",
+                                "postalcode": "SA726JP",
 
-                                "orderNumber": "18052331354",
+                                "orderNumber": "18837720657",
 
                                 "shiftAttributes": "DEFAULT",
 
@@ -12862,7 +12140,7 @@
 
                                 "status": "CONFIRMED",
 
-                                "maxAcceptableDelay": 0,
+                                "maxAcceptableDelay": 309,
 
                                 "locked": false
 
@@ -12872,33 +12150,33 @@
 
                                 "id": null,
 
-                                "reservationId": "18948226281180124200501225",
+                                "reservationId": "1894172082918012419461219",
 
-                                "fromTime": "2018-01-25T17:00:00+00:00",
+                                "fromTime": "2018-01-25T14:00:00+00:00",
 
-                                "toTime": "2018-01-25T19:00:00+00:00",
+                                "toTime": "2018-01-25T16:00:00+00:00",
 
-                                "latitude": 51.969481,
+                                "latitude": 51.757053,
 
-                                "longitude": -4.868295,
+                                "longitude": -4.994297,
 
-                                "serviceTime": 8,
+                                "serviceTime": 4,
 
-                                "serviceTime_MMSS": "8:53",
+                                "serviceTime_MMSS": "4:35",
 
-                                "capacityWeight": 44.475,
+                                "capacityWeight": 10.054,
 
-                                "capacityVolume": 141.847,
+                                "capacityVolume": 40.597,
 
                                 "capacityValue3": 1,
 
-                                "arrivalDateTime": "2018-01-25T16:48:21+00:00",
+                                "arrivalDateTime": "2018-01-25T15:15:05+00:00",
 
-                                "calculatedMileage": 10.99,
+                                "calculatedMileage": 6.83,
 
-                                "calculatedTravelTime": 25.38,
+                                "calculatedTravelTime": 15.3,
 
-                                "actualTravelTime": 22.83,
+                                "actualTravelTime": 13.75,
 
                                 "deliverySequenceNumber": 4,
 
@@ -12906,15 +12184,15 @@
 
                                 "tags": "DEFAULT",
 
-                               "vehicleName": "VAN-2-4251",
+                                "vehicleName": "VAN-2-4251",
 
-                                "departureTime": "2018-01-25T17:08:53+00:00",
+                                "departureTime": "2018-01-25T15:19:40+00:00",
 
                                 "customerRefNum": null,
 
-                                "postalcode": "SA659SE",
+                                "postalcode": "SA623QG",
 
-                                "orderNumber": "18948226281",
+                                "orderNumber": "18941720829",
 
                                 "shiftAttributes": "DEFAULT",
 
@@ -12922,7 +12200,7 @@
 
                                 "status": "CONFIRMED",
 
-                                "maxAcceptableDelay": 1575,
+                                "maxAcceptableDelay": 309,
 
                                 "locked": false
 
@@ -12932,33 +12210,33 @@
 
                                 "id": null,
 
-                                "reservationId": "18935065579180124160514651",
+                                "reservationId": "18932397541180121130354819",
 
-                                "fromTime": "2018-01-25T16:00:00+00:00",
+                                "fromTime": "2018-01-25T14:00:00+00:00",
 
-                                "toTime": "2018-01-25T18:00:00+00:00",
+                                "toTime": "2018-01-25T16:00:00+00:00",
 
-                                "latitude": 51.990616,
+                                "latitude": 51.760214,
 
-                                "longitude": -4.971923,
+                                "longitude": -5.134887,
 
                                 "serviceTime": 8,
 
-                                "serviceTime_MMSS": "8:39",
+                                "serviceTime_MMSS": "8:53",
 
-                                "capacityWeight": 56.584,
+                                "capacityWeight": 52.185,
 
-                                "capacityVolume": 166.235,
+                                "capacityVolume": 273.425,
 
                                 "capacityValue3": 1,
 
-                                "arrivalDateTime": "2018-01-25T17:23:15+00:00",
+                                "arrivalDateTime": "2018-01-25T15:38:10+00:00",
 
-                                "calculatedMileage": 5.75,
+                                "calculatedMileage": 8.58,
 
-                                "calculatedTravelTime": 14.36,
+                                "calculatedTravelTime": 18.5,
 
-                                "actualTravelTime": 12.92,
+                                "actualTravelTime": 16.64,
 
                                 "deliverySequenceNumber": 5,
 
@@ -12968,13 +12246,13 @@
 
                                 "vehicleName": "VAN-2-4251",
 
-                                "departureTime": "2018-01-25T17:31:54+00:00",
+                                "departureTime": "2018-01-25T15:47:03+00:00",
 
                                 "customerRefNum": null,
 
-                                "postalcode": "SA659LE",
+                                "postalcode": "SA623XB",
 
-                                "orderNumber": "18947768405",
+                                "orderNumber": "18945975829",
 
                                 "shiftAttributes": "DEFAULT",
 
@@ -12982,7 +12260,7 @@
 
                                 "status": "CONFIRMED",
 
-                                "maxAcceptableDelay": 876,
+                                "maxAcceptableDelay": 309,
 
                                 "locked": false
 
@@ -12992,33 +12270,33 @@
 
                                 "id": null,
 
-                                "reservationId": "18942622698180124122151888",
+                                "reservationId": "18932570410180123230949573",
 
-                                "fromTime": "2018-01-25T18:00:00+00:00",
+                                "fromTime": "2018-01-25T16:00:00+00:00",
 
-                                "toTime": "2018-01-25T20:00:00+00:00",
+                                "toTime": "2018-01-25T17:00:00+00:00",
 
-                                "latitude": 51.994318,
+                                "latitude": 51.709317,
 
-                                "longitude": -5.022592,
+                                "longitude": -4.946463,
 
-                                "serviceTime": 8,
+                                "serviceTime": 6,
 
-                                "serviceTime_MMSS": "8:38",
+                                "serviceTime_MMSS": "6:43",
 
-                                "capacityWeight": 52.88,
+                                "capacityWeight": 18.42,
 
-                                "capacityVolume": 125.313,
+                                "capacityVolume": 45.567,
 
                                 "capacityValue3": 1,
 
-                                "arrivalDateTime": "2018-01-25T17:45:24+00:00",
+                                "arrivalDateTime": "2018-01-25T16:11:34+00:00",
 
-                                "calculatedMileage": 4.16,
+                                "calculatedMileage": 12.16,
 
-                                "calculatedTravelTime": 13.5,
+                                "calculatedTravelTime": 24.51,
 
-                                "actualTravelTime": 12.15,
+                                "actualTravelTime": 22.05,
 
                                 "deliverySequenceNumber": 6,
 
@@ -13028,13 +12306,13 @@
 
                                 "vehicleName": "VAN-2-4251",
 
-                                "departureTime": "2018-01-25T18:08:38+00:00",
+                                "departureTime": "2018-01-25T16:18:17+00:00",
 
                                 "customerRefNum": null,
 
-                                "postalcode": "SA640LB",
+                                "postalcode": "SA731TB",
 
-                                "orderNumber": "18948282301",
+                                "orderNumber": "18932570410",
 
                                 "shiftAttributes": "DEFAULT",
 
@@ -13042,7 +12320,187 @@
 
                                 "status": "CONFIRMED",
 
-                                "maxAcceptableDelay": 876,
+                                "maxAcceptableDelay": 309,
+
+                                "locked": false
+
+                            },
+
+                            {
+
+                                "id": null,
+
+                                "reservationId": "1893248571418012314050973",
+
+                                "fromTime": "2018-01-25T15:00:00+00:00",
+
+                                "toTime": "2018-01-25T17:00:00+00:00",
+
+                                "latitude": 51.734025,
+
+                                "longitude": -4.713041,
+
+                                "serviceTime": 8,
+
+                                "serviceTime_MMSS": "8:28",
+
+                                "capacityWeight": 22.707,
+
+                                "capacityVolume": 59.21,
+
+                                "capacityValue3": 1,
+
+                                "arrivalDateTime": "2018-01-25T16:43:18+00:00",
+
+                                "calculatedMileage": 14.05,
+
+                                "calculatedTravelTime": 25.01,
+
+                                "actualTravelTime": 22.51,
+
+                                "deliverySequenceNumber": 7,
+
+                                "activityType": "ORDER",
+
+                                "tags": "DEFAULT",
+
+                                "vehicleName": "VAN-2-4251",
+
+                                "departureTime": "2018-01-25T16:51:46+00:00",
+
+                                "customerRefNum": null,
+
+                                "postalcode": "SA680UQ",
+
+                                "orderNumber": "18932485714",
+
+                                "shiftAttributes": "DEFAULT",
+
+                                "shiftId": "WAVE 1 TWICE DAILY",
+
+                                "status": "CONFIRMED",
+
+                                "maxAcceptableDelay": 309,
+
+                                "locked": false
+
+                            },
+
+                            {
+
+                                "id": null,
+
+                                "reservationId": "18802167358180123233040978",
+
+                                "fromTime": "2018-01-25T16:00:00+00:00",
+
+                                "toTime": "2018-01-25T18:00:00+00:00",
+
+                                "latitude": 51.819559,
+
+                                "longitude": -4.498167,
+
+                                "serviceTime": 6,
+
+                                "serviceTime_MMSS": "6:57",
+
+                                "capacityWeight": 14.678,
+
+                                "capacityVolume": 27.187,
+
+                                "capacityValue3": 1,
+
+                                "arrivalDateTime": "2018-01-25T17:09:32+00:00",
+
+                                "calculatedMileage": 11.75,
+
+                                "calculatedTravelTime": 17.76,
+
+                                "actualTravelTime": 15.98,
+
+                                "deliverySequenceNumber": 8,
+
+                                "activityType": "ORDER",
+
+                                "tags": "DEFAULT",
+
+                                "vehicleName": "VAN-2-4251",
+
+                                "departureTime": "2018-01-25T17:16:29+00:00",
+
+                                "customerRefNum": null,
+
+                                "postalcode": "SA334AA",
+
+                                "orderNumber": "18802167358",
+
+                                "shiftAttributes": "DEFAULT",
+
+                                "shiftId": "WAVE 1 TWICE DAILY",
+
+                                "status": "CONFIRMED",
+
+                                "maxAcceptableDelay": 309,
+
+                                "locked": false
+
+                            },
+
+                            {
+
+                                "id": null,
+
+                                "reservationId": "18934228918180123192523719",
+
+                                "fromTime": "2018-01-25T18:00:00+00:00",
+
+                                "toTime": "2018-01-25T19:00:00+00:00",
+
+                                "latitude": 51.71251,
+
+                                "longitude": -4.951122,
+
+                                "serviceTime": 6,
+
+                                "serviceTime_MMSS": "6:1",
+
+                                "capacityWeight": 23.727,
+
+                                "capacityVolume": 57.072,
+
+                                "capacityValue3": 1,
+
+                                "arrivalDateTime": "2018-01-25T17:54:51+00:00",
+
+                                "calculatedMileage": 25.12,
+
+                                "calculatedTravelTime": 38.36,
+
+                                "actualTravelTime": 34.52,
+
+                                "deliverySequenceNumber": 9,
+
+                                "activityType": "ORDER",
+
+                                "tags": "DEFAULT",
+
+                                "vehicleName": "VAN-2-4251",
+
+                                "departureTime": "2018-01-25T18:06:01+00:00",
+
+                                "customerRefNum": null,
+
+                                "postalcode": "SA731TW",
+
+                                "orderNumber": "18948059064",
+
+                                "shiftAttributes": "DEFAULT",
+
+                                "shiftId": "WAVE 1 TWICE DAILY",
+
+                                "status": "CONFIRMED",
+
+                                "maxAcceptableDelay": 309,
 
                                 "locked": false
 
@@ -13058,9 +12516,9 @@
 
                                 "toTime": "2018-01-25T18:30:00+00:00",
 
-                                "latitude": 51.994318,
+                                "latitude": 51.71251,
 
-                                "longitude": -5.022592,
+                                "longitude": -4.951122,
 
                                 "serviceTime": 30,
 
@@ -13072,15 +12530,15 @@
 
                                 "capacityValue3": 0,
 
-                                "arrivalDateTime": "2018-01-25T18:08:38+00:00",
+                                "arrivalDateTime": "2018-01-25T18:06:01+00:00",
 
-                                "calculatedMileage": 0.05,
+                               "calculatedMileage": 0.01,
 
                                 "calculatedTravelTime": 0,
 
                                 "actualTravelTime": 0,
 
-                                "deliverySequenceNumber": 7,
+                                "deliverySequenceNumber": 10,
 
                                 "activityType": "BREAK",
 
@@ -13088,7 +12546,7 @@
 
                                 "vehicleName": "VAN-2-4251",
 
-                                "departureTime": "2018-01-25T18:38:38+00:00",
+                                "departureTime": "2018-01-25T18:36:01+00:00",
 
                                 "customerRefNum": null,
 
@@ -13112,35 +12570,35 @@
 
                                 "id": null,
 
-                                "reservationId": "18931601206180122213357853",
+                                "reservationId": "18946550027180124090639983",
 
-                                "fromTime": "2018-01-25T16:00:00+00:00",
+                                "fromTime": "2018-01-25T18:00:00+00:00",
 
-                                "toTime": "2018-01-25T18:00:00+00:00",
+                                "toTime": "2018-01-25T20:00:00+00:00",
 
-                                "latitude": 52.004351,
+                                "latitude": 51.812119,
 
-                                "longitude": -5.001676,
+                                "longitude": -4.974742,
 
-                                "serviceTime": 7,
+                                "serviceTime": 8,
 
-                                "serviceTime_MMSS": "7:0",
+                                "serviceTime_MMSS": "8:1",
 
-                                "capacityWeight": 23.25,
+                                "capacityWeight": 45.594,
 
-                                "capacityVolume": 62,
+                                "capacityVolume": 155.959,
 
                                 "capacityValue3": 1,
 
-                                "arrivalDateTime": "2018-01-25T18:46:22+00:00",
+                                "arrivalDateTime": "2018-01-25T18:54:48+00:00",
 
-                                "calculatedMileage": 2.06,
+                                "calculatedMileage": 8.5,
 
-                                "calculatedTravelTime": 7.73,
+                                "calculatedTravelTime": 18.78,
 
-                                "actualTravelTime": 6.95,
+                                "actualTravelTime": 16.89,
 
-                                "deliverySequenceNumber": 8,
+                                "deliverySequenceNumber": 11,
 
                                 "activityType": "ORDER",
 
@@ -13148,13 +12606,13 @@
 
                                 "vehicleName": "VAN-2-4251",
 
-                                "departureTime": "2018-01-25T18:53:22+00:00",
+                                "departureTime": "2018-01-25T19:02:49+00:00",
 
                                 "customerRefNum": null,
 
-                                "postalcode": "SA640HH",
+                                "postalcode": "SA612GA",
 
-                                "orderNumber": "18931601206",
+                                "orderNumber": "18946550027",
 
                                 "shiftAttributes": "DEFAULT",
 
@@ -13172,35 +12630,35 @@
 
                                 "id": null,
 
-                                "reservationId": "1893627950118012411024996",
+                                "reservationId": "18945113905180123073424866",
 
-                                "fromTime": "2018-01-25T21:00:00+00:00",
+                                "fromTime": "2018-01-25T18:00:00+00:00",
 
-                                "toTime": "2018-01-25T23:00:00+00:00",
+                                "toTime": "2018-01-25T20:00:00+00:00",
 
-                                "latitude": 51.820569,
+                                "latitude": 51.874396,
 
-                                "longitude": -4.516966,
+                                "longitude": -5.203861,
 
-                                "serviceTime": 7,
+                                "serviceTime": 8,
 
-                                "serviceTime_MMSS": "7:33",
+                                "serviceTime_MMSS": "8:53",
 
-                                "capacityWeight": 36.832,
+                                "capacityWeight": 47.258,
 
-                                "capacityVolume": 121.046,
+                                "capacityVolume": 133.288,
 
                                 "capacityValue3": 1,
 
-                                "arrivalDateTime": "2018-01-25T19:50:46+00:00",
+                                "arrivalDateTime": "2018-01-25T19:27:46+00:00",
 
-                                "calculatedMileage": 35.42,
+                                "calculatedMileage": 13.49,
 
-                                "calculatedTravelTime": 57.39,
+                                "calculatedTravelTime": 24.94,
 
-                                "actualTravelTime": 51.65,
+                                "actualTravelTime": 22.44,
 
-                                "deliverySequenceNumber": 9,
+                                "deliverySequenceNumber": 12,
 
                                 "activityType": "ORDER",
 
@@ -13208,13 +12666,13 @@
 
                                 "vehicleName": "VAN-2-4251",
 
-                                "departureTime": "2018-01-25T21:07:33+00:00",
+                                "departureTime": "2018-01-25T19:36:39+00:00",
 
                                 "customerRefNum": null,
 
-                                "postalcode": "SA334AQ",
+                                "postalcode": "SA626TZ",
 
-                                "orderNumber": "18936279501",
+                                "orderNumber": "18947968061",
 
                                 "shiftAttributes": "DEFAULT",
 
@@ -13222,7 +12680,7 @@
 
                                 "status": "CONFIRMED",
 
-                                "maxAcceptableDelay": 4254,
+                                "maxAcceptableDelay": 0,
 
                                 "locked": false
 
@@ -13232,35 +12690,35 @@
 
                                 "id": null,
 
-                                "reservationId": "18915397424180124184849946",
+                                "reservationId": "18705897567180124225520925",
 
                                 "fromTime": "2018-01-25T20:00:00+00:00",
 
                                 "toTime": "2018-01-25T22:00:00+00:00",
 
-                                "latitude": 51.715333,
+                                "latitude": 51.714288,
 
-                                "longitude": -4.711661,
+                                "longitude": -5.037309,
 
                                 "serviceTime": 6,
 
-                                "serviceTime_MMSS": "6:28",
+                                "serviceTime_MMSS": "6:43",
 
-                                "capacityWeight": 23.25,
+                                "capacityWeight": 19.861,
 
-                                "capacityVolume": 63.826,
+                                "capacityVolume": 47.32,
 
                                 "capacityValue3": 1,
 
-                                "arrivalDateTime": "2018-01-25T21:31:08+00:00",
+                                "arrivalDateTime": "2018-01-25T20:15:51+00:00",
 
-                                "calculatedMileage": 14.9,
+                                "calculatedMileage": 20.17,
 
-                                "calculatedTravelTime": 23.58,
+                                "calculatedTravelTime": 39.2,
 
-                                "actualTravelTime": 21.21,
+                                "actualTravelTime": 35.28,
 
-                                "deliverySequenceNumber": 10,
+                                "deliverySequenceNumber": 13,
 
                                 "activityType": "ORDER",
 
@@ -13268,13 +12726,13 @@
 
                                 "vehicleName": "VAN-2-4251",
 
-                                "departureTime": "2018-01-25T21:37:36+00:00",
+                                "departureTime": "2018-01-25T20:22:34+00:00",
 
                                 "customerRefNum": null,
 
-                                "postalcode": "SA699LT",
+                                "postalcode": "SA732AP",
 
-                                "orderNumber": "18915397424",
+                                "orderNumber": "18705897567",
 
                                 "shiftAttributes": "DEFAULT",
 
@@ -13282,7 +12740,7 @@
 
                                 "status": "CONFIRMED",
 
-                                "maxAcceptableDelay": 100,
+                                "maxAcceptableDelay": 0,
 
                                 "locked": false
 
@@ -13292,7 +12750,247 @@
 
                                 "id": null,
 
-                                "reservationId": "79BEE605-727B-404A-B069-B5EE0A7800DA",
+                                "reservationId": "18945250666180123091508456",
+
+                                "fromTime": "2018-01-25T19:00:00+00:00",
+
+                                "toTime": "2018-01-25T21:00:00+00:00",
+
+                                "latitude": 51.722645,
+
+                                "longitude": -5.032854,
+
+                                "serviceTime": 15,
+
+                                "serviceTime_MMSS": "15:5",
+
+                                "capacityWeight": 51.503,
+
+                                "capacityVolume": 162.655,
+
+                                "capacityValue3": 1,
+
+                                "arrivalDateTime": "2018-01-25T20:26:08+00:00",
+
+                                "calculatedMileage": 0.93,
+
+                                "calculatedTravelTime": 3.56,
+
+                                "actualTravelTime": 3.2,
+
+                                "deliverySequenceNumber": 14,
+
+                                "activityType": "ORDER",
+
+                                "tags": "DEFAULT",
+
+                                "vehicleName": "VAN-2-4251",
+
+                                "departureTime": "2018-01-25T20:41:13+00:00",
+
+                                "customerRefNum": null,
+
+                                "postalcode": "SA732EL",
+
+                                "orderNumber": "18945482643",
+
+                                "shiftAttributes": "DEFAULT",
+
+                                "shiftId": "WAVE 1 TWICE DAILY",
+
+                                "status": "CONFIRMED",
+
+                                "maxAcceptableDelay": 0,
+
+                                "locked": false
+
+                            },
+
+                            {
+
+                                "id": null,
+
+                                "reservationId": "1889096055818012321022325",
+
+                                "fromTime": "2018-01-25T20:30:00+00:00",
+
+                                "toTime": "2018-01-25T21:30:00+00:00",
+
+                                "latitude": 51.715353,
+
+                                "longitude": -4.955383,
+
+                                "serviceTime": 7,
+
+                                "serviceTime_MMSS": "7:33",
+
+                                "capacityWeight": 26.515,
+
+                                "capacityVolume": 64.933,
+
+                                "capacityValue3": 1,
+
+                                "arrivalDateTime": "2018-01-25T20:52:11+00:00",
+
+                                "calculatedMileage": 4.83,
+
+                                "calculatedTravelTime": 10.96,
+
+                                "actualTravelTime": 9.85,
+
+                                "deliverySequenceNumber": 15,
+
+                                "activityType": "ORDER",
+
+                                "tags": "DEFAULT",
+
+                                "vehicleName": "VAN-2-4251",
+
+                                "departureTime": "2018-01-25T20:59:44+00:00",
+
+                                "customerRefNum": null,
+
+                                "postalcode": "SA731RH",
+
+                                "orderNumber": "18948940715",
+
+                                "shiftAttributes": "DEFAULT",
+
+                                "shiftId": "WAVE 1 TWICE DAILY",
+
+                                "status": "CONFIRMED",
+
+                                "maxAcceptableDelay": 0,
+
+                                "locked": false
+
+                            },
+
+                            {
+
+                                "id": null,
+
+                                "reservationId": "18917089739180124135030785",
+
+                                "fromTime": "2018-01-25T21:00:00+00:00",
+
+                                "toTime": "2018-01-25T23:00:00+00:00",
+
+                                "latitude": 51.753939,
+
+                                "longitude": -4.995785,
+
+                                "serviceTime": 6,
+
+                                "serviceTime_MMSS": "6:43",
+
+                                "capacityWeight": 14.861,
+
+                               "capacityVolume": 35.155,
+
+                                "capacityValue3": 1,
+
+                                "arrivalDateTime": "2018-01-25T21:08:12+00:00",
+
+                                "calculatedMileage": 3.79,
+
+                                "calculatedTravelTime": 8.46,
+
+                                "actualTravelTime": 7.62,
+
+                                "deliverySequenceNumber": 16,
+
+                                "activityType": "ORDER",
+
+                                "tags": "DEFAULT",
+
+                                "vehicleName": "VAN-2-4251",
+
+                                "departureTime": "2018-01-25T21:14:55+00:00",
+
+                                "customerRefNum": null,
+
+                                "postalcode": "SA623LJ",
+
+                                "orderNumber": "18917089739",
+
+                                "shiftAttributes": "DEFAULT",
+
+                                "shiftId": "WAVE 1 TWICE DAILY",
+
+                                "status": "CONFIRMED",
+
+                                "maxAcceptableDelay": 0,
+
+                                "locked": false
+
+                            },
+
+                            {
+
+                                "id": null,
+
+                                "reservationId": "18934726143180124193141712",
+
+                                "fromTime": "2018-01-25T20:30:00+00:00",
+
+                                "toTime": "2018-01-25T21:30:00+00:00",
+
+                                "latitude": 51.682941,
+
+                                "longitude": -4.916087,
+
+                                "serviceTime": 7,
+
+                                "serviceTime_MMSS": "7:48",
+
+                                "capacityWeight": 28.846,
+
+                               "capacityVolume": 70.355,
+
+                                "capacityValue3": 1,
+
+                                "arrivalDateTime": "2018-01-25T21:29:04+00:00",
+
+                                "calculatedMileage": 6.95,
+
+                                "calculatedTravelTime": 14.15,
+
+                                "actualTravelTime": 12.73,
+
+                                "deliverySequenceNumber": 17,
+
+                                "activityType": "ORDER",
+
+                                "tags": "DEFAULT",
+
+                                "vehicleName": "VAN-2-4251",
+
+                                "departureTime": "2018-01-25T21:36:52+00:00",
+
+                                "customerRefNum": null,
+
+                                "postalcode": "SA715TT",
+
+                                "orderNumber": "18948876863",
+
+                                "shiftAttributes": "DEFAULT",
+
+                                "shiftId": "WAVE 1 TWICE DAILY",
+
+                                "status": "CONFIRMED",
+
+                                "maxAcceptableDelay": 0,
+
+                                "locked": false
+
+                            },
+
+                            {
+
+                                "id": null,
+
+                               "reservationId": "79BEE605-727B-404A-B069-B5EE0A7800DA",
 
                                 "fromTime": "2018-01-25T14:00:00+00:00",
 
@@ -13306,21 +13004,21 @@
 
                                 "serviceTime_MMSS": "0:0",
 
-                                "capacityWeight": 1,
+                                "capacityWeight": 11.535,
 
-                                "capacityVolume": 1,
+                                "capacityVolume": 9.099,
 
                                 "capacityValue3": 0,
 
-                                "arrivalDateTime": "2018-01-25T21:58:20+00:00",
+                                "arrivalDateTime": "2018-01-25T21:41:54+00:00",
 
-                                "calculatedMileage": 11.47,
+                                "calculatedMileage": 1.66,
 
-                                "calculatedTravelTime": 20.73,
+                                "calculatedTravelTime": 5.03,
 
-                                "actualTravelTime": 18.66,
+                                "actualTravelTime": 4.53,
 
-                                "deliverySequenceNumber": 11,
+                                "deliverySequenceNumber": 18,
 
                                 "activityType": "DEPOT",
 
@@ -13328,7 +13026,7 @@
 
                                 "vehicleName": "VAN-2-4251",
 
-                                "departureTime": "2018-01-25T21:58:20+00:00",
+                                "departureTime": "2018-01-25T21:41:54+00:00",
 
                                 "customerRefNum": null,
 
@@ -13342,7 +13040,7 @@
 
                                 "status": null,
 
-                                "maxAcceptableDelay": 100,
+                                "maxAcceptableDelay": 1086,
 
                                 "locked": false
 
@@ -13352,9 +13050,9 @@
 
                         "carrier": null,
 
-                        "calculatedTravelTime": 14672,
+                        "calculatedTravelTime": 16016,
 
-                        "calculatedTravelDistance": 129.76,
+                        "calculatedTravelDistance": 139.26,
 
                         "externalReferenceKey": "3bf1bfa9-ae90-4f15-97fc-85e8396fb726"
 
@@ -13364,7 +13062,7 @@
 
                     "vehicleName": "VAN-2-4251",
 
-                   "serviceProvider": "OWN_FLEET",
+                    "serviceProvider": "OWN_FLEET",
 
                     "carrier": "FLEET",
 
@@ -13388,7 +13086,7 @@
 
                         {
 
-                           "id": "d84dbde8-d935-4c13-bdf9-d4eac0d46b9b",
+                            "id": "d84dbde8-d935-4c13-bdf9-d4eac0d46b9b",
 
                             "startOffSet": 210,
 
@@ -13470,11 +13168,11 @@
 
                                 "serviceTime_MMSS": "44:0",
 
-                                "capacityWeight": 382.41,
+                                "capacityWeight": 151.68,
 
-                                "capacityVolume": 9139.191,
+                                "capacityVolume": 8332.065,
 
-                                "capacityValue3": 2147483636,
+                                "capacityValue3": 2147483635,
 
                                 "arrivalDateTime": "2018-01-25T14:30:00+00:00",
 
@@ -13506,7 +13204,7 @@
 
                                 "status": null,
 
-                                "maxAcceptableDelay": 0,
+                                "maxAcceptableDelay": 202,
 
                                 "locked": false
 
@@ -13516,33 +13214,33 @@
 
                                 "id": null,
 
-                                "reservationId": "18769265879180124120921223",
+                                "reservationId": "18911333641180123163207270",
 
-                                "fromTime": "2018-01-25T13:00:00+00:00",
+                                "fromTime": "2018-01-25T16:00:00+00:00",
 
-                                "toTime": "2018-01-25T15:00:00+00:00",
+                                "toTime": "2018-01-25T18:00:00+00:00",
 
-                                "latitude": 51.734262,
+                                "latitude": 51.900361,
 
-                                "longitude": -4.714865,
+                                "longitude": -4.680792,
 
-                                "serviceTime": 7,
+                                "serviceTime": 14,
 
-                                "serviceTime_MMSS": "7:1",
+                                "serviceTime_MMSS": "14:17",
 
-                                "capacityWeight": 23.25,
+                                "capacityWeight": 62.344,
 
-                                "capacityVolume": 62,
+                                "capacityVolume": 221.407,
 
                                 "capacityValue3": 1,
 
-                                "arrivalDateTime": "2018-01-25T15:33:08+00:00",
+                                "arrivalDateTime": "2018-01-25T15:56:38+00:00",
 
-                                "calculatedMileage": 11.38,
+                                "calculatedMileage": 24.32,
 
-                                "calculatedTravelTime": 19.13,
+                                "calculatedTravelTime": 42.63,
 
-                                "actualTravelTime": 17.21,
+                                "actualTravelTime": 38.35,
 
                                 "deliverySequenceNumber": 2,
 
@@ -13552,13 +13250,13 @@
 
                                 "vehicleName": "VAN-3-4251",
 
-                                "departureTime": "2018-01-25T15:40:09+00:00",
+                                "departureTime": "2018-01-25T16:14:17+00:00",
 
                                 "customerRefNum": null,
 
-                                "postalcode": "SA680UB",
+                                "postalcode": "SA340XE",
 
-                                "orderNumber": "18948629912",
+                                "orderNumber": "18911333641",
 
                                 "shiftAttributes": "DEFAULT",
 
@@ -13566,7 +13264,7 @@
 
                                 "status": "CONFIRMED",
 
-                                "maxAcceptableDelay": 0,
+                                "maxAcceptableDelay": 202,
 
                                 "locked": false
 
@@ -13576,33 +13274,33 @@
 
                                 "id": null,
 
-                                "reservationId": "18932570410180123230949573",
+                                "reservationId": "18820288197180123091112795",
 
-                                "fromTime": "2018-01-25T16:00:00+00:00",
+                                "fromTime": "2018-01-25T15:00:00+00:00",
 
                                 "toTime": "2018-01-25T17:00:00+00:00",
 
-                                "latitude": 51.709317,
+                                "latitude": 52.087245,
 
-                                "longitude": -4.946463,
+                                "longitude": -4.498919,
 
-                                "serviceTime": 6,
+                                "serviceTime": 11,
 
-                                "serviceTime_MMSS": "6:43",
+                                "serviceTime_MMSS": "11:3",
 
-                                "capacityWeight": 23.25,
+                                "capacityWeight": 72.864,
 
-                                "capacityVolume": 62,
+                                "capacityVolume": 218.191,
 
                                 "capacityValue3": 1,
 
-                                "arrivalDateTime": "2018-01-25T16:04:54+00:00",
+                                "arrivalDateTime": "2018-01-25T16:52:01+00:00",
 
-                                "calculatedMileage": 13.98,
+                                "calculatedMileage": 19.51,
 
-                                "calculatedTravelTime": 24.75,
+                                "calculatedTravelTime": 37.73,
 
-                                "actualTravelTime": 22.26,
+                                "actualTravelTime": 33.96,
 
                                 "deliverySequenceNumber": 3,
 
@@ -13612,73 +13310,13 @@
 
                                 "vehicleName": "VAN-3-4251",
 
-                                "departureTime": "2018-01-25T16:11:37+00:00",
+                                "departureTime": "2018-01-25T17:03:04+00:00",
 
                                 "customerRefNum": null,
 
-                                "postalcode": "SA731TB",
+                                "postalcode": "SA389QB",
 
-                                "orderNumber": "18932570410",
-
-                                "shiftAttributes": "DEFAULT",
-
-                                "shiftId": "WAVE 2 TWICE DAILY",
-
-                                "status": "CONFIRMED",
-
-                               "maxAcceptableDelay": 0,
-
-                                "locked": false
-
-                            },
-
-                            {
-
-                                "id": null,
-
-                                "reservationId": "18849550483180122215234227",
-
-                                "fromTime": "2018-01-25T16:00:00+00:00",
-
-                                "toTime": "2018-01-25T18:00:00+00:00",
-
-                                "latitude": 51.976324,
-
-                                "longitude": -4.881173,
-
-                                "serviceTime": 8,
-
-                                "serviceTime_MMSS": "8:38",
-
-                                "capacityWeight": 43.734,
-
-                                "capacityVolume": 105.01,
-
-                                "capacityValue3": 1,
-
-                                "arrivalDateTime": "2018-01-25T17:00:57+00:00",
-
-                                "calculatedMileage": 25.48,
-
-                                "calculatedTravelTime": 49.33,
-
-                                "actualTravelTime": 44.39,
-
-                                "deliverySequenceNumber": 4,
-
-                                "activityType": "ORDER",
-
-                                "tags": "DEFAULT",
-
-                                "vehicleName": "VAN-3-4251",
-
-                                "departureTime": "2018-01-25T17:09:35+00:00",
-
-                                "customerRefNum": null,
-
-                                "postalcode": "SA659SJ",
-
-                                "orderNumber": "18948794613",
+                                "orderNumber": "18946044054",
 
                                 "shiftAttributes": "DEFAULT",
 
@@ -13696,7 +13334,247 @@
 
                                 "id": null,
 
-                                "reservationId": "18921290078180123092108685",
+                                "reservationId": "1891341327118012317084451",
+
+                                "fromTime": "2018-01-25T16:00:00+00:00",
+
+                                "toTime": "2018-01-25T18:00:00+00:00",
+
+                                "latitude": 52.192904,
+
+                                "longitude": -4.308519,
+
+                                "serviceTime": 8,
+
+                                "serviceTime_MMSS": "8:39",
+
+                                "capacityWeight": 50.128,
+
+                                "capacityVolume": 137.217,
+
+                                "capacityValue3": 1,
+
+                                "arrivalDateTime": "2018-01-25T17:24:22+00:00",
+
+                                "calculatedMileage": 13.33,
+
+                                "calculatedTravelTime": 21.3,
+
+                                "actualTravelTime": 19.16,
+
+                                "deliverySequenceNumber": 4,
+
+                                "activityType": "ORDER",
+
+                                "tags": "DEFAULT",
+
+                                "vehicleName": "VAN-3-4251",
+
+                                "departureTime": "2018-01-25T17:33:01+00:00",
+
+                                "customerRefNum": null,
+
+                                "postalcode": "SA470NF",
+
+                                "orderNumber": "18913413271",
+
+                                "shiftAttributes": "DEFAULT",
+
+                                "shiftId": "WAVE 2 TWICE DAILY",
+
+                                "status": "CONFIRMED",
+
+                                "maxAcceptableDelay": 0,
+
+                                "locked": false
+
+                            },
+
+                            {
+
+                                "id": null,
+
+                                "reservationId": "18872819809180122172029683",
+
+                                "fromTime": "2018-01-25T17:00:00+00:00",
+
+                                "toTime": "2018-01-25T19:00:00+00:00",
+
+                                "latitude": 52.194989,
+
+                                "longitude": -4.311817,
+
+                                "serviceTime": 6,
+
+                                "serviceTime_MMSS": "6:28",
+
+                                "capacityWeight": 27.544,
+
+                               "capacityVolume": 76.528,
+
+                                "capacityValue3": 1,
+
+                                "arrivalDateTime": "2018-01-25T17:34:14+00:00",
+
+                                "calculatedMileage": 0.38,
+
+                                "calculatedTravelTime": 1.21,
+
+                                "actualTravelTime": 1.08,
+
+                                "deliverySequenceNumber": 5,
+
+                                "activityType": "ORDER",
+
+                                "tags": "DEFAULT",
+
+                                "vehicleName": "VAN-3-4251",
+
+                                "departureTime": "2018-01-25T17:40:42+00:00",
+
+                                "customerRefNum": null,
+
+                                "postalcode": "SA470NJ",
+
+                                "orderNumber": "18945486747",
+
+                                "shiftAttributes": "DEFAULT",
+
+                                "shiftId": "WAVE 2 TWICE DAILY",
+
+                                "status": "CONFIRMED",
+
+                                "maxAcceptableDelay": 0,
+
+                                "locked": false
+
+                            },
+
+                            {
+
+                                "id": null,
+
+                               "reservationId": "18911201478180123210655273",
+
+                                "fromTime": "2018-01-25T16:00:00+00:00",
+
+                                "toTime": "2018-01-25T18:00:00+00:00",
+
+                                "latitude": 52.20569,
+
+                                "longitude": -4.345082,
+
+                                "serviceTime": 6,
+
+                                "serviceTime_MMSS": "6:29",
+
+                                "capacityWeight": 8.845,
+
+                                "capacityVolume": 28.672,
+
+                                "capacityValue3": 1,
+
+                                "arrivalDateTime": "2018-01-25T17:44:24+00:00",
+
+                                "calculatedMileage": 1.87,
+
+                                "calculatedTravelTime": 3.7,
+
+                                "actualTravelTime": 3.33,
+
+                                "deliverySequenceNumber": 6,
+
+                                "activityType": "ORDER",
+
+                                "tags": "DEFAULT",
+
+                                "vehicleName": "VAN-3-4251",
+
+                                "departureTime": "2018-01-25T17:50:53+00:00",
+
+                                "customerRefNum": null,
+
+                                "postalcode": "SA459SZ",
+
+                                "orderNumber": "18948841878",
+
+                                "shiftAttributes": "DEFAULT",
+
+                                "shiftId": "WAVE 2 TWICE DAILY",
+
+                                "status": "CONFIRMED",
+
+                                "maxAcceptableDelay": 0,
+
+                                "locked": false
+
+                            },
+
+                            {
+
+                                "id": null,
+
+                               "reservationId": "18709101965180123183808294",
+
+                                "fromTime": "2018-01-25T17:00:00+00:00",
+
+                                "toTime": "2018-01-25T19:00:00+00:00",
+
+                                "latitude": 52.205617,
+
+                                "longitude": -4.345808,
+
+                                "serviceTime": 8,
+
+                                "serviceTime_MMSS": "8:39",
+
+                                "capacityWeight": 50.527,
+
+                                "capacityVolume": 158.919,
+
+                                "capacityValue3": 1,
+
+                                "arrivalDateTime": "2018-01-25T17:51:08+00:00",
+
+                                "calculatedMileage": 0.05,
+
+                                "calculatedTravelTime": 0.25,
+
+                                "actualTravelTime": 0.22,
+
+                                "deliverySequenceNumber": 7,
+
+                                "activityType": "ORDER",
+
+                                "tags": "DEFAULT",
+
+                                "vehicleName": "VAN-3-4251",
+
+                                "departureTime": "2018-01-25T17:59:47+00:00",
+
+                                "customerRefNum": null,
+
+                                "postalcode": "SA459SZ",
+
+                                "orderNumber": "18709101965",
+
+                                "shiftAttributes": "DEFAULT",
+
+                                "shiftId": "WAVE 2 TWICE DAILY",
+
+                                "status": "CONFIRMED",
+
+                                "maxAcceptableDelay": 0,
+
+                                "locked": false
+
+                            },
+
+                            {
+
+                                "id": null,
+
+                               "reservationId": "18921290078180123092108685",
 
                                 "fromTime": "2018-01-25T16:00:00+00:00",
 
@@ -13710,21 +13588,21 @@
 
                                 "serviceTime_MMSS": "6:29",
 
-                                "capacityWeight": 23.25,
+                                "capacityWeight": 23.021,
 
-                                "capacityVolume": 62,
+                                "capacityVolume": 58.368,
 
                                 "capacityValue3": 1,
 
-                                "arrivalDateTime": "2018-01-25T18:10:13+00:00",
+                                "arrivalDateTime": "2018-01-25T17:59:52+00:00",
 
-                                "calculatedMileage": 35.64,
+                                "calculatedMileage": 0.02,
 
-                                "calculatedTravelTime": 60.63,
+                                "calculatedTravelTime": 0.08,
 
-                                "actualTravelTime": 54.56,
+                                "actualTravelTime": 0.07,
 
-                                "deliverySequenceNumber": 5,
+                                "deliverySequenceNumber": 8,
 
                                 "activityType": "ORDER",
 
@@ -13732,13 +13610,73 @@
 
                                 "vehicleName": "VAN-3-4251",
 
-                                "departureTime": "2018-01-25T18:16:42+00:00",
+                                "departureTime": "2018-01-25T18:06:21+00:00",
 
                                 "customerRefNum": null,
 
                                 "postalcode": "SA459SZ",
 
                                 "orderNumber": "18948624978",
+
+                                "shiftAttributes": "DEFAULT",
+
+                                "shiftId": "WAVE 2 TWICE DAILY",
+
+                                "status": "CONFIRMED",
+
+                                "maxAcceptableDelay": 0,
+
+                                "locked": false
+
+                            },
+
+                            {
+
+                                "id": null,
+
+                               "reservationId": "18930941869180124081842487",
+
+                                "fromTime": "2018-01-25T18:00:00+00:00",
+
+                                "toTime": "2018-01-25T20:00:00+00:00",
+
+                                "latitude": 52.201525,
+
+                                "longitude": -4.317654,
+
+                                "serviceTime": 14,
+
+                                "serviceTime_MMSS": "14:18",
+
+                                "capacityWeight": 40.963,
+
+                                "capacityVolume": 134.048,
+
+                                "capacityValue3": 1,
+
+                                "arrivalDateTime": "2018-01-25T18:09:05+00:00",
+
+                                "calculatedMileage": 1.42,
+
+                                "calculatedTravelTime": 2.73,
+
+                                "actualTravelTime": 2.45,
+
+                                "deliverySequenceNumber": 9,
+
+                                "activityType": "ORDER",
+
+                                "tags": "DEFAULT",
+
+                                "vehicleName": "VAN-3-4251",
+
+                                "departureTime": "2018-01-25T18:23:23+00:00",
+
+                                "customerRefNum": null,
+
+                                "postalcode": "SA459ST",
+
+                                "orderNumber": "18930941869",
 
                                 "shiftAttributes": "DEFAULT",
 
@@ -13776,15 +13714,15 @@
 
                                 "capacityValue3": 1,
 
-                                "arrivalDateTime": "2018-01-25T18:20:58+00:00",
+                                "arrivalDateTime": "2018-01-25T18:29:46+00:00",
 
-                                "calculatedMileage": 1.45,
+                                "calculatedMileage": 2.7,
 
-                                "calculatedTravelTime": 4.26,
+                                "calculatedTravelTime": 6.38,
 
-                                "actualTravelTime": 3.83,
+                                "actualTravelTime": 5.74,
 
-                                "deliverySequenceNumber": 6,
+                                "deliverySequenceNumber": 10,
 
                                 "activityType": "ORDER",
 
@@ -13792,7 +13730,7 @@
 
                                 "vehicleName": "VAN-3-4251",
 
-                                "departureTime": "2018-01-25T18:27:26+00:00",
+                                "departureTime": "2018-01-25T18:36:14+00:00",
 
                                 "customerRefNum": null,
 
@@ -13816,95 +13754,35 @@
 
                                 "id": null,
 
-                                "reservationId": "18911201478180123210655273",
-
-                                "fromTime": "2018-01-25T16:00:00+00:00",
-
-                                "toTime": "2018-01-25T18:00:00+00:00",
-
-                                "latitude": 52.20569,
-
-                                "longitude": -4.345082,
-
-                                "serviceTime": 6,
-
-                                "serviceTime_MMSS": "6:29",
-
-                                "capacityWeight": 23.25,
-
-                                "capacityVolume": 62,
-
-                                "capacityValue3": 1,
-
-                                "arrivalDateTime": "2018-01-25T18:31:44+00:00",
-
-                                "calculatedMileage": 1.44,
-
-                                "calculatedTravelTime": 4.29,
-
-                                "actualTravelTime": 3.87,
-
-                                "deliverySequenceNumber": 7,
-
-                                "activityType": "ORDER",
-
-                                "tags": "DEFAULT",
-
-                                "vehicleName": "VAN-3-4251",
-
-                                "departureTime": "2018-01-25T18:38:13+00:00",
-
-                                "customerRefNum": null,
-
-                                "postalcode": "SA459SZ",
-
-                                "orderNumber": "18948841878",
-
-                                "shiftAttributes": "DEFAULT",
-
-                                "shiftId": "WAVE 2 TWICE DAILY",
-
-                                "status": "CONFIRMED",
-
-                                "maxAcceptableDelay": 0,
-
-                                "locked": false
-
-                            },
-
-                            {
-
-                                "id": null,
-
-                                "reservationId": "18916007820180123164614610",
+                                "reservationId": "18922646905180121143444414",
 
                                 "fromTime": "2018-01-25T18:00:00+00:00",
 
                                 "toTime": "2018-01-25T20:00:00+00:00",
 
-                                "latitude": 52.035607,
+                                "latitude": 52.165448,
 
-                                "longitude": -4.422544,
+                                "longitude": -4.337397,
 
                                 "serviceTime": 6,
 
-                                "serviceTime_MMSS": "6:29",
+                                "serviceTime_MMSS": "6:28",
 
-                                "capacityWeight": 23.25,
+                                "capacityWeight": 32.969,
 
-                                "capacityVolume": 62,
+                                "capacityVolume": 78.9,
 
                                 "capacityValue3": 1,
 
-                                "arrivalDateTime": "2018-01-25T19:07:15+00:00",
+                                "arrivalDateTime": "2018-01-25T18:40:14+00:00",
 
-                                "calculatedMileage": 16.71,
+                                "calculatedMileage": 2.08,
 
-                                "calculatedTravelTime": 29.03,
+                                "calculatedTravelTime": 4,
 
-                                "actualTravelTime": 26.12,
+                                "actualTravelTime": 3.6,
 
-                                "deliverySequenceNumber": 8,
+                                "deliverySequenceNumber": 11,
 
                                 "activityType": "ORDER",
 
@@ -13912,13 +13790,13 @@
 
                                 "vehicleName": "VAN-3-4251",
 
-                                "departureTime": "2018-01-25T19:13:44+00:00",
+                                "departureTime": "2018-01-25T18:46:42+00:00",
 
                                 "customerRefNum": null,
 
-                                "postalcode": "SA389HX",
+                                "postalcode": "SA446JQ",
 
-                                "orderNumber": "18916007820",
+                                "orderNumber": "18948372152",
 
                                 "shiftAttributes": "DEFAULT",
 
@@ -13942,9 +13820,9 @@
 
                                 "toTime": "2018-01-25T19:00:00+00:00",
 
-                                "latitude": 52.035607,
+                                "latitude": 52.165448,
 
-                                "longitude": -4.422544,
+                                "longitude": -4.337397,
 
                                 "serviceTime": 30,
 
@@ -13956,15 +13834,15 @@
 
                                 "capacityValue3": 0,
 
-                                "arrivalDateTime": "2018-01-25T19:13:44+00:00",
+                                "arrivalDateTime": "2018-01-25T18:46:42+00:00",
 
-                                "calculatedMileage": 0.01,
+                                "calculatedMileage": 0.02,
 
                                 "calculatedTravelTime": 0,
 
                                 "actualTravelTime": 0,
 
-                                "deliverySequenceNumber": 9,
+                                "deliverySequenceNumber": 12,
 
                                 "activityType": "BREAK",
 
@@ -13972,7 +13850,7 @@
 
                                 "vehicleName": "VAN-3-4251",
 
-                                "departureTime": "2018-01-25T19:43:44+00:00",
+                                "departureTime": "2018-01-25T19:16:42+00:00",
 
                                 "customerRefNum": null,
 
@@ -13996,213 +13874,33 @@
 
                                 "id": null,
 
-                                "reservationId": "18928932191180123203335633",
+                                "reservationId": "1892190189118012409273474",
 
-                                "fromTime": "2018-01-25T20:00:00+00:00",
+                                "fromTime": "2018-01-25T18:00:00+00:00",
 
-                                "toTime": "2018-01-25T22:00:00+00:00",
+                                "toTime": "2018-01-25T20:00:00+00:00",
 
-                                "latitude": 51.928653,
+                                "latitude": 51.927032,
 
-                                "longitude": -5.163193,
+                                "longitude": -4.427825,
 
-                                "serviceTime": 7,
+                                "serviceTime": 10,
 
-                                "serviceTime_MMSS": "7:33",
+                                "serviceTime_MMSS": "10:25",
 
-                                "capacityWeight": 25.274,
+                                "capacityWeight": 58.661,
 
-                                "capacityVolume": 81.718,
-
-                                "capacityValue3": 1,
-
-                                "arrivalDateTime": "2018-01-25T20:50:17+00:00",
-
-                                "calculatedMileage": 37.03,
-
-                                "calculatedTravelTime": 66.54,
-
-                                "actualTravelTime": 59.89,
-
-                                "deliverySequenceNumber": 10,
-
-                                "activityType": "ORDER",
-
-                                "tags": "DEFAULT",
-
-                                "vehicleName": "VAN-3-4251",
-
-                                "departureTime": "2018-01-25T20:57:50+00:00",
-
-                                "customerRefNum": null,
-
-                                "postalcode": "SA625JS",
-
-                                "orderNumber": "18947872052",
-
-                                "shiftAttributes": "DEFAULT",
-
-                                "shiftId": "WAVE 2 TWICE DAILY",
-
-                                "status": "CONFIRMED",
-
-                                "maxAcceptableDelay": 0,
-
-                                "locked": false
-
-                            },
-
-                            {
-
-                                "id": null,
-
-                                "reservationId": "18934019088180124142812375",
-
-                                "fromTime": "2018-01-25T21:00:00+00:00",
-
-                                "toTime": "2018-01-25T23:00:00+00:00",
-
-                                "latitude": 51.755273,
-
-                                "longitude": -4.98896,
-
-                                "serviceTime": 7,
-
-                                "serviceTime_MMSS": "7:48",
-
-                                "capacityWeight": 35.843,
-
-                                "capacityVolume": 93.027,
+                                "capacityVolume": 188.05,
 
                                 "capacityValue3": 1,
 
-                                "arrivalDateTime": "2018-01-25T21:35:10+00:00",
+                                "arrivalDateTime": "2018-01-25T19:53:42+00:00",
 
-                                "calculatedMileage": 18.64,
+                                "calculatedMileage": 21.57,
 
-                                "calculatedTravelTime": 37.33,
+                                "calculatedTravelTime": 37,
 
-                                "actualTravelTime": 33.59,
-
-                                "deliverySequenceNumber": 11,
-
-                                "activityType": "ORDER",
-
-                                "tags": "DEFAULT",
-
-                                "vehicleName": "VAN-3-4251",
-
-                                "departureTime": "2018-01-25T21:42:58+00:00",
-
-                                "customerRefNum": null,
-
-                                "postalcode": "SA623QD",
-
-                                "orderNumber": "18934019088",
-
-                                "shiftAttributes": "DEFAULT",
-
-                                "shiftId": "WAVE 2 TWICE DAILY",
-
-                                "status": "CONFIRMED",
-
-                                "maxAcceptableDelay": 0,
-
-                                "locked": false
-
-                            },
-
-                            {
-
-                                "id": null,
-
-                                "reservationId": "18934726143180124193141712",
-
-                                "fromTime": "2018-01-25T20:30:00+00:00",
-
-                                "toTime": "2018-01-25T21:30:00+00:00",
-
-                                "latitude": 51.682941,
-
-                                "longitude": -4.916087,
-
-                                "serviceTime": 7,
-
-                                "serviceTime_MMSS": "7:48",
-
-                                "capacityWeight": 28.846,
-
-                                "capacityVolume": 70.355,
-
-                                "capacityValue3": 1,
-
-                                "arrivalDateTime": "2018-01-25T21:58:20+00:00",
-
-                                "calculatedMileage": 7.45,
-
-                                "calculatedTravelTime": 15.36,
-
-                                "actualTravelTime": 13.83,
-
-                                "deliverySequenceNumber": 12,
-
-                                "activityType": "ORDER",
-
-                                "tags": "DEFAULT",
-
-                                "vehicleName": "VAN-3-4251",
-
-                                "departureTime": "2018-01-25T22:06:08+00:00",
-
-                                "customerRefNum": null,
-
-                                "postalcode": "SA715TT",
-
-                                "orderNumber": "18948876863",
-
-                                "shiftAttributes": "DEFAULT",
-
-                                "shiftId": "WAVE 2 TWICE DAILY",
-
-                                "status": "CONFIRMED",
-
-                                "maxAcceptableDelay": 0,
-
-                                "locked": false
-
-                            },
-
-                            {
-
-                                "id": null,
-
-                                "reservationId": "18917089739180124135030785",
-
-                                "fromTime": "2018-01-25T21:00:00+00:00",
-
-                                "toTime": "2018-01-25T23:00:00+00:00",
-
-                                "latitude": 51.753939,
-
-                                "longitude": -4.995785,
-
-                                "serviceTime": 6,
-
-                                "serviceTime_MMSS": "6:43",
-
-                                "capacityWeight": 23.25,
-
-                                "capacityVolume": 62,
-
-                                "capacityValue3": 1,
-
-                                "arrivalDateTime": "2018-01-25T22:20:22+00:00",
-
-                                "calculatedMileage": 6.99,
-
-                                "calculatedTravelTime": 14.23,
-
-                                "actualTravelTime": 12.8,
+                                "actualTravelTime": 33.29,
 
                                 "deliverySequenceNumber": 13,
 
@@ -14212,13 +13910,13 @@
 
                                 "vehicleName": "VAN-3-4251",
 
-                                "departureTime": "2018-01-25T22:27:05+00:00",
+                                "departureTime": "2018-01-25T20:04:07+00:00",
 
                                 "customerRefNum": null,
 
-                                "postalcode": "SA623LJ",
+                                "postalcode": "SA336NP",
 
-                                "orderNumber": "18917089739",
+                                "orderNumber": "18921901891",
 
                                 "shiftAttributes": "DEFAULT",
 
@@ -14227,6 +13925,66 @@
                                 "status": "CONFIRMED",
 
                                 "maxAcceptableDelay": 0,
+
+                                "locked": false
+
+                            },
+
+                            {
+
+                                "id": null,
+
+                                "reservationId": "1893627950118012411024996",
+
+                                "fromTime": "2018-01-25T21:00:00+00:00",
+
+                                "toTime": "2018-01-25T23:00:00+00:00",
+
+                                "latitude": 51.820569,
+
+                                "longitude": -4.516966,
+
+                                "serviceTime": 7,
+
+                                "serviceTime_MMSS": "7:33",
+
+                                "capacityWeight": 36.832,
+
+                                "capacityVolume": 121.046,
+
+                                "capacityValue3": 1,
+
+                                "arrivalDateTime": "2018-01-25T20:31:41+00:00",
+
+                                "calculatedMileage": 12,
+
+                                "calculatedTravelTime": 27.56,
+
+                                "actualTravelTime": 24.8,
+
+                                "deliverySequenceNumber": 14,
+
+                                "activityType": "ORDER",
+
+                                "tags": "DEFAULT",
+
+                                "vehicleName": "VAN-3-4251",
+
+                                "departureTime": "2018-01-25T21:07:33+00:00",
+
+                                "customerRefNum": null,
+
+                                "postalcode": "SA334AQ",
+
+                                "orderNumber": "18936279501",
+
+                                "shiftAttributes": "DEFAULT",
+
+                                "shiftId": "WAVE 2 TWICE DAILY",
+
+                                "status": "CONFIRMED",
+
+                                "maxAcceptableDelay": 2677,
 
                                 "locked": false
 
@@ -14250,21 +14008,21 @@
 
                                 "serviceTime_MMSS": "0:0",
 
-                                "capacityWeight": 1,
+                                "capacityWeight": 40.216,
 
-                                "capacityVolume": 1,
+                                "capacityVolume": 108.873,
 
                                 "capacityValue3": 0,
 
-                                "arrivalDateTime": "2018-01-25T22:39:21+00:00",
+                                "arrivalDateTime": "2018-01-25T21:43:42+00:00",
 
-                                "calculatedMileage": 6.04,
+                                "calculatedMileage": 23.87,
 
-                                "calculatedTravelTime": 12.26,
+                                "calculatedTravelTime": 36.14,
 
-                                "actualTravelTime": 11.03,
+                                "actualTravelTime": 32.53,
 
-                                "deliverySequenceNumber": 14,
+                                "deliverySequenceNumber": 15,
 
                                 "activityType": "DEPOT",
 
@@ -14272,7 +14030,7 @@
 
                                 "vehicleName": "VAN-3-4251",
 
-                                "departureTime": "2018-01-25T22:39:21+00:00",
+                                "departureTime": "2018-01-25T21:43:42+00:00",
 
                                 "customerRefNum": null,
 
@@ -14286,7 +14044,7 @@
 
                                 "status": null,
 
-                                "maxAcceptableDelay": 0,
+                               "maxAcceptableDelay": 978,
 
                                 "locked": false
 
@@ -14296,9 +14054,9 @@
 
                         "carrier": null,
 
-                        "calculatedTravelTime": 20232,
+                        "calculatedTravelTime": 13245,
 
-                        "calculatedTravelDistance": 182.259999,
+                        "calculatedTravelDistance": 123.16,
 
                         "externalReferenceKey": "96123487-d7b7-432b-aec2-f4327578c507"
 
@@ -14414,11 +14172,11 @@
 
                                 "serviceTime_MMSS": "44:0",
 
-                                "capacityWeight": 275.35,
+                                "capacityWeight": 339.014,
 
-                                "capacityVolume": 8792.782,
+                                "capacityVolume": 8940.537,
 
-                                "capacityValue3": 2147483638,
+                                "capacityValue3": 2147483635,
 
                                 "arrivalDateTime": "2018-01-25T15:00:00+00:00",
 
@@ -14460,6 +14218,66 @@
 
                                 "id": null,
 
+                                "reservationId": "17611705559180121134248829",
+
+                                "fromTime": "2018-01-25T15:00:00+00:00",
+
+                                "toTime": "2018-01-25T16:00:00+00:00",
+
+                                "latitude": 51.671187,
+
+                                "longitude": -4.918196,
+
+                                "serviceTime": 5,
+
+                                "serviceTime_MMSS": "5:12",
+
+                                "capacityWeight": 8.875,
+
+                                "capacityVolume": 26.184,
+
+                                "capacityValue3": 1,
+
+                                "arrivalDateTime": "2018-01-25T15:54:14+00:00",
+
+                                "calculatedMileage": 3.29,
+
+                                "calculatedTravelTime": 10.23,
+
+                                "actualTravelTime": 9.19,
+
+                                "deliverySequenceNumber": 2,
+
+                                "activityType": "ORDER",
+
+                                "tags": "DEFAULT",
+
+                                "vehicleName": "VAN-4-4251",
+
+                                "departureTime": "2018-01-25T15:59:26+00:00",
+
+                                "customerRefNum": null,
+
+                                "postalcode": "SA714EZ",
+
+                                "orderNumber": "17611705559",
+
+                                "shiftAttributes": "DEFAULT",
+
+                                "shiftId": "WAVE 3 TWICE DAILY NS NW EVN",
+
+                                "status": "CONFIRMED",
+
+                                "maxAcceptableDelay": 0,
+
+                                "locked": false
+
+                            },
+
+                            {
+
+                                "id": null,
+
                                 "reservationId": "18947714323180124170605526",
 
                                 "fromTime": "2018-01-25T15:00:00+00:00",
@@ -14480,15 +14298,15 @@
 
                                 "capacityValue3": 1,
 
-                                "arrivalDateTime": "2018-01-25T16:33:46+00:00",
+                                "arrivalDateTime": "2018-01-25T16:50:21+00:00",
 
-                                "calculatedMileage": 32.63,
+                                "calculatedMileage": 32.21,
 
-                                "calculatedTravelTime": 49.76,
+                                "calculatedTravelTime": 50.91,
 
-                                "actualTravelTime": 44.78,
+                                "actualTravelTime": 45.82,
 
-                                "deliverySequenceNumber": 2,
+                                "deliverySequenceNumber": 3,
 
                                 "activityType": "ORDER",
 
@@ -14496,7 +14314,7 @@
 
                                 "vehicleName": "VAN-4-4251",
 
-                                "departureTime": "2018-01-25T16:44:49+00:00",
+                                "departureTime": "2018-01-25T17:01:24+00:00",
 
                                 "customerRefNum": null,
 
@@ -14540,73 +14358,13 @@
 
                                 "capacityValue3": 1,
 
-                                "arrivalDateTime": "2018-01-25T17:05:52+00:00",
+                                "arrivalDateTime": "2018-01-25T17:22:27+00:00",
 
                                 "calculatedMileage": 11.41,
 
                                 "calculatedTravelTime": 21.05,
 
                                 "actualTravelTime": 18.94,
-
-                                "deliverySequenceNumber": 3,
-
-                                "activityType": "ORDER",
-
-                                "tags": "DEFAULT",
-
-                                "vehicleName": "VAN-4-4251",
-
-                                "departureTime": "2018-01-25T17:16:40+00:00",
-
-                                "customerRefNum": null,
-
-                                "postalcode": "SA445EQ",
-
-                                "orderNumber": "18699289164",
-
-                                "shiftAttributes": "DEFAULT",
-
-                                "shiftId": "WAVE 3 TWICE DAILY NS NW EVN",
-
-                                "status": "CONFIRMED",
-
-                                "maxAcceptableDelay": 0,
-
-                                "locked": false
-
-                            },
-
-                            {
-
-                                "id": null,
-
-                                "reservationId": "18709101965180123183808294",
-
-                                "fromTime": "2018-01-25T17:00:00+00:00",
-
-                                "toTime": "2018-01-25T19:00:00+00:00",
-
-                                "latitude": 52.205617,
-
-                                "longitude": -4.345808,
-
-                                "serviceTime": 8,
-
-                                "serviceTime_MMSS": "8:39",
-
-                                "capacityWeight": 50.527,
-
-                                "capacityVolume": 158.919,
-
-                                "capacityValue3": 1,
-
-                                "arrivalDateTime": "2018-01-25T17:46:12+00:00",
-
-                                "calculatedMileage": 18.55,
-
-                                "calculatedTravelTime": 29.53,
-
-                                "actualTravelTime": 26.57,
 
                                 "deliverySequenceNumber": 4,
 
@@ -14616,133 +14374,13 @@
 
                                 "vehicleName": "VAN-4-4251",
 
-                                "departureTime": "2018-01-25T17:54:51+00:00",
+                                "departureTime": "2018-01-25T17:33:15+00:00",
 
                                 "customerRefNum": null,
 
-                                "postalcode": "SA459SZ",
+                                "postalcode": "SA445EQ",
 
-                                "orderNumber": "18709101965",
-
-                                "shiftAttributes": "DEFAULT",
-
-                                "shiftId": "WAVE 3 TWICE DAILY NS NW EVN",
-
-                                "status": "CONFIRMED",
-
-                                "maxAcceptableDelay": 0,
-
-                                "locked": false
-
-                            },
-
-                            {
-
-                                "id": null,
-
-                                "reservationId": "18922646905180121143444414",
-
-                                "fromTime": "2018-01-25T18:00:00+00:00",
-
-                                "toTime": "2018-01-25T20:00:00+00:00",
-
-                                "latitude": 52.165448,
-
-                                "longitude": -4.337397,
-
-                                "serviceTime": 6,
-
-                                "serviceTime_MMSS": "6:28",
-
-                                "capacityWeight": 32.969,
-
-                                "capacityVolume": 78.9,
-
-                                "capacityValue3": 1,
-
-                                "arrivalDateTime": "2018-01-25T18:01:55+00:00",
-
-                                "calculatedMileage": 3.24,
-
-                                "calculatedTravelTime": 7.06,
-
-                                "actualTravelTime": 6.36,
-
-                                "deliverySequenceNumber": 5,
-
-                                "activityType": "ORDER",
-
-                                "tags": "DEFAULT",
-
-                                "vehicleName": "VAN-4-4251",
-
-                                "departureTime": "2018-01-25T18:08:23+00:00",
-
-                                "customerRefNum": null,
-
-                                "postalcode": "SA446JQ",
-
-                                "orderNumber": "18948372152",
-
-                                "shiftAttributes": "DEFAULT",
-
-                                "shiftId": "WAVE 3 TWICE DAILY NS NW EVN",
-
-                                "status": "CONFIRMED",
-
-                                "maxAcceptableDelay": 0,
-
-                                "locked": false
-
-                            },
-
-                            {
-
-                                "id": null,
-
-                                "reservationId": "18931657833180124095229495",
-
-                                "fromTime": "2018-01-25T16:00:00+00:00",
-
-                                "toTime": "2018-01-25T18:00:00+00:00",
-
-                                "latitude": 52.039866,
-
-                                "longitude": -4.392143,
-
-                                "serviceTime": 8,
-
-                                "serviceTime_MMSS": "8:38",
-
-                                "capacityWeight": 41.194,
-
-                                "capacityVolume": 126.456,
-
-                                "capacityValue3": 1,
-
-                                "arrivalDateTime": "2018-01-25T18:26:34+00:00",
-
-                                "calculatedMileage": 10.06,
-
-                                "calculatedTravelTime": 18.18,
-
-                                "actualTravelTime": 16.35,
-
-                                "deliverySequenceNumber": 6,
-
-                                "activityType": "ORDER",
-
-                                "tags": "DEFAULT",
-
-                                "vehicleName": "VAN-4-4251",
-
-                                "departureTime": "2018-01-25T18:35:12+00:00",
-
-                                "customerRefNum": null,
-
-                                "postalcode": "SA445TN",
-
-                                "orderNumber": "18948265187",
+                                "orderNumber": "18699289164",
 
                                 "shiftAttributes": "DEFAULT",
 
@@ -14780,15 +14418,15 @@
 
                                 "capacityValue3": 1,
 
-                                "arrivalDateTime": "2018-01-25T18:40:56+00:00",
+                                "arrivalDateTime": "2018-01-25T17:40:58+00:00",
 
-                                "calculatedMileage": 2.08,
+                                "calculatedMileage": 3.43,
 
-                                "calculatedTravelTime": 5.73,
+                                "calculatedTravelTime": 7.71,
 
-                                "actualTravelTime": 5.16,
+                                "actualTravelTime": 6.94,
 
-                                "deliverySequenceNumber": 7,
+                                "deliverySequenceNumber": 5,
 
                                 "activityType": "ORDER",
 
@@ -14796,7 +14434,7 @@
 
                                 "vehicleName": "VAN-4-4251",
 
-                                "departureTime": "2018-01-25T18:49:49+00:00",
+                                "departureTime": "2018-01-25T17:49:51+00:00",
 
                                 "customerRefNum": null,
 
@@ -14820,15 +14458,195 @@
 
                                 "id": null,
 
+                                "reservationId": "18931657833180124095229495",
+
+                                "fromTime": "2018-01-25T16:00:00+00:00",
+
+                                "toTime": "2018-01-25T18:00:00+00:00",
+
+                                "latitude": 52.039866,
+
+                                "longitude": -4.392143,
+
+                                "serviceTime": 8,
+
+                                "serviceTime_MMSS": "8:38",
+
+                                "capacityWeight": 41.194,
+
+                                "capacityVolume": 126.456,
+
+                                "capacityValue3": 1,
+
+                                "arrivalDateTime": "2018-01-25T17:55:31+00:00",
+
+                                "calculatedMileage": 2.08,
+
+                                "calculatedTravelTime": 5.66,
+
+                                "actualTravelTime": 5.09,
+
+                                "deliverySequenceNumber": 6,
+
+                                "activityType": "ORDER",
+
+                                "tags": "DEFAULT",
+
+                                "vehicleName": "VAN-4-4251",
+
+                                "departureTime": "2018-01-25T18:04:09+00:00",
+
+                                "customerRefNum": null,
+
+                                "postalcode": "SA445TN",
+
+                                "orderNumber": "18948265187",
+
+                                "shiftAttributes": "DEFAULT",
+
+                                "shiftId": "WAVE 3 TWICE DAILY NS NW EVN",
+
+                                "status": "CONFIRMED",
+
+                                "maxAcceptableDelay": 0,
+
+                                "locked": false
+
+                            },
+
+                            {
+
+                                "id": null,
+
+                                "reservationId": "18916007820180123164614610",
+
+                                "fromTime": "2018-01-25T18:00:00+00:00",
+
+                                "toTime": "2018-01-25T20:00:00+00:00",
+
+                                "latitude": 52.035607,
+
+                                "longitude": -4.422544,
+
+                                "serviceTime": 4,
+
+                                "serviceTime_MMSS": "4:58",
+
+                                "capacityWeight": 16.974,
+
+                                "capacityVolume": 42.689,
+
+                                "capacityValue3": 1,
+
+                                "arrivalDateTime": "2018-01-25T18:08:11+00:00",
+
+                                "calculatedMileage": 1.79,
+
+                                "calculatedTravelTime": 4.03,
+
+                                "actualTravelTime": 3.62,
+
+                                "deliverySequenceNumber": 7,
+
+                                "activityType": "ORDER",
+
+                                "tags": "DEFAULT",
+
+                                "vehicleName": "VAN-4-4251",
+
+                                "departureTime": "2018-01-25T18:13:09+00:00",
+
+                                "customerRefNum": null,
+
+                                "postalcode": "SA389HX",
+
+                                "orderNumber": "18916007820",
+
+                                "shiftAttributes": "DEFAULT",
+
+                                "shiftId": "WAVE 3 TWICE DAILY NS NW EVN",
+
+                                "status": "CONFIRMED",
+
+                                "maxAcceptableDelay": 0,
+
+                                "locked": false
+
+                            },
+
+                            {
+
+                                "id": null,
+
+                                "reservationId": "1892212420318012417201391",
+
+                                "fromTime": "2018-01-25T18:00:00+00:00",
+
+                                "toTime": "2018-01-25T20:00:00+00:00",
+
+                                "latitude": 51.819258,
+
+                                "longitude": -4.600729,
+
+                                "serviceTime": 7,
+
+                                "serviceTime_MMSS": "7:33",
+
+                                "capacityWeight": 29.434,
+
+                                "capacityVolume": 117.215,
+
+                                "capacityValue3": 1,
+
+                                "arrivalDateTime": "2018-01-25T18:57:09+00:00",
+
+                                "calculatedMileage": 20.28,
+
+                                "calculatedTravelTime": 44,
+
+                                "actualTravelTime": 39.6,
+
+                                "deliverySequenceNumber": 8,
+
+                                "activityType": "ORDER",
+
+                                "tags": "DEFAULT",
+
+                                "vehicleName": "VAN-4-4251",
+
+                                "departureTime": "2018-01-25T19:04:42+00:00",
+
+                                "customerRefNum": null,
+
+                                "postalcode": "SA340DA",
+
+                                "orderNumber": "18922124203",
+
+                                "shiftAttributes": "DEFAULT",
+
+                                "shiftId": "WAVE 3 TWICE DAILY NS NW EVN",
+
+                                "status": "CONFIRMED",
+
+                                "maxAcceptableDelay": 0,
+
+                                "locked": false
+
+                            },
+
+                            {
+
+                                "id": null,
+
                                 "reservationId": "3655EEEA-4891-4FF2-86DF-445756F916EB",
 
                                 "fromTime": "2018-01-25T18:30:00+00:00",
 
                                 "toTime": "2018-01-25T19:30:00+00:00",
 
-                                "latitude": 52.014656,
+                                "latitude": 51.819258,
 
-                                "longitude": -4.399834,
+                                "longitude": -4.600729,
 
                                 "serviceTime": 30,
 
@@ -14840,15 +14658,15 @@
 
                                 "capacityValue3": 0,
 
-                                "arrivalDateTime": "2018-01-25T18:49:49+00:00",
+                                "arrivalDateTime": "2018-01-25T19:04:42+00:00",
 
-                                "calculatedMileage": 0.01,
+                                "calculatedMileage": 0.02,
 
                                 "calculatedTravelTime": 0,
 
                                 "actualTravelTime": 0,
 
-                                "deliverySequenceNumber": 8,
+                                "deliverySequenceNumber": 9,
 
                                 "activityType": "BREAK",
 
@@ -14856,7 +14674,7 @@
 
                                 "vehicleName": "VAN-4-4251",
 
-                                "departureTime": "2018-01-25T19:19:49+00:00",
+                                "departureTime": "2018-01-25T19:34:42+00:00",
 
                                 "customerRefNum": null,
 
@@ -14880,93 +14698,33 @@
 
                                 "id": null,
 
-                                "reservationId": "18930941869180124081842487",
+                                "reservationId": "18898797764180124142011268",
 
                                 "fromTime": "2018-01-25T18:00:00+00:00",
 
                                 "toTime": "2018-01-25T20:00:00+00:00",
 
-                                "latitude": 52.201525,
+                                "latitude": 51.790404,
 
-                                "longitude": -4.317654,
+                                "longitude": -4.415113,
 
-                                "serviceTime": 14,
+                                "serviceTime": 6,
 
-                                "serviceTime_MMSS": "14:18",
+                                "serviceTime_MMSS": "6:35",
 
-                                "capacityWeight": 40.963,
+                                "capacityWeight": 14.57,
 
-                                "capacityVolume": 134.048,
-
-                                "capacityValue3": 1,
-
-                                "arrivalDateTime": "2018-01-25T19:47:41+00:00",
-
-                                "calculatedMileage": 15.08,
-
-                                "calculatedTravelTime": 27.86,
-
-                                "actualTravelTime": 25.07,
-
-                                "deliverySequenceNumber": 9,
-
-                                "activityType": "ORDER",
-
-                                "tags": "DEFAULT",
-
-                                "vehicleName": "VAN-4-4251",
-
-                                "departureTime": "2018-01-25T20:01:59+00:00",
-
-                                "customerRefNum": null,
-
-                                "postalcode": "SA459ST",
-
-                                "orderNumber": "18930941869",
-
-                                "shiftAttributes": "DEFAULT",
-
-                                "shiftId": "WAVE 3 TWICE DAILY NS NW EVN",
-
-                                "status": "CONFIRMED",
-
-                                "maxAcceptableDelay": 0,
-
-                                "locked": false
-
-                            },
-
-                            {
-
-                                "id": null,
-
-                                "reservationId": "18945250666180123091508456",
-
-                               "fromTime": "2018-01-25T19:00:00+00:00",
-
-                                "toTime": "2018-01-25T21:00:00+00:00",
-
-                                "latitude": 51.722645,
-
-                                "longitude": -5.032854,
-
-                                "serviceTime": 15,
-
-                                "serviceTime_MMSS": "15:5",
-
-                                "capacityWeight": 51.503,
-
-                                "capacityVolume": 162.655,
+                                "capacityVolume": 35.003,
 
                                 "capacityValue3": 1,
 
-                                "arrivalDateTime": "2018-01-25T21:25:52+00:00",
+                                "arrivalDateTime": "2018-01-25T19:58:28+00:00",
 
-                                "calculatedMileage": 51.71,
+                                "calculatedMileage": 11.33,
 
-                                "calculatedTravelTime": 83.88,
+                                "calculatedTravelTime": 23.76,
 
-                                "actualTravelTime": 75.48,
+                                "actualTravelTime": 21.37,
 
                                 "deliverySequenceNumber": 10,
 
@@ -14976,13 +14734,13 @@
 
                                 "vehicleName": "VAN-4-4251",
 
-                                "departureTime": "2018-01-25T21:40:57+00:00",
+                                "departureTime": "2018-01-25T20:05:03+00:00",
 
                                 "customerRefNum": null,
 
-                                "postalcode": "SA732EL",
+                                "postalcode": "SA335HL",
 
-                                "orderNumber": "18945482643",
+                                "orderNumber": "18898797764",
 
                                 "shiftAttributes": "DEFAULT",
 
@@ -15000,33 +14758,33 @@
 
                                 "id": null,
 
-                                "reservationId": "1889096055818012321022325",
+                                "reservationId": "18915397424180124184849946",
 
-                               "fromTime": "2018-01-25T20:30:00+00:00",
+                                "fromTime": "2018-01-25T20:00:00+00:00",
 
-                                "toTime": "2018-01-25T21:30:00+00:00",
+                                "toTime": "2018-01-25T22:00:00+00:00",
 
-                                "latitude": 51.715353,
+                                "latitude": 51.715333,
 
-                                "longitude": -4.955383,
+                                "longitude": -4.711661,
 
-                                "serviceTime": 7,
+                                "serviceTime": 6,
 
-                                "serviceTime_MMSS": "7:33",
+                                "serviceTime_MMSS": "6:28",
 
-                                "capacityWeight": 26.515,
+                                "capacityWeight": 15.22,
 
-                                "capacityVolume": 64.933,
+                                "capacityVolume": 63.826,
 
                                 "capacityValue3": 1,
 
-                                "arrivalDateTime": "2018-01-25T21:51:55+00:00",
+                                "arrivalDateTime": "2018-01-25T20:39:56+00:00",
 
-                                "calculatedMileage": 4.83,
+                                "calculatedMileage": 20.17,
 
-                                "calculatedTravelTime": 10.96,
+                                "calculatedTravelTime": 34.88,
 
-                                "actualTravelTime": 9.85,
+                                "actualTravelTime": 31.39,
 
                                 "deliverySequenceNumber": 11,
 
@@ -15036,13 +14794,13 @@
 
                                 "vehicleName": "VAN-4-4251",
 
-                                "departureTime": "2018-01-25T21:59:28+00:00",
+                                "departureTime": "2018-01-25T20:46:24+00:00",
 
                                 "customerRefNum": null,
 
-                                "postalcode": "SA731RH",
+                                "postalcode": "SA699LT",
 
-                                "orderNumber": "18948940715",
+                                "orderNumber": "18915397424",
 
                                 "shiftAttributes": "DEFAULT",
 
@@ -15050,7 +14808,187 @@
 
                                 "status": "CONFIRMED",
 
-                                "maxAcceptableDelay": 0,
+                                "maxAcceptableDelay": 652,
+
+                                "locked": false
+
+                            },
+
+                            {
+
+                                "id": null,
+
+                                "reservationId": "18933297780180124001257264",
+
+                                "fromTime": "2018-01-25T21:00:00+00:00",
+
+                                "toTime": "2018-01-25T23:00:00+00:00",
+
+                                "latitude": 51.703906,
+
+                                "longitude": -4.706027,
+
+                                "serviceTime": 6,
+
+                                "serviceTime_MMSS": "6:0",
+
+                                "capacityWeight": 25.702,
+
+                                "capacityVolume": 67.281,
+
+                                "capacityValue3": 1,
+
+                                "arrivalDateTime": "2018-01-25T20:52:07+00:00",
+
+                                "calculatedMileage": 1.43,
+
+                                "calculatedTravelTime": 5.71,
+
+                                "actualTravelTime": 5.13,
+
+                                "deliverySequenceNumber": 12,
+
+                                "activityType": "ORDER",
+
+                                "tags": "DEFAULT",
+
+                                "vehicleName": "VAN-4-4251",
+
+                                "departureTime": "2018-01-25T21:06:00+00:00",
+
+                                "customerRefNum": null,
+
+                                "postalcode": "SA699PR",
+
+                                "orderNumber": "18947838313",
+
+                                "shiftAttributes": "DEFAULT",
+
+                                "shiftId": "WAVE 3 TWICE DAILY NS NW EVN",
+
+                                "status": "CONFIRMED",
+
+                                "maxAcceptableDelay": 652,
+
+                                "locked": false
+
+                            },
+
+                            {
+
+                                "id": null,
+
+                                "reservationId": "1884267661618012412015500",
+
+                                "fromTime": "2018-01-25T21:00:00+00:00",
+
+                                "toTime": "2018-01-25T23:00:00+00:00",
+
+                                "latitude": 51.712077,
+
+                                "longitude": -4.70776,
+
+                                "serviceTime": 6,
+
+                                "serviceTime_MMSS": "6:43",
+
+                                "capacityWeight": 14.58,
+
+                                "capacityVolume": 49.819,
+
+                                "capacityValue3": 1,
+
+                                "arrivalDateTime": "2018-01-25T21:10:52+00:00",
+
+                                "calculatedMileage": 1.18,
+
+                                "calculatedTravelTime": 4.86,
+
+                                "actualTravelTime": 4.37,
+
+                                "deliverySequenceNumber": 13,
+
+                                "activityType": "ORDER",
+
+                                "tags": "DEFAULT",
+
+                                "vehicleName": "VAN-4-4251",
+
+                                "departureTime": "2018-01-25T21:17:35+00:00",
+
+                                "customerRefNum": null,
+
+                                "postalcode": "SA699JJ",
+
+                                "orderNumber": "18948458585",
+
+                                "shiftAttributes": "DEFAULT",
+
+                                "shiftId": "WAVE 3 TWICE DAILY NS NW EVN",
+
+                                "status": "CONFIRMED",
+
+                                "maxAcceptableDelay": 179,
+
+                                "locked": false
+
+                            },
+
+                            {
+
+                                "id": null,
+
+                                "reservationId": "18930056482180124203448510",
+
+                                "fromTime": "2018-01-25T21:00:00+00:00",
+
+                                "toTime": "2018-01-25T22:00:00+00:00",
+
+                                "latitude": 51.674989,
+
+                                "longitude": -4.931995,
+
+                                "serviceTime": 6,
+
+                                "serviceTime_MMSS": "6:15",
+
+                                "capacityWeight": 13.455,
+
+                                "capacityVolume": 49.679,
+
+                                "capacityValue3": 1,
+
+                                "arrivalDateTime": "2018-01-25T21:41:57+00:00",
+
+                                "calculatedMileage": 11.33,
+
+                                "calculatedTravelTime": 24.36,
+
+                                "actualTravelTime": 21.92,
+
+                                "deliverySequenceNumber": 14,
+
+                                "activityType": "ORDER",
+
+                                "tags": "DEFAULT",
+
+                               "vehicleName": "VAN-4-4251",
+
+                                "departureTime": "2018-01-25T21:48:12+00:00",
+
+                                "customerRefNum": null,
+
+                                "postalcode": "SA714NA",
+
+                                "orderNumber": "18930056482",
+
+                                "shiftAttributes": "DEFAULT",
+
+                                "shiftId": "WAVE 3 TWICE DAILY NS NW EVN",
+
+                                "status": "CONFIRMED",
+
+                                "maxAcceptableDelay": 179,
 
                                 "locked": false
 
@@ -15080,15 +15018,15 @@
 
                                 "capacityValue3": 0,
 
-                                "arrivalDateTime": "2018-01-25T22:07:20+00:00",
+                                "arrivalDateTime": "2018-01-25T21:57:01+00:00",
 
-                                "calculatedMileage": 2.77,
+                                "calculatedMileage": 2.83,
 
-                                "calculatedTravelTime": 7.86,
+                                "calculatedTravelTime": 8.81,
 
-                                "actualTravelTime": 7.08,
+                                "actualTravelTime": 7.92,
 
-                                "deliverySequenceNumber": 12,
+                                "deliverySequenceNumber": 15,
 
                                 "activityType": "DEPOT",
 
@@ -15096,7 +15034,7 @@
 
                                 "vehicleName": "VAN-4-4251",
 
-                                "departureTime": "2018-01-25T22:07:20+00:00",
+                                "departureTime": "2018-01-25T21:57:01+00:00",
 
                                 "customerRefNum": null,
 
@@ -15110,7 +15048,7 @@
 
                                 "status": null,
 
-                                "maxAcceptableDelay": 0,
+                                "maxAcceptableDelay": 179,
 
                                 "locked": false
 
@@ -15120,9 +15058,9 @@
 
                         "carrier": null,
 
-                        "calculatedTravelTime": 15715,
+                        "calculatedTravelTime": 14762,
 
-                        "calculatedTravelDistance": 152.37,
+                        "calculatedTravelDistance": 122.799999,
 
                         "externalReferenceKey": "d148adc9-d19e-486a-88d4-24b56aba12d6"
 
@@ -15132,7 +15070,7 @@
 
                     "vehicleName": "VAN-4-4251",
 
-                    "serviceProvider": "OWN_FLEET",
+                   "serviceProvider": "OWN_FLEET",
 
                     "carrier": "FLEET",
 
@@ -15682,11 +15620,11 @@
 
                                 "serviceTime_MMSS": "44:0",
 
-                                "capacityWeight": 618.5,
+                                "capacityWeight": 680,
 
-                                "capacityVolume": 9836,
+                                "capacityVolume": 10000,
 
-                                "capacityValue3": 2147483645,
+                                "capacityValue3": 2147483647,
 
                                 "arrivalDateTime": "2018-01-26T07:15:00+00:00",
 
@@ -15718,7 +15656,7 @@
 
                                 "status": null,
 
-                                "maxAcceptableDelay": 9960,
+                                "maxAcceptableDelay": 11760,
 
                                 "locked": false
 
@@ -15778,127 +15716,7 @@
 
                                 "status": null,
 
-                                "maxAcceptableDelay": 9960,
-
-                                "locked": false
-
-                            },
-
-                            {
-
-                                "id": null,
-
-                                "reservationId": "18948068940180124194710442",
-
-                                "fromTime": "2018-01-26T10:00:00+00:00",
-
-                                "toTime": "2018-01-26T12:00:00+00:00",
-
-                                "latitude": 52.030159,
-
-                                "longitude": -4.372322,
-
-                                "serviceTime": 7,
-
-                                "serviceTime_MMSS": "7:33",
-
-                                "capacityWeight": 30.75,
-
-                                "capacityVolume": 82,
-
-                                "capacityValue3": 1,
-
-                                "arrivalDateTime": "2018-01-26T12:26:46+00:00",
-
-                                "calculatedMileage": 43.64,
-
-                                "calculatedTravelTime": 71.76,
-
-                                "actualTravelTime": 64.57,
-
-                               "deliverySequenceNumber": 3,
-
-                                "activityType": "ORDER",
-
-                                "tags": "DEFAULT",
-
-                                "vehicleName": "VAN-2-4251",
-
-                                "departureTime": "2018-01-26T12:34:19+00:00",
-
-                                "customerRefNum": null,
-
-                                "postalcode": "SA445EU",
-
-                                "orderNumber": "18948068940",
-
-                                "shiftAttributes": "DEFAULT",
-
-                                "shiftId": "WAVE 1 TWICE DAILY",
-
-                                "status": "CONFIRMED",
-
-                                "maxAcceptableDelay": 0,
-
-                                "locked": false
-
-                            },
-
-                            {
-
-                                "id": null,
-
-                                "reservationId": "18656715897180124210854863",
-
-                                "fromTime": "2018-01-26T11:00:00+00:00",
-
-                                "toTime": "2018-01-26T13:00:00+00:00",
-
-                                "latitude": 51.651071,
-
-                                "longitude": -4.761417,
-
-                                "serviceTime": 7,
-
-                                "serviceTime_MMSS": "7:0",
-
-                                "capacityWeight": 30.75,
-
-                                "capacityVolume": 82,
-
-                                "capacityValue3": 1,
-
-                                "arrivalDateTime": "2018-01-26T13:46:31+00:00",
-
-                                "calculatedMileage": 41.35,
-
-                                "calculatedTravelTime": 72.2,
-
-                                "actualTravelTime": 64.96,
-
-                                "deliverySequenceNumber": 4,
-
-                                "activityType": "ORDER",
-
-                                "tags": "DEFAULT",
-
-                                "vehicleName": "VAN-2-4251",
-
-                                "departureTime": "2018-01-26T13:53:31+00:00",
-
-                                "customerRefNum": null,
-
-                                "postalcode": "SA707SB",
-
-                                "orderNumber": "18656715897",
-
-                                "shiftAttributes": "DEFAULT",
-
-                                "shiftId": "WAVE 1 TWICE DAILY",
-
-                                "status": "RESERVED",
-
-                                "maxAcceptableDelay": 0,
+                                "maxAcceptableDelay": 11760,
 
                                 "locked": false
 
@@ -15928,15 +15746,15 @@
 
                                 "capacityValue3": 0,
 
-                                "arrivalDateTime": "2018-01-26T14:17:09+00:00",
+                                "arrivalDateTime": "2018-01-26T11:15:00+00:00",
 
-                                "calculatedMileage": 11.27,
+                                "calculatedMileage": 0.01,
 
-                                "calculatedTravelTime": 23.63,
+                                "calculatedTravelTime": 0,
 
-                                "actualTravelTime": 21.26,
+                                "actualTravelTime": 0,
 
-                                "deliverySequenceNumber": 5,
+                                "deliverySequenceNumber": 3,
 
                                 "activityType": "DEPOT",
 
@@ -15944,7 +15762,7 @@
 
                                 "vehicleName": "VAN-2-4251",
 
-                                "departureTime": "2018-01-26T14:17:09+00:00",
+                                "departureTime": "2018-01-26T11:15:00+00:00",
 
                                 "customerRefNum": null,
 
@@ -15958,7 +15776,7 @@
 
                                 "status": null,
 
-                                "maxAcceptableDelay": 0,
+                                "maxAcceptableDelay": 9840,
 
                                 "locked": false
 
@@ -15968,9 +15786,9 @@
 
                         "carrier": null,
 
-                        "calculatedTravelTime": 10056,
+                        "calculatedTravelTime": 0,
 
-                        "calculatedTravelDistance": 96.289999,
+                        "calculatedTravelDistance": 0.02,
 
                         "externalReferenceKey": "d38637ee-f1b5-487c-a2a2-4eb015b57c24"
 
@@ -16086,9 +15904,9 @@
 
                                 "serviceTime_MMSS": "44:0",
 
-                                "capacityWeight": 618.5,
+                                "capacityWeight": 600.528,
 
-                                "capacityVolume": 9834.218,
+                                "capacityVolume": 9827.325,
 
                                 "capacityValue3": 2147483645,
 
@@ -16154,7 +15972,7 @@
 
                                 "arrivalDateTime": "2018-01-26T08:33:00+00:00",
 
-                                "calculatedMileage": 1.42,
+                                "calculatedMileage": 1.38,
 
                                 "calculatedTravelTime": 4,
 
@@ -16242,7 +16060,7 @@
 
                                 "status": null,
 
-                                "maxAcceptableDelay": 9864,
+                                "maxAcceptableDelay": 10760,
 
                                 "locked": false
 
@@ -16252,33 +16070,33 @@
 
                                 "id": null,
 
-                                "reservationId": "18637199787180120144357309",
+                                "reservationId": "18933406659180123192700825",
 
-                                "fromTime": "2018-01-26T12:00:00+00:00",
+                                "fromTime": "2018-01-26T12:30:00+00:00",
 
-                                "toTime": "2018-01-26T14:00:00+00:00",
+                                "toTime": "2018-01-26T13:30:00+00:00",
 
-                                "latitude": 52.021047,
+                                "latitude": 51.674178,
 
-                                "longitude": -4.403514,
+                                "longitude": -4.89695,
 
                                 "serviceTime": 7,
 
-                                "serviceTime_MMSS": "7:34",
+                                "serviceTime_MMSS": "7:15",
 
-                                "capacityWeight": 30.75,
+                                "capacityWeight": 48.719,
 
-                                "capacityVolume": 83.781,
+                                "capacityVolume": 90.674,
 
                                 "capacityValue3": 1,
 
-                                "arrivalDateTime": "2018-01-26T12:55:03+00:00",
+                                "arrivalDateTime": "2018-01-26T11:50:56+00:00",
 
-                                "calculatedMileage": 40.96,
+                                "calculatedMileage": 1.86,
 
-                                "calculatedTravelTime": 70.04,
+                                "calculatedTravelTime": 5.93,
 
-                                "actualTravelTime": 63.03,
+                                "actualTravelTime": 5.33,
 
                                 "deliverySequenceNumber": 4,
 
@@ -16288,13 +16106,13 @@
 
                                 "vehicleName": "VAN-3-4251",
 
-                                "departureTime": "2018-01-26T13:02:37+00:00",
+                                "departureTime": "2018-01-26T12:37:15+00:00",
 
                                 "customerRefNum": null,
 
-                                "postalcode": "SA445YB",
+                                "postalcode": "SA715JA",
 
-                                "orderNumber": "18947748654",
+                                "orderNumber": "18948062022",
 
                                 "shiftAttributes": "DEFAULT",
 
@@ -16302,7 +16120,7 @@
 
                                 "status": "CONFIRMED",
 
-                                "maxAcceptableDelay": 904,
+                                "maxAcceptableDelay": 5509,
 
                                 "locked": false
 
@@ -16332,13 +16150,13 @@
 
                                 "capacityValue3": 0,
 
-                                "arrivalDateTime": "2018-01-26T14:13:56+00:00",
+                                "arrivalDateTime": "2018-01-26T12:47:19+00:00",
 
-                                "calculatedMileage": 41.85,
+                                "calculatedMileage": 3.43,
 
-                                "calculatedTravelTime": 71.31,
+                                "calculatedTravelTime": 10.06,
 
-                                "actualTravelTime": 64.18,
+                                "actualTravelTime": 9.05,
 
                                 "deliverySequenceNumber": 5,
 
@@ -16348,7 +16166,7 @@
 
                                 "vehicleName": "VAN-3-4251",
 
-                                "departureTime": "2018-01-26T14:13:56+00:00",
+                                "departureTime": "2018-01-26T12:47:19+00:00",
 
                                 "customerRefNum": null,
 
@@ -16362,7 +16180,7 @@
 
                                 "status": null,
 
-                                "maxAcceptableDelay": 904,
+                                "maxAcceptableDelay": 6101,
 
                                 "locked": false
 
@@ -16372,9 +16190,9 @@
 
                         "carrier": null,
 
-                        "calculatedTravelTime": 8722,
+                        "calculatedTravelTime": 1200,
 
-                        "calculatedTravelDistance": 84.289999,
+                        "calculatedTravelDistance": 6.72,
 
                         "externalReferenceKey": "a5ddd069-5896-40d9-8600-1958972805df"
 
@@ -16490,11 +16308,11 @@
 
                                 "serviceTime_MMSS": "44:0",
 
-                                "capacityWeight": 599.261,
+                                "capacityWeight": 542.442,
 
-                                "capacityVolume": 9827.324,
+                                "capacityVolume": 9670.217,
 
-                                "capacityValue3": 2147483645,
+                                "capacityValue3": 2147483643,
 
                                 "arrivalDateTime": "2018-01-26T08:15:00+00:00",
 
@@ -16526,7 +16344,127 @@
 
                                 "status": null,
 
-                                "maxAcceptableDelay": 9992,
+                                "maxAcceptableDelay": 5843,
+
+                                "locked": false
+
+                            },
+
+                            {
+
+                                "id": null,
+
+                                "reservationId": "18948068940180124194710442",
+
+                                "fromTime": "2018-01-26T10:00:00+00:00",
+
+                                "toTime": "2018-01-26T12:00:00+00:00",
+
+                                "latitude": 52.030159,
+
+                                "longitude": -4.372322,
+
+                                "serviceTime": 7,
+
+                                "serviceTime_MMSS": "7:33",
+
+                                "capacityWeight": 30.75,
+
+                                "capacityVolume": 82,
+
+                                "capacityValue3": 1,
+
+                                "arrivalDateTime": "2018-01-26T10:10:46+00:00",
+
+                                "calculatedMileage": 43.64,
+
+                                "calculatedTravelTime": 71.76,
+
+                                "actualTravelTime": 64.57,
+
+                                "deliverySequenceNumber": 2,
+
+                                "activityType": "ORDER",
+
+                                "tags": "DEFAULT",
+
+                                "vehicleName": "VAN-4-4251",
+
+                                "departureTime": "2018-01-26T10:18:19+00:00",
+
+                                "customerRefNum": null,
+
+                                "postalcode": "SA445EU",
+
+                                "orderNumber": "18948068940",
+
+                                "shiftAttributes": "DEFAULT",
+
+                                "shiftId": "WAVE 3 TWICE DAILY NS NW EVN",
+
+                                "status": "CONFIRMED",
+
+                                "maxAcceptableDelay": 5843,
+
+                                "locked": false
+
+                            },
+
+                            {
+
+                                "id": null,
+
+                                "reservationId": "18637199787180120144357309",
+
+                                "fromTime": "2018-01-26T12:00:00+00:00",
+
+                                "toTime": "2018-01-26T14:00:00+00:00",
+
+                                "latitude": 52.021047,
+
+                                "longitude": -4.403514,
+
+                                "serviceTime": 7,
+
+                                "serviceTime_MMSS": "7:34",
+
+                                "capacityWeight": 30.75,
+
+                                "capacityVolume": 83.781,
+
+                                "capacityValue3": 1,
+
+                                "arrivalDateTime": "2018-01-26T10:24:34+00:00",
+
+                                "calculatedMileage": 2.52,
+
+                                "calculatedTravelTime": 6.25,
+
+                                "actualTravelTime": 5.62,
+
+                                "deliverySequenceNumber": 3,
+
+                                "activityType": "ORDER",
+
+                                "tags": "DEFAULT",
+
+                                "vehicleName": "VAN-4-4251",
+
+                                "departureTime": "2018-01-26T12:07:34+00:00",
+
+                                "customerRefNum": null,
+
+                                "postalcode": "SA445YB",
+
+                                "orderNumber": "18947748654",
+
+                                "shiftAttributes": "DEFAULT",
+
+                                "shiftId": "WAVE 3 TWICE DAILY NS NW EVN",
+
+                                "status": "CONFIRMED",
+
+                                "maxAcceptableDelay": 5843,
 
                                 "locked": false
 
@@ -16542,9 +16480,9 @@
 
                                 "toTime": "2018-01-26T12:45:00+00:00",
 
-                                "latitude": 51.695311,
+                                "latitude": 52.021047,
 
-                                "longitude": -4.941404,
+                                "longitude": -4.403514,
 
                                 "serviceTime": 30,
 
@@ -16556,15 +16494,15 @@
 
                                 "capacityValue3": 0,
 
-                                "arrivalDateTime": "2018-01-26T08:59:00+00:00",
+                                "arrivalDateTime": "2018-01-26T12:07:34+00:00",
 
                                 "calculatedMileage": 0.01,
 
                                 "calculatedTravelTime": 0,
 
-                                "actualTravelTime": 0,
+                               "actualTravelTime": 0,
 
-                                "deliverySequenceNumber": 2,
+                                "deliverySequenceNumber": 4,
 
                                 "activityType": "BREAK",
 
@@ -16572,7 +16510,7 @@
 
                                 "vehicleName": "VAN-4-4251",
 
-                                "departureTime": "2018-01-26T12:15:00+00:00",
+                                "departureTime": "2018-01-26T12:37:34+00:00",
 
                                 "customerRefNum": null,
 
@@ -16586,7 +16524,7 @@
 
                                 "status": null,
 
-                                "maxAcceptableDelay": 9992,
+                                "maxAcceptableDelay": 117,
 
                                 "locked": false
 
@@ -16616,15 +16554,15 @@
 
                                 "capacityValue3": 1,
 
-                                "arrivalDateTime": "2018-01-26T12:59:28+00:00",
+                                "arrivalDateTime": "2018-01-26T13:30:50+00:00",
 
-                                "calculatedMileage": 25.23,
+                                "calculatedMileage": 28.82,
 
-                                "calculatedTravelTime": 44.46,
+                                "calculatedTravelTime": 53.26,
 
-                                "actualTravelTime": 40,
+                                "actualTravelTime": 47.93,
 
-                                "deliverySequenceNumber": 3,
+                                "deliverySequenceNumber": 5,
 
                                 "activityType": "ORDER",
 
@@ -16632,7 +16570,7 @@
 
                                 "vehicleName": "VAN-4-4251",
 
-                                "departureTime": "2018-01-26T13:13:13+00:00",
+                                "departureTime": "2018-01-26T13:44:03+00:00",
 
                                 "customerRefNum": null,
 
@@ -16646,7 +16584,7 @@
 
                                 "status": "CONFIRMED",
 
-                                "maxAcceptableDelay": 32,
+                                "maxAcceptableDelay": 117,
 
                                 "locked": false
 
@@ -16656,35 +16594,35 @@
 
                                 "id": null,
 
-                                "reservationId": "18933406659180123192700825",
+                                "reservationId": "18932435669180124162431652",
 
-                                "fromTime": "2018-01-26T12:30:00+00:00",
+                                "fromTime": "2018-01-26T13:00:00+00:00",
 
-                                "toTime": "2018-01-26T13:30:00+00:00",
+                                "toTime": "2018-01-26T15:00:00+00:00",
 
-                                "latitude": 51.674178,
+                                "latitude": 51.73375,
 
-                                "longitude": -4.89695,
+                                "longitude": -4.717819,
 
                                 "serviceTime": 7,
 
-                                "serviceTime_MMSS": "7:15",
+                                "serviceTime_MMSS": "7:0",
 
-                                "capacityWeight": 48.719,
+                                "capacityWeight": 44.036,
 
-                                "capacityVolume": 90.674,
+                                "capacityVolume": 82,
 
                                 "capacityValue3": 1,
 
-                                "arrivalDateTime": "2018-01-26T14:03:13+00:00",
+                                "arrivalDateTime": "2018-01-26T14:31:34+00:00",
 
-                                "calculatedMileage": 27.53,
+                                "calculatedMileage": 29.51,
 
-                                "calculatedTravelTime": 50,
+                                "calculatedTravelTime": 47.51,
 
-                                "actualTravelTime": 45,
+                                "actualTravelTime": 42.75,
 
-                                "deliverySequenceNumber": 4,
+                                "deliverySequenceNumber": 6,
 
                                 "activityType": "ORDER",
 
@@ -16692,13 +16630,13 @@
 
                                 "vehicleName": "VAN-4-4251",
 
-                                "departureTime": "2018-01-26T14:10:28+00:00",
+                                "departureTime": "2018-01-26T14:38:34+00:00",
 
                                 "customerRefNum": null,
 
-                                "postalcode": "SA715JA",
+                                "postalcode": "SA680ZB",
 
-                                "orderNumber": "18948062022",
+                                "orderNumber": "18932435669",
 
                                 "shiftAttributes": "DEFAULT",
 
@@ -16706,7 +16644,7 @@
 
                                 "status": "CONFIRMED",
 
-                                "maxAcceptableDelay": 0,
+                                "maxAcceptableDelay": 117,
 
                                 "locked": false
 
@@ -16736,15 +16674,15 @@
 
                                 "capacityValue3": 0,
 
-                                "arrivalDateTime": "2018-01-26T14:20:32+00:00",
+                                "arrivalDateTime": "2018-01-26T14:57:03+00:00",
 
-                                "calculatedMileage": 3.43,
+                                "calculatedMileage": 11.08,
 
-                                "calculatedTravelTime": 10.06,
+                                "calculatedTravelTime": 18.48,
 
-                                "actualTravelTime": 9.05,
+                                "actualTravelTime": 16.62,
 
-                                "deliverySequenceNumber": 5,
+                                "deliverySequenceNumber": 7,
 
                                 "activityType": "DEPOT",
 
@@ -16752,7 +16690,7 @@
 
                                 "vehicleName": "VAN-4-4251",
 
-                                "departureTime": "2018-01-26T14:20:32+00:00",
+                                "departureTime": "2018-01-26T14:57:03+00:00",
 
                                 "customerRefNum": null,
 
@@ -16766,7 +16704,7 @@
 
                                 "status": null,
 
-                                "maxAcceptableDelay": 2308,
+                                "maxAcceptableDelay": 117,
 
                                 "locked": false
 
@@ -16776,9 +16714,9 @@
 
                         "carrier": null,
 
-                        "calculatedTravelTime": 6272,
+                        "calculatedTravelTime": 11837,
 
-                        "calculatedTravelDistance": 56.2,
+                        "calculatedTravelDistance": 115.58,
 
                         "externalReferenceKey": "cc3bed4a-3ec4-487b-addc-7a24a63d4ef9"
 
@@ -16812,7 +16750,7 @@
 
                         {
 
-                           "id": "a2be0ac5-5919-4d9f-9681-09da29eb0c97",
+                            "id": "a2be0ac5-5919-4d9f-9681-09da29eb0c97",
 
                             "startOffSet": 210,
 
@@ -16894,11 +16832,11 @@
 
                                 "serviceTime_MMSS": "44:0",
 
-                                "capacityWeight": 307.089,
+                                "capacityWeight": 679.98,
 
-                                "capacityVolume": 8971.238,
+                                "capacityVolume": 9999.986,
 
-                                "capacityValue3": 2147483638,
+                                "capacityValue3": 2147483647,
 
                                 "arrivalDateTime": "2018-01-26T14:00:00+00:00",
 
@@ -16930,367 +16868,7 @@
 
                                 "status": null,
 
-                                "maxAcceptableDelay": 0,
-
-                                "locked": false
-
-                            },
-
-                            {
-
-                                "id": null,
-
-                                "reservationId": "18932435669180124162431652",
-
-                                "fromTime": "2018-01-26T13:00:00+00:00",
-
-                                "toTime": "2018-01-26T15:00:00+00:00",
-
-                                "latitude": 51.73375,
-
-                                "longitude": -4.717819,
-
-                                "serviceTime": 7,
-
-                                "serviceTime_MMSS": "7:0",
-
-                                "capacityWeight": 44.037,
-
-                                "capacityVolume": 82,
-
-                                "capacityValue3": 1,
-
-                                "arrivalDateTime": "2018-01-26T15:02:29+00:00",
-
-                                "calculatedMileage": 11.18,
-
-                                "calculatedTravelTime": 18.48,
-
-                                "actualTravelTime": 16.62,
-
-                                "deliverySequenceNumber": 2,
-
-                                "activityType": "ORDER",
-
-                                "tags": "DEFAULT",
-
-                                "vehicleName": "VAN-2-4251",
-
-                                "departureTime": "2018-01-26T15:09:29+00:00",
-
-                                "customerRefNum": null,
-
-                                "postalcode": "SA680ZB",
-
-                                "orderNumber": "18932435669",
-
-                                "shiftAttributes": "DEFAULT",
-
-                                "shiftId": "WAVE 1 TWICE DAILY",
-
-                                "status": "CONFIRMED",
-
-                                "maxAcceptableDelay": 0,
-
-                                "locked": false
-
-                            },
-
-                            {
-
-                                "id": null,
-
-                                "reservationId": "1894746574818012413160254",
-
-                                "fromTime": "2018-01-26T14:00:00+00:00",
-
-                                "toTime": "2018-01-26T16:00:00+00:00",
-
-                                "latitude": 51.815493,
-
-                                "longitude": -4.503702,
-
-                                "serviceTime": 7,
-
-                                "serviceTime_MMSS": "7:48",
-
-                                "capacityWeight": 32.915,
-
-                                "capacityVolume": 84.248,
-
-                                "capacityValue3": 1,
-
-                                "arrivalDateTime": "2018-01-26T15:29:12+00:00",
-
-                                "calculatedMileage": 12.46,
-
-                                "calculatedTravelTime": 19.71,
-
-                                "actualTravelTime": 17.73,
-
-                                "deliverySequenceNumber": 3,
-
-                                "activityType": "ORDER",
-
-                                "tags": "DEFAULT",
-
-                                "vehicleName": "VAN-2-4251",
-
-                                "departureTime": "2018-01-26T15:37:00+00:00",
-
-                                "customerRefNum": null,
-
-                                "postalcode": "SA334ET",
-
-                                "orderNumber": "18947465748",
-
-                                "shiftAttributes": "DEFAULT",
-
-                                "shiftId": "WAVE 1 TWICE DAILY",
-
-                                "status": "CONFIRMED",
-
-                                "maxAcceptableDelay": 1206,
-
-                                "locked": false
-
-                            },
-
-                            {
-
-                                "id": null,
-
-                                "reservationId": "18917083888180107201259300",
-
-                                "fromTime": "2018-01-26T16:00:00+00:00",
-
-                                "toTime": "2018-01-26T18:00:00+00:00",
-
-                                "latitude": 51.848909,
-
-                                "longitude": -4.506341,
-
-                                "serviceTime": 6,
-
-                                "serviceTime_MMSS": "6:20",
-
-                                "capacityWeight": 19.8,
-
-                                "capacityVolume": 48.469,
-
-                                "capacityValue3": 1,
-
-                                "arrivalDateTime": "2018-01-26T15:46:18+00:00",
-
-                                "calculatedMileage": 3.5,
-
-                                "calculatedTravelTime": 9.3,
-
-                                "actualTravelTime": 8.36,
-
-                                "deliverySequenceNumber": 4,
-
-                                "activityType": "ORDER",
-
-                                "tags": "DEFAULT",
-
-                                "vehicleName": "VAN-2-4251",
-
-                                "departureTime": "2018-01-26T16:06:20+00:00",
-
-                                "customerRefNum": null,
-
-                                "postalcode": "SA334LF",
-
-                                "orderNumber": "18918327089",
-
-                                "shiftAttributes": "DEFAULT",
-
-                                "shiftId": "WAVE 1 TWICE DAILY",
-
-                                "status": "CONFIRMED",
-
-                                "maxAcceptableDelay": 1206,
-
-                                "locked": false
-
-                            },
-
-                            {
-
-                                "id": null,
-
-                                "reservationId": "18899333699180120100812738",
-
-                                "fromTime": "2018-01-26T15:00:00+00:00",
-
-                                "toTime": "2018-01-26T17:00:00+00:00",
-
-                                "latitude": 52.013471,
-
-                                "longitude": -4.367766,
-
-                                "serviceTime": 10,
-
-                                "serviceTime_MMSS": "10:25",
-
-                                "capacityWeight": 52.32,
-
-                                "capacityVolume": 165.77,
-
-                                "capacityValue3": 1,
-
-                                "arrivalDateTime": "2018-01-26T16:43:11+00:00",
-
-                                "calculatedMileage": 17.07,
-
-                                "calculatedTravelTime": 36.85,
-
-                                "actualTravelTime": 33.15,
-
-                                "deliverySequenceNumber": 5,
-
-                                "activityType": "ORDER",
-
-                                "tags": "DEFAULT",
-
-                                "vehicleName": "VAN-2-4251",
-
-                                "departureTime": "2018-01-26T16:53:36+00:00",
-
-                                "customerRefNum": null,
-
-                                "postalcode": "SA445DZ",
-
-                                "orderNumber": "18945452936",
-
-                                "shiftAttributes": "DEFAULT",
-
-                                "shiftId": "WAVE 1 TWICE DAILY",
-
-                                "status": "CONFIRMED",
-
-                                "maxAcceptableDelay": 384,
-
-                                "locked": false
-
-                            },
-
-                            {
-
-                                "id": null,
-
-                                "reservationId": "18932884963180124151647781",
-
-                                "fromTime": "2018-01-26T18:00:00+00:00",
-
-                                "toTime": "2018-01-26T20:00:00+00:00",
-
-                                "latitude": 52.137502,
-
-                                "longitude": -4.388003,
-
-                                "serviceTime": 7,
-
-                                "serviceTime_MMSS": "7:33",
-
-                                "capacityWeight": 42.966,
-
-                                "capacityVolume": 111.873,
-
-                                "capacityValue3": 1,
-
-                                "arrivalDateTime": "2018-01-26T17:13:50+00:00",
-
-                                "calculatedMileage": 11.42,
-
-                                "calculatedTravelTime": 20.23,
-
-                                "actualTravelTime": 18.19,
-
-                                "deliverySequenceNumber": 6,
-
-                                "activityType": "ORDER",
-
-                                "tags": "DEFAULT",
-
-                                "vehicleName": "VAN-2-4251",
-
-                                "departureTime": "2018-01-26T18:07:33+00:00",
-
-                                "customerRefNum": null,
-
-                                "postalcode": "SA446HU",
-
-                                "orderNumber": "18932884963",
-
-                                "shiftAttributes": "DEFAULT",
-
-                                "shiftId": "WAVE 1 TWICE DAILY",
-
-                                "status": "CONFIRMED",
-
-                                "maxAcceptableDelay": 2770,
-
-                                "locked": false
-
-                            },
-
-                            {
-
-                                "id": null,
-
-                                "reservationId": "5792251688180124213938107",
-
-                                "fromTime": "2018-01-26T18:00:00+00:00",
-
-                                "toTime": "2018-01-26T20:00:00+00:00",
-
-                                "latitude": 52.102779,
-
-                                "longitude": -4.612828,
-
-                                "serviceTime": 11,
-
-                                "serviceTime_MMSS": "11:4",
-
-                                "capacityWeight": 77.944,
-
-                                "capacityVolume": 202.774,
-
-                                "capacityValue3": 1,
-
-                                "arrivalDateTime": "2018-01-26T18:25:43+00:00",
-
-                                "calculatedMileage": 11.33,
-
-                                "calculatedTravelTime": 18.16,
-
-                                "actualTravelTime": 16.33,
-
-                                "deliverySequenceNumber": 7,
-
-                                "activityType": "ORDER",
-
-                                "tags": "DEFAULT",
-
-                                "vehicleName": "VAN-2-4251",
-
-                                "departureTime": "2018-01-26T18:36:47+00:00",
-
-                                "customerRefNum": null,
-
-                                "postalcode": "SA431RH",
-
-                                "orderNumber": "5792251688",
-
-                                "shiftAttributes": "DEFAULT",
-
-                                "shiftId": "WAVE 1 TWICE DAILY",
-
-                                "status": "CONFIRMED",
-
-                                "maxAcceptableDelay": 0,
+                                "maxAcceptableDelay": 11760,
 
                                 "locked": false
 
@@ -17306,9 +16884,9 @@
 
                                 "toTime": "2018-01-26T18:30:00+00:00",
 
-                                "latitude": 52.102779,
+                                "latitude": 51.695311,
 
-                                "longitude": -4.612828,
+                                "longitude": -4.941404,
 
                                 "serviceTime": 30,
 
@@ -17320,15 +16898,15 @@
 
                                 "capacityValue3": 0,
 
-                                "arrivalDateTime": "2018-01-26T18:36:47+00:00",
+                                "arrivalDateTime": "2018-01-26T14:44:00+00:00",
 
-                                "calculatedMileage": 0.02,
+                                "calculatedMileage": 0.01,
 
                                 "calculatedTravelTime": 0,
 
                                 "actualTravelTime": 0,
 
-                                "deliverySequenceNumber": 8,
+                                "deliverySequenceNumber": 2,
 
                                 "activityType": "BREAK",
 
@@ -17336,7 +16914,7 @@
 
                                 "vehicleName": "VAN-2-4251",
 
-                                "departureTime": "2018-01-26T19:06:47+00:00",
+                                "departureTime": "2018-01-26T18:00:00+00:00",
 
                                 "customerRefNum": null,
 
@@ -17350,187 +16928,7 @@
 
                                 "status": null,
 
-                                "maxAcceptableDelay": 0,
-
-                                "locked": false
-
-                            },
-
-                            {
-
-                                "id": null,
-
-                                "reservationId": "698949467318010401002365",
-
-                                "fromTime": "2018-01-26T18:00:00+00:00",
-
-                                "toTime": "2018-01-26T20:00:00+00:00",
-
-                                "latitude": 52.206144,
-
-                                "longitude": -4.321324,
-
-                                "serviceTime": 8,
-
-                                "serviceTime_MMSS": "8:39",
-
-                                "capacityWeight": 40.463,
-
-                                "capacityVolume": 143.899,
-
-                                "capacityValue3": 1,
-
-                                "arrivalDateTime": "2018-01-26T19:34:35+00:00",
-
-                                "calculatedMileage": 17.12,
-
-                                "calculatedTravelTime": 27.8,
-
-                                "actualTravelTime": 25.01,
-
-                                "deliverySequenceNumber": 9,
-
-                                "activityType": "ORDER",
-
-                                "tags": "DEFAULT",
-
-                                "vehicleName": "VAN-2-4251",
-
-                                "departureTime": "2018-01-26T19:43:14+00:00",
-
-                                "customerRefNum": null,
-
-                                "postalcode": "SA470QA",
-
-                                "orderNumber": "18945873973",
-
-                                "shiftAttributes": "DEFAULT",
-
-                                "shiftId": "WAVE 1 TWICE DAILY",
-
-                                "status": "CONFIRMED",
-
-                                "maxAcceptableDelay": 0,
-
-                                "locked": false
-
-                            },
-
-                            {
-
-                                "id": null,
-
-                                "reservationId": "1855699562318012419003159",
-
-                                "fromTime": "2018-01-26T17:00:00+00:00",
-
-                                "toTime": "2018-01-26T19:00:00+00:00",
-
-                                "latitude": 52.213501,
-
-                                "longitude": -4.360512,
-
-                                "serviceTime": 7,
-
-                                "serviceTime_MMSS": "7:33",
-
-                                "capacityWeight": 31.704,
-
-                                "capacityVolume": 107.721,
-
-                                "capacityValue3": 1,
-
-                                "arrivalDateTime": "2018-01-26T19:49:34+00:00",
-
-                                "calculatedMileage": 2.18,
-
-                                "calculatedTravelTime": 6.33,
-
-                                "actualTravelTime": 5.7,
-
-                                "deliverySequenceNumber": 10,
-
-                                "activityType": "ORDER",
-
-                                "tags": "DEFAULT",
-
-                                "vehicleName": "VAN-2-4251",
-
-                                "departureTime": "2018-01-26T19:57:07+00:00",
-
-                                "customerRefNum": null,
-
-                                "postalcode": "SA459QD",
-
-                                "orderNumber": "18556995623",
-
-                                "shiftAttributes": "DEFAULT",
-
-                                "shiftId": "WAVE 1 TWICE DAILY",
-
-                                "status": "CONFIRMED",
-
-                                "maxAcceptableDelay": 0,
-
-                                "locked": false
-
-                            },
-
-                            {
-
-                                "id": null,
-
-                                "reservationId": "18921439556180124222450709",
-
-                                "fromTime": "2018-01-26T18:00:00+00:00",
-
-                                "toTime": "2018-01-26T20:00:00+00:00",
-
-                                "latitude": 52.018576,
-
-                                "longitude": -4.399417,
-
-                                "serviceTime": 7,
-
-                                "serviceTime_MMSS": "7:33",
-
-                                "capacityWeight": 30.75,
-
-                                "capacityVolume": 82,
-
-                                "capacityValue3": 1,
-
-                                "arrivalDateTime": "2018-01-26T20:28:09+00:00",
-
-                                "calculatedMileage": 16.48,
-
-                                "calculatedTravelTime": 31.03,
-
-                                "actualTravelTime": 27.92,
-
-                                "deliverySequenceNumber": 11,
-
-                                "activityType": "ORDER",
-
-                                "tags": "DEFAULT",
-
-                                "vehicleName": "VAN-2-4251",
-
-                                "departureTime": "2018-01-26T20:35:42+00:00",
-
-                                "customerRefNum": null,
-
-                                "postalcode": "SA445XG",
-
-                                "orderNumber": "18921439556",
-
-                                "shiftAttributes": "DEFAULT",
-
-                                "shiftId": "WAVE 1 TWICE DAILY",
-
-                                "status": "RESERVED",
-
-                                "maxAcceptableDelay": 0,
+                                "maxAcceptableDelay": 11760,
 
                                 "locked": false
 
@@ -17560,15 +16958,15 @@
 
                                 "capacityValue3": 0,
 
-                                "arrivalDateTime": "2018-01-26T21:45:42+00:00",
+                                "arrivalDateTime": "2018-01-26T18:00:00+00:00",
 
-                                "calculatedMileage": 41.53,
+                                "calculatedMileage": 0.01,
 
-                                "calculatedTravelTime": 70,
+                                "calculatedTravelTime": 0,
 
-                                "actualTravelTime": 62.99,
+                                "actualTravelTime": 0,
 
-                                "deliverySequenceNumber": 12,
+                                "deliverySequenceNumber": 3,
 
                                 "activityType": "DEPOT",
 
@@ -17576,7 +16974,7 @@
 
                                 "vehicleName": "VAN-2-4251",
 
-                                "departureTime": "2018-01-26T21:45:42+00:00",
+                                "departureTime": "2018-01-26T18:00:00+00:00",
 
                                 "customerRefNum": null,
 
@@ -17590,7 +16988,7 @@
 
                                 "status": null,
 
-                                "maxAcceptableDelay": 858,
+                                "maxAcceptableDelay": 14400,
 
                                 "locked": false
 
@@ -17600,9 +16998,9 @@
 
                         "carrier": null,
 
-                        "calculatedTravelTime": 15475,
+                        "calculatedTravelTime": 0,
 
-                        "calculatedTravelDistance": 144.31,
+                        "calculatedTravelDistance": 0.02,
 
                         "externalReferenceKey": "4ca39573-3297-43ed-ac1b-a28c770912cd"
 
@@ -17718,11 +17116,11 @@
 
                                 "serviceTime_MMSS": "44:0",
 
-                                "capacityWeight": 469.553,
+                                "capacityWeight": 301.103,
 
-                                "capacityVolume": 9460.988,
+                                "capacityVolume": 8941.075,
 
-                                "capacityValue3": 2147483642,
+                                "capacityValue3": 2147483637,
 
                                 "arrivalDateTime": "2018-01-26T14:00:00+00:00",
 
@@ -17754,7 +17152,7 @@
 
                                 "status": null,
 
-                                "maxAcceptableDelay": 3834,
+                                "maxAcceptableDelay": 610,
 
                                 "locked": false
 
@@ -17786,7 +17184,7 @@
 
                                 "arrivalDateTime": "2018-01-26T15:03:12+00:00",
 
-                                "calculatedMileage": 11.34,
+                                "calculatedMileage": 11.33,
 
                                 "calculatedTravelTime": 19.19,
 
@@ -17814,7 +17212,127 @@
 
                                 "status": "CONFIRMED",
 
-                                "maxAcceptableDelay": 3834,
+                                "maxAcceptableDelay": 610,
+
+                                "locked": false
+
+                            },
+
+                            {
+
+                                "id": null,
+
+                                "reservationId": "1894746574818012413160254",
+
+                                "fromTime": "2018-01-26T14:00:00+00:00",
+
+                                "toTime": "2018-01-26T16:00:00+00:00",
+
+                                "latitude": 51.815493,
+
+                                "longitude": -4.503702,
+
+                                "serviceTime": 7,
+
+                                "serviceTime_MMSS": "7:48",
+
+                                "capacityWeight": 32.914,
+
+                                "capacityVolume": 84.248,
+
+                                "capacityValue3": 1,
+
+                                "arrivalDateTime": "2018-01-26T15:32:44+00:00",
+
+                                "calculatedMileage": 12.23,
+
+                                "calculatedTravelTime": 18.89,
+
+                                "actualTravelTime": 17,
+
+                                "deliverySequenceNumber": 3,
+
+                                "activityType": "ORDER",
+
+                                "tags": "DEFAULT",
+
+                                "vehicleName": "VAN-1-4251",
+
+                                "departureTime": "2018-01-26T15:40:32+00:00",
+
+                                "customerRefNum": null,
+
+                                "postalcode": "SA334ET",
+
+                                "orderNumber": "18947465748",
+
+                                "shiftAttributes": "DEFAULT",
+
+                                "shiftId": "WAVE 1 TWICE DAILY",
+
+                                "status": "CONFIRMED",
+
+                                "maxAcceptableDelay": 610,
+
+                                "locked": false
+
+                            },
+
+                            {
+
+                                "id": null,
+
+                                "reservationId": "18917083888180107201259300",
+
+                                "fromTime": "2018-01-26T16:00:00+00:00",
+
+                                "toTime": "2018-01-26T18:00:00+00:00",
+
+                                "latitude": 51.848909,
+
+                                "longitude": -4.506341,
+
+                                "serviceTime": 6,
+
+                                "serviceTime_MMSS": "6:20",
+
+                                "capacityWeight": 19.8,
+
+                                "capacityVolume": 48.469,
+
+                                "capacityValue3": 1,
+
+                                "arrivalDateTime": "2018-01-26T15:49:50+00:00",
+
+                                "calculatedMileage": 3.5,
+
+                                "calculatedTravelTime": 9.3,
+
+                                "actualTravelTime": 8.36,
+
+                                "deliverySequenceNumber": 4,
+
+                                "activityType": "ORDER",
+
+                                "tags": "DEFAULT",
+
+                                "vehicleName": "VAN-1-4251",
+
+                                "departureTime": "2018-01-26T16:06:20+00:00",
+
+                                "customerRefNum": null,
+
+                                "postalcode": "SA334LF",
+
+                                "orderNumber": "18918327089",
+
+                                "shiftAttributes": "DEFAULT",
+
+                                "shiftId": "WAVE 1 TWICE DAILY",
+
+                                "status": "CONFIRMED",
+
+                                "maxAcceptableDelay": 610,
 
                                 "locked": false
 
@@ -17844,15 +17362,15 @@
 
                                 "capacityValue3": 1,
 
-                                "arrivalDateTime": "2018-01-26T15:46:41+00:00",
+                                "arrivalDateTime": "2018-01-26T16:20:17+00:00",
 
-                                "calculatedMileage": 19.28,
+                                "calculatedMileage": 6.36,
 
-                                "calculatedTravelTime": 32.85,
+                                "calculatedTravelTime": 13.94,
 
-                                "actualTravelTime": 29.55,
+                                "actualTravelTime": 12.55,
 
-                                "deliverySequenceNumber": 3,
+                                "deliverySequenceNumber": 5,
 
                                 "activityType": "ORDER",
 
@@ -17860,7 +17378,7 @@
 
                                 "vehicleName": "VAN-1-4251",
 
-                                "departureTime": "2018-01-26T15:56:06+00:00",
+                                "departureTime": "2018-01-26T16:29:42+00:00",
 
                                 "customerRefNum": null,
 
@@ -17874,7 +17392,247 @@
 
                                 "status": "CONFIRMED",
 
-                                "maxAcceptableDelay": 3834,
+                                "maxAcceptableDelay": 0,
+
+                                "locked": false
+
+                            },
+
+                            {
+
+                                "id": null,
+
+                                "reservationId": "18899333699180120100812738",
+
+                                "fromTime": "2018-01-26T15:00:00+00:00",
+
+                                "toTime": "2018-01-26T17:00:00+00:00",
+
+                                "latitude": 52.013471,
+
+                                "longitude": -4.367766,
+
+                                "serviceTime": 10,
+
+                                "serviceTime_MMSS": "10:25",
+
+                                "capacityWeight": 52.32,
+
+                                "capacityVolume": 165.77,
+
+                                "capacityValue3": 1,
+
+                                "arrivalDateTime": "2018-01-26T16:53:05+00:00",
+
+                                "calculatedMileage": 13.14,
+
+                                "calculatedTravelTime": 23.38,
+
+                                "actualTravelTime": 21.03,
+
+                                "deliverySequenceNumber": 6,
+
+                                "activityType": "ORDER",
+
+                                "tags": "DEFAULT",
+
+                                "vehicleName": "VAN-1-4251",
+
+                                "departureTime": "2018-01-26T17:03:30+00:00",
+
+                                "customerRefNum": null,
+
+                                "postalcode": "SA445DZ",
+
+                                "orderNumber": "18945452936",
+
+                                "shiftAttributes": "DEFAULT",
+
+                                "shiftId": "WAVE 1 TWICE DAILY",
+
+                                "status": "CONFIRMED",
+
+                                "maxAcceptableDelay": 0,
+
+                                "locked": false
+
+                            },
+
+                            {
+
+                                "id": null,
+
+                                "reservationId": "0D9CB748-3BCE-44AA-B9F0-871ECCA89197",
+
+                                "fromTime": "2018-01-26T17:30:00+00:00",
+
+                                "toTime": "2018-01-26T18:30:00+00:00",
+
+                                "latitude": 52.013471,
+
+                                "longitude": -4.367766,
+
+                                "serviceTime": 30,
+
+                                "serviceTime_MMSS": "30:0",
+
+                                "capacityWeight": 1,
+
+                                "capacityVolume": 1,
+
+                                "capacityValue3": 0,
+
+                                "arrivalDateTime": "2018-01-26T17:03:30+00:00",
+
+                                "calculatedMileage": 0.02,
+
+                                "calculatedTravelTime": 0,
+
+                                "actualTravelTime": 0,
+
+                                "deliverySequenceNumber": 7,
+
+                                "activityType": "BREAK",
+
+                                "tags": "DEFAULT",
+
+                                "vehicleName": "VAN-1-4251",
+
+                                "departureTime": "2018-01-26T18:00:00+00:00",
+
+                                "customerRefNum": null,
+
+                                "postalcode": null,
+
+                                "orderNumber": null,
+
+                                "shiftAttributes": "DEFAULT",
+
+                                "shiftId": "WAVE 1 TWICE DAILY",
+
+                                "status": null,
+
+                                "maxAcceptableDelay": 1880,
+
+                                "locked": false
+
+                            },
+
+                            {
+
+                                "id": null,
+
+                                "reservationId": "18921439556180124222450709",
+
+                               "fromTime": "2018-01-26T18:00:00+00:00",
+
+                                "toTime": "2018-01-26T20:00:00+00:00",
+
+                                "latitude": 52.018576,
+
+                                "longitude": -4.399417,
+
+                                "serviceTime": 7,
+
+                                "serviceTime_MMSS": "7:33",
+
+                                "capacityWeight": 30.75,
+
+                                "capacityVolume": 82,
+
+                                "capacityValue3": 1,
+
+                                "arrivalDateTime": "2018-01-26T18:04:34+00:00",
+
+                                "calculatedMileage": 1.87,
+
+                                "calculatedTravelTime": 4.56,
+
+                                "actualTravelTime": 4.09,
+
+                                "deliverySequenceNumber": 8,
+
+                                "activityType": "ORDER",
+
+                                "tags": "DEFAULT",
+
+                                "vehicleName": "VAN-1-4251",
+
+                                "departureTime": "2018-01-26T18:12:07+00:00",
+
+                                "customerRefNum": null,
+
+                                "postalcode": "SA445XG",
+
+                                "orderNumber": "18921439556",
+
+                                "shiftAttributes": "DEFAULT",
+
+                                "shiftId": "WAVE 1 TWICE DAILY",
+
+                                "status": "RESERVED",
+
+                                "maxAcceptableDelay": 290,
+
+                                "locked": false
+
+                            },
+
+                            {
+
+                                "id": null,
+
+                                "reservationId": "18922717689180124190100648",
+
+                                "fromTime": "2018-01-26T18:00:00+00:00",
+
+                                "toTime": "2018-01-26T20:00:00+00:00",
+
+                                "latitude": 51.997399,
+
+                                "longitude": -4.638975,
+
+                                "serviceTime": 7,
+
+                                "serviceTime_MMSS": "7:15",
+
+                                "capacityWeight": 30.75,
+
+                                "capacityVolume": 82,
+
+                                "capacityValue3": 1,
+
+                                "arrivalDateTime": "2018-01-26T18:38:09+00:00",
+
+                                "calculatedMileage": 13.55,
+
+                                "calculatedTravelTime": 26.03,
+
+                                "actualTravelTime": 23.42,
+
+                                "deliverySequenceNumber": 9,
+
+                                "activityType": "ORDER",
+
+                                "tags": "DEFAULT",
+
+                                "vehicleName": "VAN-1-4251",
+
+                                "departureTime": "2018-01-26T18:45:24+00:00",
+
+                                "customerRefNum": null,
+
+                                "postalcode": "SA370HY",
+
+                                "orderNumber": "18922717689",
+
+                                "shiftAttributes": "DEFAULT",
+
+                                "shiftId": "WAVE 1 TWICE DAILY",
+
+                                "status": "CONFIRMED",
+
+                                "maxAcceptableDelay": 290,
 
                                 "locked": false
 
@@ -17904,15 +17662,15 @@
 
                                 "capacityValue3": 1,
 
-                                "arrivalDateTime": "2018-01-26T16:20:09+00:00",
+                                "arrivalDateTime": "2018-01-26T18:48:58+00:00",
 
-                                "calculatedMileage": 10.25,
+                                "calculatedMileage": 1.87,
 
-                                "calculatedTravelTime": 24.05,
+                                "calculatedTravelTime": 3.56,
 
-                                "actualTravelTime": 21.64,
+                                "actualTravelTime": 3.2,
 
-                                "deliverySequenceNumber": 4,
+                                "deliverySequenceNumber": 10,
 
                                 "activityType": "ORDER",
 
@@ -17920,7 +17678,7 @@
 
                                 "vehicleName": "VAN-1-4251",
 
-                                "departureTime": "2018-01-26T18:07:33+00:00",
+                                "departureTime": "2018-01-26T18:56:31+00:00",
 
                                 "customerRefNum": null,
 
@@ -17934,7 +17692,7 @@
 
                                 "status": "CONFIRMED",
 
-                                "maxAcceptableDelay": 5991,
+                                "maxAcceptableDelay": 290,
 
                                 "locked": false
 
@@ -17944,35 +17702,35 @@
 
                                 "id": null,
 
-                                "reservationId": "18933132249180124130837408",
+                                "reservationId": "18941280667180124193026934",
 
-                                "fromTime": "2018-01-26T16:00:00+00:00",
+                                "fromTime": "2018-01-26T18:00:00+00:00",
 
-                                "toTime": "2018-01-26T18:00:00+00:00",
+                                "toTime": "2018-01-26T20:00:00+00:00",
 
-                                "latitude": 51.918333,
+                                "latitude": 51.937261,
 
-                                "longitude": -4.6453,
+                                "longitude": -5.173519,
 
                                 "serviceTime": 7,
 
-                                "serviceTime_MMSS": "7:34",
+                                "serviceTime_MMSS": "7:48",
 
                                 "capacityWeight": 30.75,
 
-                                "capacityVolume": 82,
+                                "capacityVolume": 87.271,
 
                                 "capacityValue3": 1,
 
-                                "arrivalDateTime": "2018-01-26T18:17:52+00:00",
+                                "arrivalDateTime": "2018-01-26T19:47:22+00:00",
 
-                                "calculatedMileage": 4.45,
+                                "calculatedMileage": 27.87,
 
-                                "calculatedTravelTime": 10.31,
+                                "calculatedTravelTime": 50.85,
 
-                                "actualTravelTime": 9.27,
+                                "actualTravelTime": 45.75,
 
-                                "deliverySequenceNumber": 5,
+                                "deliverySequenceNumber": 11,
 
                                 "activityType": "ORDER",
 
@@ -17980,13 +17738,13 @@
 
                                 "vehicleName": "VAN-1-4251",
 
-                                "departureTime": "2018-01-26T18:25:26+00:00",
+                                "departureTime": "2018-01-26T19:55:10+00:00",
 
                                 "customerRefNum": null,
 
-                                "postalcode": "SA340XX",
+                                "postalcode": "SA625BS",
 
-                                "orderNumber": "18933132249",
+                                "orderNumber": "18941280667",
 
                                 "shiftAttributes": "DEFAULT",
 
@@ -17994,7 +17752,7 @@
 
                                 "status": "CONFIRMED",
 
-                                "maxAcceptableDelay": 0,
+                                "maxAcceptableDelay": 290,
 
                                 "locked": false
 
@@ -18004,95 +17762,35 @@
 
                                 "id": null,
 
-                                "reservationId": "0D9CB748-3BCE-44AA-B9F0-871ECCA89197",
+                                "reservationId": "18806098870180124060632263",
 
-                                "fromTime": "2018-01-26T17:30:00+00:00",
+                                "fromTime": "2018-01-26T19:00:00+00:00",
 
-                                "toTime": "2018-01-26T18:30:00+00:00",
+                                "toTime": "2018-01-26T21:00:00+00:00",
 
-                                "latitude": 51.918333,
+                                "latitude": 51.928074,
 
-                                "longitude": -4.6453,
+                                "longitude": -5.00279,
 
-                                "serviceTime": 30,
+                                "serviceTime": 8,
 
-                                "serviceTime_MMSS": "30:0",
+                                "serviceTime_MMSS": "8:15",
 
-                                "capacityWeight": 1,
+                                "capacityWeight": 33.929,
 
-                                "capacityVolume": 1,
-
-                                "capacityValue3": 0,
-
-                                "arrivalDateTime": "2018-01-26T18:25:26+00:00",
-
-                                "calculatedMileage": 0.01,
-
-                                "calculatedTravelTime": 0,
-
-                                "actualTravelTime": 0,
-
-                                "deliverySequenceNumber": 6,
-
-                                "activityType": "BREAK",
-
-                                "tags": "DEFAULT",
-
-                                "vehicleName": "VAN-1-4251",
-
-                                "departureTime": "2018-01-26T18:55:26+00:00",
-
-                                "customerRefNum": null,
-
-                                "postalcode": null,
-
-                                "orderNumber": null,
-
-                                "shiftAttributes": "DEFAULT",
-
-                                "shiftId": "WAVE 1 TWICE DAILY",
-
-                                "status": null,
-
-                                "maxAcceptableDelay": 0,
-
-                                "locked": false
-
-                            },
-
-                            {
-
-                                "id": null,
-
-                                "reservationId": "18931403101180124200949706",
-
-                                "fromTime": "2018-01-26T18:00:00+00:00",
-
-                                "toTime": "2018-01-26T20:00:00+00:00",
-
-                                "latitude": 52.025205,
-
-                                "longitude": -4.348123,
-
-                                "serviceTime": 7,
-
-                                "serviceTime_MMSS": "7:48",
-
-                                "capacityWeight": 32.015,
-
-                                "capacityVolume": 82,
+                                "capacityVolume": 134.149,
 
                                 "capacityValue3": 1,
 
-                                "arrivalDateTime": "2018-01-26T19:37:17+00:00",
+                                "arrivalDateTime": "2018-01-26T20:11:15+00:00",
 
-                                "calculatedMileage": 19.78,
+                                "calculatedMileage": 8.73,
 
-                                "calculatedTravelTime": 41.85,
+                                "calculatedTravelTime": 16.08,
 
-                                "actualTravelTime": 37.65,
+                                "actualTravelTime": 14.47,
 
-                                "deliverySequenceNumber": 7,
+                                "deliverySequenceNumber": 12,
 
                                 "activityType": "ORDER",
 
@@ -18100,21 +17798,21 @@
 
                                 "vehicleName": "VAN-1-4251",
 
-                                "departureTime": "2018-01-26T19:45:05+00:00",
+                                "departureTime": "2018-01-26T20:19:30+00:00",
 
                                 "customerRefNum": null,
 
-                                "postalcode": "SA445AT",
+                                "postalcode": "SA625SP",
 
-                                "orderNumber": "18931403101",
+                                "orderNumber": "18806098870",
 
                                 "shiftAttributes": "DEFAULT",
 
                                 "shiftId": "WAVE 1 TWICE DAILY",
 
-                                "status": "RESERVED",
+                                "status": "CONFIRMED",
 
-                                "maxAcceptableDelay": 895,
+                                "maxAcceptableDelay": 2430,
 
                                 "locked": false
 
@@ -18144,15 +17842,15 @@
 
                                 "capacityValue3": 0,
 
-                                "arrivalDateTime": "2018-01-26T20:56:09+00:00",
+                                "arrivalDateTime": "2018-01-26T20:55:58+00:00",
 
-                                "calculatedMileage": 43.28,
+                                "calculatedMileage": 20.3,
 
-                                "calculatedTravelTime": 71.06,
+                                "calculatedTravelTime": 36.46,
 
-                                "actualTravelTime": 63.96,
+                                "actualTravelTime": 32.82,
 
-                                "deliverySequenceNumber": 8,
+                                "deliverySequenceNumber": 13,
 
                                 "activityType": "DEPOT",
 
@@ -18160,7 +17858,7 @@
 
                                 "vehicleName": "VAN-1-4251",
 
-                                "departureTime": "2018-01-26T20:56:09+00:00",
+                                "departureTime": "2018-01-26T20:55:58+00:00",
 
                                 "customerRefNum": null,
 
@@ -18174,7 +17872,7 @@
 
                                 "status": null,
 
-                                "maxAcceptableDelay": 3831,
+                                "maxAcceptableDelay": 3842,
 
                                 "locked": false
 
@@ -18184,9 +17882,9 @@
 
                         "carrier": null,
 
-                        "calculatedTravelTime": 11960,
+                        "calculatedTravelTime": 13338,
 
-                        "calculatedTravelDistance": 108.419999,
+                        "calculatedTravelDistance": 120.769999,
 
                         "externalReferenceKey": "f5fd35a3-22c8-478f-9aa8-26b354ca65b2"
 
@@ -18302,11 +18000,11 @@
 
                                 "serviceTime_MMSS": "44:0",
 
-                                "capacityWeight": 618.5,
+                                "capacityWeight": 551.302,
 
-                                "capacityVolume": 9830.727,
+                                "capacityVolume": 9660.834,
 
-                               "capacityValue3": 2147483645,
+                                "capacityValue3": 2147483644,
 
                                 "arrivalDateTime": "2018-01-26T14:30:00+00:00",
 
@@ -18338,7 +18036,187 @@
 
                                 "status": null,
 
-                                "maxAcceptableDelay": 9960,
+                                "maxAcceptableDelay": 5906,
+
+                                "locked": false
+
+                            },
+
+                            {
+
+                                "id": null,
+
+                                "reservationId": "18947813886180124180334557",
+
+                                "fromTime": "2018-01-26T17:00:00+00:00",
+
+                                "toTime": "2018-01-26T18:00:00+00:00",
+
+                                "latitude": 51.737279,
+
+                                "longitude": -4.931043,
+
+                                "serviceTime": 7,
+
+                                "serviceTime_MMSS": "7:33",
+
+                                "capacityWeight": 30.75,
+
+                                "capacityVolume": 107.846,
+
+                                "capacityValue3": 1,
+
+                                "arrivalDateTime": "2018-01-26T15:24:45+00:00",
+
+                                "calculatedMileage": 4.41,
+
+                                "calculatedTravelTime": 10.75,
+
+                                "actualTravelTime": 9.66,
+
+                                "deliverySequenceNumber": 2,
+
+                                "activityType": "ORDER",
+
+                                "tags": "DEFAULT",
+
+                                "vehicleName": "VAN-3-4251",
+
+                                "departureTime": "2018-01-26T17:07:33+00:00",
+
+                                "customerRefNum": null,
+
+                                "postalcode": "SA731NB",
+
+                                "orderNumber": "18947813886",
+
+                                "shiftAttributes": "DEFAULT",
+
+                                "shiftId": "WAVE 2 TWICE DAILY",
+
+                                "status": "CONFIRMED",
+
+                                "maxAcceptableDelay": 5906,
+
+                                "locked": false
+
+                            },
+
+                            {
+
+                                "id": null,
+
+                                "reservationId": "18933673262180123212924426",
+
+                                "fromTime": "2018-01-26T17:00:00+00:00",
+
+                                "toTime": "2018-01-26T18:00:00+00:00",
+
+                                "latitude": 51.678515,
+
+                                "longitude": -4.911419,
+
+                                "serviceTime": 7,
+
+                                "serviceTime_MMSS": "7:34",
+
+                                "capacityWeight": 30.75,
+
+                                "capacityVolume": 82,
+
+                                "capacityValue3": 1,
+
+                                "arrivalDateTime": "2018-01-26T17:21:39+00:00",
+
+                                "calculatedMileage": 5.83,
+
+                                "calculatedTravelTime": 14.09,
+
+                                "actualTravelTime": 12.67,
+
+                                "deliverySequenceNumber": 3,
+
+                                "activityType": "ORDER",
+
+                                "tags": "DEFAULT",
+
+                                "vehicleName": "VAN-3-4251",
+
+                                "departureTime": "2018-01-26T17:29:13+00:00",
+
+                                "customerRefNum": null,
+
+                                "postalcode": "SA714PS",
+
+                                "orderNumber": "18933673262",
+
+                                "shiftAttributes": "DEFAULT",
+
+                                "shiftId": "WAVE 2 TWICE DAILY",
+
+                                "status": "CONFIRMED",
+
+                                "maxAcceptableDelay": 191,
+
+                                "locked": false
+
+                            },
+
+                            {
+
+                                "id": null,
+
+                                "reservationId": "18873868812180125002404547",
+
+                                "fromTime": "2018-01-26T18:00:00+00:00",
+
+                                "toTime": "2018-01-26T20:00:00+00:00",
+
+                                "latitude": 51.855602,
+
+                                "longitude": -4.310007,
+
+                                "serviceTime": 10,
+
+                                "serviceTime_MMSS": "10:38",
+
+                                "capacityWeight": 67.387,
+
+                                "capacityVolume": 149.752,
+
+                                "capacityValue3": 1,
+
+                                "arrivalDateTime": "2018-01-26T18:16:11+00:00",
+
+                                "calculatedMileage": 31.1,
+
+                                "calculatedTravelTime": 46.96,
+
+                                "actualTravelTime": 42.25,
+
+                                "deliverySequenceNumber": 4,
+
+                                "activityType": "ORDER",
+
+                                "tags": "DEFAULT",
+
+                                "vehicleName": "VAN-3-4251",
+
+                                "departureTime": "2018-01-26T18:26:49+00:00",
+
+                                "customerRefNum": null,
+
+                                "postalcode": "SA313AN",
+
+                                "orderNumber": "18873868812",
+
+                                "shiftAttributes": "DEFAULT",
+
+                                "shiftId": "WAVE 2 TWICE DAILY",
+
+                                "status": "CONFIRMED",
+
+                                "maxAcceptableDelay": 191,
 
                                 "locked": false
 
@@ -18354,9 +18232,9 @@
 
                                 "toTime": "2018-01-26T19:00:00+00:00",
 
-                                "latitude": 51.695311,
+                                "latitude": 51.855602,
 
-                                "longitude": -4.941404,
+                                "longitude": -4.310007,
 
                                 "serviceTime": 30,
 
@@ -18368,15 +18246,15 @@
 
                                 "capacityValue3": 0,
 
-                                "arrivalDateTime": "2018-01-26T15:14:00+00:00",
+                                "arrivalDateTime": "2018-01-26T18:26:49+00:00",
 
-                                "calculatedMileage": 0.01,
+                                "calculatedMileage": 0,
 
                                 "calculatedTravelTime": 0,
 
                                 "actualTravelTime": 0,
 
-                                "deliverySequenceNumber": 2,
+                                "deliverySequenceNumber": 5,
 
                                 "activityType": "BREAK",
 
@@ -18384,7 +18262,7 @@
 
                                 "vehicleName": "VAN-3-4251",
 
-                                "departureTime": "2018-01-26T18:30:00+00:00",
+                                "departureTime": "2018-01-26T18:56:49+00:00",
 
                                 "customerRefNum": null,
 
@@ -18398,127 +18276,7 @@
 
                                 "status": null,
 
-                                "maxAcceptableDelay": 9960,
-
-                                "locked": false
-
-                            },
-
-                            {
-
-                                "id": null,
-
-                                "reservationId": "18936772176180124212535148",
-
-                                "fromTime": "2018-01-26T17:00:00+00:00",
-
-                                "toTime": "2018-01-26T19:00:00+00:00",
-
-                                "latitude": 52.132169,
-
-                                "longitude": -4.564687,
-
-                                "serviceTime": 7,
-
-                                "serviceTime_MMSS": "7:34",
-
-                                "capacityWeight": 30.75,
-
-                                "capacityVolume": 82,
-
-                                "capacityValue3": 1,
-
-                                "arrivalDateTime": "2018-01-26T19:41:28+00:00",
-
-                                "calculatedMileage": 43.46,
-
-                                "calculatedTravelTime": 71.46,
-
-                                "actualTravelTime": 64.31,
-
-                                "deliverySequenceNumber": 3,
-
-                                "activityType": "ORDER",
-
-                                "tags": "DEFAULT",
-
-                                "vehicleName": "VAN-3-4251",
-
-                                "departureTime": "2018-01-26T19:49:02+00:00",
-
-                                "customerRefNum": null,
-
-                                "postalcode": "SA432DJ",
-
-                                "orderNumber": "18936772176",
-
-                                "shiftAttributes": "DEFAULT",
-
-                                "shiftId": "WAVE 2 TWICE DAILY",
-
-                                "status": "CONFIRMED",
-
-                                "maxAcceptableDelay": 0,
-
-                                "locked": false
-
-                            },
-
-                            {
-
-                                "id": null,
-
-                                "reservationId": "18941280667180124193026934",
-
-                                "fromTime": "2018-01-26T18:00:00+00:00",
-
-                                "toTime": "2018-01-26T20:00:00+00:00",
-
-                                "latitude": 51.937261,
-
-                                "longitude": -5.173519,
-
-                                "serviceTime": 7,
-
-                                "serviceTime_MMSS": "7:48",
-
-                                "capacityWeight": 30.75,
-
-                                "capacityVolume": 87.271,
-
-                                "capacityValue3": 1,
-
-                                "arrivalDateTime": "2018-01-26T20:50:41+00:00",
-
-                                "calculatedMileage": 35.64,
-
-                                "calculatedTravelTime": 61.64,
-
-                                "actualTravelTime": 55.47,
-
-                                "deliverySequenceNumber": 4,
-
-                                "activityType": "ORDER",
-
-                                "tags": "DEFAULT",
-
-                                "vehicleName": "VAN-3-4251",
-
-                                "departureTime": "2018-01-26T20:58:29+00:00",
-
-                                "customerRefNum": null,
-
-                                "postalcode": "SA625BS",
-
-                                "orderNumber": "18941280667",
-
-                                "shiftAttributes": "DEFAULT",
-
-                                "shiftId": "WAVE 2 TWICE DAILY",
-
-                                "status": "CONFIRMED",
-
-                                "maxAcceptableDelay": 0,
+                                "maxAcceptableDelay": 191,
 
                                 "locked": false
 
@@ -18542,21 +18300,21 @@
 
                                 "serviceTime_MMSS": "0:0",
 
-                                "capacityWeight": 1,
+                                "capacityWeight": 0.808,
 
-                                "capacityVolume": 1,
+                                "capacityVolume": 0.56,
 
                                 "capacityValue3": 0,
 
-                                "arrivalDateTime": "2018-01-26T21:48:05+00:00",
+                                "arrivalDateTime": "2018-01-26T19:44:09+00:00",
 
-                                "calculatedMileage": 25.1,
+                                "calculatedMileage": 31.8,
 
-                                "calculatedTravelTime": 49.6,
+                                "calculatedTravelTime": 47.33,
 
-                                "actualTravelTime": 44.64,
+                                "actualTravelTime": 42.59,
 
-                                "deliverySequenceNumber": 5,
+                                "deliverySequenceNumber": 6,
 
                                 "activityType": "DEPOT",
 
@@ -18564,7 +18322,7 @@
 
                                 "vehicleName": "VAN-3-4251",
 
-                                "departureTime": "2018-01-26T21:48:05+00:00",
+                                "departureTime": "2018-01-26T19:44:09+00:00",
 
                                 "customerRefNum": null,
 
@@ -18578,7 +18336,7 @@
 
                                 "status": null,
 
-                                "maxAcceptableDelay": 715,
+                                "maxAcceptableDelay": 8151,
 
                                 "locked": false
 
@@ -18588,9 +18346,9 @@
 
                         "carrier": null,
 
-                        "calculatedTravelTime": 10963,
+                        "calculatedTravelTime": 7149,
 
-                        "calculatedTravelDistance": 104.219999,
+                        "calculatedTravelDistance": 73.14,
 
                         "externalReferenceKey": "675bd2a3-0e0c-42a9-bf6a-5ca7acc7cac5"
 
@@ -18706,11 +18464,11 @@
 
                                 "serviceTime_MMSS": "44:0",
 
-                                "capacityWeight": 466.605,
+                                "capacityWeight": 307.454,
 
-                                "capacityVolume": 9379.797,
+                                "capacityVolume": 8973.522,
 
-                                "capacityValue3": 2147483642,
+                                "capacityValue3": 2147483639,
 
                                 "arrivalDateTime": "2018-01-26T15:00:00+00:00",
 
@@ -18742,7 +18500,7 @@
 
                                 "status": null,
 
-                                "maxAcceptableDelay": 5009,
+                                "maxAcceptableDelay": 0,
 
                                 "locked": false
 
@@ -18752,15 +18510,75 @@
 
                                 "id": null,
 
-                                "reservationId": "18933673262180123212924426",
+                                "reservationId": "18862442642180125000239755",
 
-                                "fromTime": "2018-01-26T17:00:00+00:00",
+                                "fromTime": "2018-01-26T15:00:00+00:00",
+
+                                "toTime": "2018-01-26T17:00:00+00:00",
+
+                                "latitude": 51.828236,
+
+                                "longitude": -4.740791,
+
+                                "serviceTime": 7,
+
+                                "serviceTime_MMSS": "7:0",
+
+                                "capacityWeight": 30.75,
+
+                                "capacityVolume": 82,
+
+                                "capacityValue3": 1,
+
+                                "arrivalDateTime": "2018-01-26T16:15:24+00:00",
+
+                                "calculatedMileage": 18.55,
+
+                                "calculatedTravelTime": 31.39,
+
+                                "actualTravelTime": 28.26,
+
+                                "deliverySequenceNumber": 2,
+
+                                "activityType": "ORDER",
+
+                                "tags": "DEFAULT",
+
+                                "vehicleName": "VAN-4-4251",
+
+                                "departureTime": "2018-01-26T16:22:24+00:00",
+
+                                "customerRefNum": null,
+
+                                "postalcode": "SA667HD",
+
+                                "orderNumber": "18862442642",
+
+                                "shiftAttributes": "DEFAULT",
+
+                                "shiftId": "WAVE 3 TWICE DAILY NS NW EVN",
+
+                                "status": "CONFIRMED",
+
+                                "maxAcceptableDelay": 0,
+
+                                "locked": false
+
+                            },
+
+                            {
+
+                                "id": null,
+
+                                "reservationId": "18933132249180124130837408",
+
+                                "fromTime": "2018-01-26T16:00:00+00:00",
 
                                 "toTime": "2018-01-26T18:00:00+00:00",
 
-                                "latitude": 51.678515,
+                                "latitude": 51.918333,
 
-                                "longitude": -4.911419,
+                                "longitude": -4.6453,
 
                                 "serviceTime": 7,
 
@@ -18772,15 +18590,15 @@
 
                                 "capacityValue3": 1,
 
-                                "arrivalDateTime": "2018-01-26T15:50:36+00:00",
+                                "arrivalDateTime": "2018-01-26T16:41:06+00:00",
 
-                                "calculatedMileage": 2.18,
+                                "calculatedMileage": 8.57,
 
-                                "calculatedTravelTime": 6.59,
+                                "calculatedTravelTime": 18.69,
 
-                                "actualTravelTime": 5.92,
+                                "actualTravelTime": 16.82,
 
-                                "deliverySequenceNumber": 2,
+                                "deliverySequenceNumber": 3,
 
                                 "activityType": "ORDER",
 
@@ -18788,13 +18606,13 @@
 
                                 "vehicleName": "VAN-4-4251",
 
-                                "departureTime": "2018-01-26T17:07:34+00:00",
+                                "departureTime": "2018-01-26T16:48:40+00:00",
 
                                 "customerRefNum": null,
 
-                                "postalcode": "SA714PS",
+                                "postalcode": "SA340XX",
 
-                                "orderNumber": "18933673262",
+                                "orderNumber": "18933132249",
 
                                 "shiftAttributes": "DEFAULT",
 
@@ -18802,7 +18620,7 @@
 
                                 "status": "CONFIRMED",
 
-                                "maxAcceptableDelay": 5009,
+                                "maxAcceptableDelay": 0,
 
                                 "locked": false
 
@@ -18812,79 +18630,19 @@
 
                                 "id": null,
 
-                                "reservationId": "18947813886180124180334557",
+                                "reservationId": "18936772176180124212535148",
 
                                 "fromTime": "2018-01-26T17:00:00+00:00",
 
-                                "toTime": "2018-01-26T18:00:00+00:00",
+                                "toTime": "2018-01-26T19:00:00+00:00",
 
-                                "latitude": 51.737279,
+                                "latitude": 52.132169,
 
-                                "longitude": -4.931043,
-
-                                "serviceTime": 7,
-
-                                "serviceTime_MMSS": "7:33",
-
-                                "capacityWeight": 30.75,
-
-                                "capacityVolume": 107.846,
-
-                                "capacityValue3": 1,
-
-                                "arrivalDateTime": "2018-01-26T17:21:42+00:00",
-
-                                "calculatedMileage": 5.83,
-
-                                "calculatedTravelTime": 14.13,
-
-                                "actualTravelTime": 12.72,
-
-                               "deliverySequenceNumber": 3,
-
-                                "activityType": "ORDER",
-
-                                "tags": "DEFAULT",
-
-                                "vehicleName": "VAN-4-4251",
-
-                                "departureTime": "2018-01-26T17:29:15+00:00",
-
-                                "customerRefNum": null,
-
-                                "postalcode": "SA731NB",
-
-                                "orderNumber": "18947813886",
-
-                                "shiftAttributes": "DEFAULT",
-
-                                "shiftId": "WAVE 3 TWICE DAILY NS NW EVN",
-
-                                "status": "CONFIRMED",
-
-                                "maxAcceptableDelay": 845,
-
-                                "locked": false
-
-                            },
-
-                            {
-
-                                "id": null,
-
-                                "reservationId": "18922717689180124190100648",
-
-                                "fromTime": "2018-01-26T18:00:00+00:00",
-
-                                "toTime": "2018-01-26T20:00:00+00:00",
-
-                                "latitude": 51.997399,
-
-                                "longitude": -4.638975,
+                                "longitude": -4.564687,
 
                                 "serviceTime": 7,
 
-                                "serviceTime_MMSS": "7:15",
+                                "serviceTime_MMSS": "7:34",
 
                                 "capacityWeight": 30.75,
 
@@ -18892,13 +18650,13 @@
 
                                 "capacityValue3": 1,
 
-                                "arrivalDateTime": "2018-01-26T18:18:01+00:00",
+                                "arrivalDateTime": "2018-01-26T17:24:00+00:00",
 
-                                "calculatedMileage": 30.28,
+                                "calculatedMileage": 19.1,
 
-                                "calculatedTravelTime": 48.76,
+                                "calculatedTravelTime": 35.33,
 
-                                "actualTravelTime": 43.88,
+                                "actualTravelTime": 31.8,
 
                                 "deliverySequenceNumber": 4,
 
@@ -18908,13 +18666,13 @@
 
                                 "vehicleName": "VAN-4-4251",
 
-                                "departureTime": "2018-01-26T18:25:16+00:00",
+                                "departureTime": "2018-01-26T17:31:34+00:00",
 
                                 "customerRefNum": null,
 
-                                "postalcode": "SA370HY",
+                                "postalcode": "SA432DJ",
 
-                                "orderNumber": "18922717689",
+                                "orderNumber": "18936772176",
 
                                 "shiftAttributes": "DEFAULT",
 
@@ -18922,7 +18680,7 @@
 
                                 "status": "CONFIRMED",
 
-                                "maxAcceptableDelay": 845,
+                                "maxAcceptableDelay": 0,
 
                                 "locked": false
 
@@ -18932,57 +18690,177 @@
 
                                 "id": null,
 
-                                "reservationId": "3126E29C-7CB5-4E82-9B98-3AAF4C85EE39",
+                                "reservationId": "1855699562318012419003159",
 
-                                "fromTime": "2018-01-26T18:30:00+00:00",
+                                "fromTime": "2018-01-26T17:00:00+00:00",
 
-                                "toTime": "2018-01-26T19:30:00+00:00",
+                                "toTime": "2018-01-26T19:00:00+00:00",
 
-                                "latitude": 51.997399,
+                                "latitude": 52.213501,
 
-                                "longitude": -4.638975,
+                                "longitude": -4.360512,
 
-                                "serviceTime": 30,
+                                "serviceTime": 7,
 
-                                "serviceTime_MMSS": "30:0",
+                                "serviceTime_MMSS": "7:33",
 
-                                "capacityWeight": 1,
+                                "capacityWeight": 31.704,
 
-                                "capacityVolume": 1,
+                                "capacityVolume": 107.721,
 
-                                "capacityValue3": 0,
+                                "capacityValue3": 1,
 
-                                "arrivalDateTime": "2018-01-26T18:25:16+00:00",
+                                "arrivalDateTime": "2018-01-26T18:01:07+00:00",
 
-                                "calculatedMileage": 0.01,
+                                "calculatedMileage": 17.48,
 
-                                "calculatedTravelTime": 0,
+                                "calculatedTravelTime": 29.55,
 
-                                "actualTravelTime": 0,
+                                "actualTravelTime": 26.58,
 
                                 "deliverySequenceNumber": 5,
 
-                                "activityType": "BREAK",
+                                "activityType": "ORDER",
 
                                 "tags": "DEFAULT",
 
                                 "vehicleName": "VAN-4-4251",
 
-                                "departureTime": "2018-01-26T19:00:00+00:00",
+                                "departureTime": "2018-01-26T18:08:40+00:00",
 
                                 "customerRefNum": null,
 
-                                "postalcode": null,
+                                "postalcode": "SA459QD",
 
-                                "orderNumber": null,
+                                "orderNumber": "18556995623",
 
                                 "shiftAttributes": "DEFAULT",
 
                                 "shiftId": "WAVE 3 TWICE DAILY NS NW EVN",
 
-                                "status": null,
+                                "status": "CONFIRMED",
 
-                                "maxAcceptableDelay": 845,
+                                "maxAcceptableDelay": 0,
+
+                                "locked": false
+
+                            },
+
+                            {
+
+                                "id": null,
+
+                                "reservationId": "698949467318010401002365",
+
+                                "fromTime": "2018-01-26T18:00:00+00:00",
+
+                                "toTime": "2018-01-26T20:00:00+00:00",
+
+                                "latitude": 52.206144,
+
+                                "longitude": -4.321324,
+
+                                "serviceTime": 8,
+
+                                "serviceTime_MMSS": "8:39",
+
+                                "capacityWeight": 40.463,
+
+                                "capacityVolume": 143.899,
+
+                                "capacityValue3": 1,
+
+                                "arrivalDateTime": "2018-01-26T18:15:00+00:00",
+
+                                "calculatedMileage": 2.18,
+
+                                "calculatedTravelTime": 6.33,
+
+                                "actualTravelTime": 5.7,
+
+                                "deliverySequenceNumber": 6,
+
+                                "activityType": "ORDER",
+
+                                "tags": "DEFAULT",
+
+                                "vehicleName": "VAN-4-4251",
+
+                                "departureTime": "2018-01-26T18:23:39+00:00",
+
+                                "customerRefNum": null,
+
+                                "postalcode": "SA470QA",
+
+                                "orderNumber": "18945873973",
+
+                                "shiftAttributes": "DEFAULT",
+
+                                "shiftId": "WAVE 3 TWICE DAILY NS NW EVN",
+
+                                "status": "CONFIRMED",
+
+                                "maxAcceptableDelay": 0,
+
+                                "locked": false
+
+                            },
+
+                            {
+
+                                "id": null,
+
+                                "reservationId": "18932884963180124151647781",
+
+                                "fromTime": "2018-01-26T18:00:00+00:00",
+
+                                "toTime": "2018-01-26T20:00:00+00:00",
+
+                                "latitude": 52.137502,
+
+                                "longitude": -4.388003,
+
+                                "serviceTime": 7,
+
+                                "serviceTime_MMSS": "7:33",
+
+                                "capacityWeight": 42.966,
+
+                                "capacityVolume": 111.873,
+
+                                "capacityValue3": 1,
+
+                                "arrivalDateTime": "2018-01-26T18:36:39+00:00",
+
+                                "calculatedMileage": 7.12,
+
+                                "calculatedTravelTime": 13,
+
+                                "actualTravelTime": 11.69,
+
+                                "deliverySequenceNumber": 7,
+
+                                "activityType": "ORDER",
+
+                                "tags": "DEFAULT",
+
+                                "vehicleName": "VAN-4-4251",
+
+                                "departureTime": "2018-01-26T18:44:12+00:00",
+
+                                "customerRefNum": null,
+
+                                "postalcode": "SA446HU",
+
+                                "orderNumber": "18932884963",
+
+                                "shiftAttributes": "DEFAULT",
+
+                                "shiftId": "WAVE 3 TWICE DAILY NS NW EVN",
+
+                                "status": "CONFIRMED",
+
+                                "maxAcceptableDelay": 0,
 
                                 "locked": false
 
@@ -19006,21 +18884,21 @@
 
                                 "serviceTime_MMSS": "9:25",
 
-                                "capacityWeight": 87.21,
+                                "capacityWeight": 87.209,
 
                                 "capacityVolume": 214.205,
 
                                 "capacityValue3": 1,
 
-                                "arrivalDateTime": "2018-01-26T19:30:53+00:00",
+                                "arrivalDateTime": "2018-01-26T18:46:03+00:00",
 
-                                "calculatedMileage": 19.35,
+                                "calculatedMileage": 0.68,
 
-                                "calculatedTravelTime": 30.88,
+                                "calculatedTravelTime": 1.85,
 
-                                "actualTravelTime": 27.78,
+                                "actualTravelTime": 1.65,
 
-                                "deliverySequenceNumber": 6,
+                                "deliverySequenceNumber": 8,
 
                                 "activityType": "ORDER",
 
@@ -19028,7 +18906,7 @@
 
                                 "vehicleName": "VAN-4-4251",
 
-                                "departureTime": "2018-01-26T19:40:18+00:00",
+                                "departureTime": "2018-01-26T18:55:28+00:00",
 
                                 "customerRefNum": null,
 
@@ -19042,7 +18920,7 @@
 
                                 "status": "CONFIRMED",
 
-                                "maxAcceptableDelay": 561,
+                                "maxAcceptableDelay": 0,
 
                                 "locked": false
 
@@ -19052,35 +18930,35 @@
 
                                 "id": null,
 
-                                "reservationId": "18806098870180124060632263",
+                                "reservationId": "5792251688180124213938107",
 
-                                "fromTime": "2018-01-26T19:00:00+00:00",
+                                "fromTime": "2018-01-26T18:00:00+00:00",
 
-                                "toTime": "2018-01-26T21:00:00+00:00",
+                                "toTime": "2018-01-26T20:00:00+00:00",
 
-                                "latitude": 51.928074,
+                                "latitude": 52.102779,
 
-                                "longitude": -5.00279,
+                                "longitude": -4.612828,
 
-                                "serviceTime": 8,
+                                "serviceTime": 11,
 
-                                "serviceTime_MMSS": "8:15",
+                                "serviceTime_MMSS": "11:4",
 
-                                "capacityWeight": 33.93,
+                                "capacityWeight": 77.944,
 
-                                "capacityVolume": 134.149,
+                                "capacityVolume": 202.774,
 
                                 "capacityValue3": 1,
 
-                                "arrivalDateTime": "2018-01-26T20:42:24+00:00",
+                                "arrivalDateTime": "2018-01-26T19:12:02+00:00",
 
-                                "calculatedMileage": 37.5,
+                                "calculatedMileage": 10.71,
 
-                                "calculatedTravelTime": 62.1,
+                                "calculatedTravelTime": 16.56,
 
-                                "actualTravelTime": 55.88,
+                                "actualTravelTime": 14.91,
 
-                                "deliverySequenceNumber": 7,
+                                "deliverySequenceNumber": 9,
 
                                 "activityType": "ORDER",
 
@@ -19088,13 +18966,13 @@
 
                                 "vehicleName": "VAN-4-4251",
 
-                                "departureTime": "2018-01-26T20:50:39+00:00",
+                                "departureTime": "2018-01-26T19:23:06+00:00",
 
                                 "customerRefNum": null,
 
-                                "postalcode": "SA625SP",
+                                "postalcode": "SA431RH",
 
-                                "orderNumber": "18806098870",
+                                "orderNumber": "5792251688",
 
                                 "shiftAttributes": "DEFAULT",
 
@@ -19102,7 +18980,67 @@
 
                                 "status": "CONFIRMED",
 
-                                "maxAcceptableDelay": 561,
+                                "maxAcceptableDelay": 0,
+
+                                "locked": false
+
+                            },
+
+                            {
+
+                                "id": null,
+
+                                "reservationId": "3126E29C-7CB5-4E82-9B98-3AAF4C85EE39",
+
+                                "fromTime": "2018-01-26T18:30:00+00:00",
+
+                                "toTime": "2018-01-26T19:30:00+00:00",
+
+                                "latitude": 52.102779,
+
+                                "longitude": -4.612828,
+
+                                "serviceTime": 30,
+
+                                "serviceTime_MMSS": "30:0",
+
+                                "capacityWeight": 1,
+
+                                "capacityVolume": 1,
+
+                                "capacityValue3": 0,
+
+                                "arrivalDateTime": "2018-01-26T19:23:06+00:00",
+
+                                "calculatedMileage": 0.02,
+
+                                "calculatedTravelTime": 0,
+
+                                "actualTravelTime": 0,
+
+                                "deliverySequenceNumber": 10,
+
+                                "activityType": "BREAK",
+
+                                "tags": "DEFAULT",
+
+                                "vehicleName": "VAN-4-4251",
+
+                                "departureTime": "2018-01-26T19:53:06+00:00",
+
+                                "customerRefNum": null,
+
+                                "postalcode": null,
+
+                                "orderNumber": null,
+
+                                "shiftAttributes": "DEFAULT",
+
+                                "shiftId": "WAVE 3 TWICE DAILY NS NW EVN",
+
+                                "status": null,
+
+                                "maxAcceptableDelay": 0,
 
                                 "locked": false
 
@@ -19132,15 +19070,15 @@
 
                                 "capacityValue3": 0,
 
-                                "arrivalDateTime": "2018-01-26T21:27:07+00:00",
+                                "arrivalDateTime": "2018-01-26T20:57:30+00:00",
 
-                                "calculatedMileage": 20.3,
+                                "calculatedMileage": 39.49,
 
-                                "calculatedTravelTime": 36.46,
+                                "calculatedTravelTime": 64.41,
 
-                                "actualTravelTime": 32.82,
+                                "actualTravelTime": 57.96,
 
-                                "deliverySequenceNumber": 8,
+                                "deliverySequenceNumber": 11,
 
                                 "activityType": "DEPOT",
 
@@ -19148,7 +19086,7 @@
 
                                 "vehicleName": "VAN-4-4251",
 
-                                "departureTime": "2018-01-26T21:27:07+00:00",
+                                "departureTime": "2018-01-26T20:57:30+00:00",
 
                                 "customerRefNum": null,
 
@@ -19162,7 +19100,7 @@
 
                                 "status": null,
 
-                                "maxAcceptableDelay": 1973,
+                                "maxAcceptableDelay": 3750,
 
                                 "locked": false
 
@@ -19172,9 +19110,9 @@
 
                         "carrier": null,
 
-                        "calculatedTravelTime": 11937,
+                        "calculatedTravelTime": 13029,
 
-                        "calculatedTravelDistance": 115.45,
+                        "calculatedTravelDistance": 123.9,
 
                         "externalReferenceKey": "5640e062-97c9-490b-9d37-0e93e353afe3"
 
